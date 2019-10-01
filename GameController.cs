@@ -19,7 +19,8 @@ public class Done_GameController : MonoBehaviour
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI levelText;
     public Text restartText;
-    public Text gameOverText;
+    // public Text gameOverText;
+    public TextMeshProUGUI gameOverText;
 
 
     private bool gameOver;
@@ -96,7 +97,7 @@ public class Done_GameController : MonoBehaviour
 
     public void GameOver()
     {
-        gameOverText.text = "Game Over!";
+        gameOverText.text = "GAME OVER";
         gameOver = true;
     }
 
