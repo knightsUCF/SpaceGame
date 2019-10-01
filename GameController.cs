@@ -50,7 +50,7 @@ public class Done_GameController : MonoBehaviour
     {
         if (restart)
         {
-            if (Input.GetKeyDown(KeyCode.R))
+            if (Input.GetKeyDown(KeyCode.R) || Input.GetButton("Fire1"))
             {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             }
