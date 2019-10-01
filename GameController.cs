@@ -117,7 +117,7 @@ public class Done_GameController : MonoBehaviour
 
     void CheckIfToAdvanceToNextLevel()
     {
-        if (score > 100 && currentLevel == 1)
+        if (score > 300 && currentLevel == 1)
         {
             currentLevel = 2;
             NewLevel(2);
@@ -125,7 +125,7 @@ public class Done_GameController : MonoBehaviour
             hazardCount = hazardCount * 2;
         }
 
-        if (score > 200 && currentLevel == 2)
+        if (score > 600 && currentLevel == 2)
         {
             currentLevel = 3;
             NewLevel(3);
@@ -133,7 +133,7 @@ public class Done_GameController : MonoBehaviour
             hazardCount = hazardCount * 2;
         }
 
-        if (score > 300 && currentLevel == 3)
+        if (score > 900 && currentLevel == 3)
         {
             currentLevel = 4;
             NewLevel(4);
@@ -141,7 +141,7 @@ public class Done_GameController : MonoBehaviour
             hazardCount = hazardCount * 2;
         }
 
-        if (score > 400 && currentLevel == 4)
+        if (score > 1200 && currentLevel == 4)
         {
             currentLevel = 5;
             NewLevel(5);
@@ -149,10 +149,42 @@ public class Done_GameController : MonoBehaviour
             hazardCount = hazardCount * 2;
         }
 
-        if (score > 500 && currentLevel == 5)
+        if (score > 1500 && currentLevel == 5)
         {
             currentLevel = 6;
             NewLevel(6);
+            Invoke("ClearLevelText", 2);
+            hazardCount = hazardCount * 2;
+        }
+
+        if (score > 1800 && currentLevel == 6)
+        {
+            currentLevel = 7;
+            NewLevel(7);
+            Invoke("ClearLevelText", 2);
+            hazardCount = hazardCount * 2;
+        }
+
+        if (score > 2100 && currentLevel == 7)
+        {
+            currentLevel = 8;
+            NewLevel(8);
+            Invoke("ClearLevelText", 2);
+            hazardCount = hazardCount * 2;
+        }
+
+        if (score > 2400 && currentLevel == 8)
+        {
+            currentLevel = 9;
+            NewLevel(9);
+            Invoke("ClearLevelText", 2);
+            hazardCount = hazardCount * 2;
+        }
+
+        if (score > 2700 && currentLevel == 9)
+        {
+            currentLevel = 10;
+            NewLevel(10);
             Invoke("ClearLevelText", 2);
             hazardCount = hazardCount * 2;
         }
