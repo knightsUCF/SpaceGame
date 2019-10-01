@@ -11,3 +11,11 @@ rotation 43.25, 0, 0
 Starfield Skybox
 
 OVRCameraRig in scene for VR
+
+
+
+
+For direct on view:
+
+pos: 0, 1.75, -4.5
+rotation: 3.37, 0, 0
