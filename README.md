@@ -41,6 +41,9 @@ width 200, height 50
 font size 1
 
 for panel
+-1670, -885, -739
 
--1600, -1035, 0
+scale
+
+0.03, 0.03, 0.03
 
