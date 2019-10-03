@@ -30,3 +30,12 @@ rotation: y 40
 VR Screenshake shader code:
 
 http://www.zulubo.com/gamedev/2019/1/5/vr-screen-shake-the-art-of-not-throwing-up
+
+
+
+Text Mesh Overlay Score
+
+515, 182, -530
+width 200, height 50
+
+font size 1
