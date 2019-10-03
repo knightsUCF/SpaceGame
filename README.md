@@ -39,3 +39,8 @@ Text Mesh Overlay Score
 width 200, height 50
 
 font size 1
+
+for panel
+
+-1000, 533, 445
+
