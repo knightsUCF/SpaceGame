@@ -27,3 +27,6 @@ pos: 560, 240, -337
 rotation: y 40
 
 
+VR Screenshake shader code:
+
+http://www.zulubo.com/gamedev/2019/1/5/vr-screen-shake-the-art-of-not-throwing-up
