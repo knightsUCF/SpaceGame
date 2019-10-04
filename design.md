@@ -14,7 +14,21 @@
 
 
 
+# Game Progression
 
+* different levels, different ship models
+
+* increased formations and resilience of AI
+
+* increased loot power ups, weapons, bonuses
+
+* faster asteroids
+
+* different skyboxes (worlds), planet arrangements
+
+* bosses?
+
+* 
 
 
 # Menus (GUI)
@@ -85,9 +99,12 @@ Use the iteration model from Faster Than Light, where they hardly had a game des
 
 * the asteroids are loot boxes
 
+* ships are also loot boxes
+
 * like in mario, randomize the power up we get
 
 * there will be also cross randomization strategies from the rogue genre
+
 
 # Loot Model
 
