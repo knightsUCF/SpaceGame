@@ -103,6 +103,14 @@ Use the iteration model from Faster Than Light, where they hardly had a game des
 * in the position of where we would place a large TV to our side
 
 
+# Art
+
+* main models will be:
+
+ * ships
+ * planets
+ * skyboxes
+ * particle effects
 
 
 
