@@ -6,7 +6,7 @@
   * game start transitions
   * game end transitions
   * level transitions
-  * sufficient explanation for the game core
+  * sufficient explanation for the doable stuff
   * making sure the player is doing the right thing to progress along
 
 
