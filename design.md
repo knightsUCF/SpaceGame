@@ -4,6 +4,29 @@
 
 * determine tasks which can be done without VR
 
+* get the intro and menus in early
+
+<p>
+
+1. Menu
+
+2. Main Game Loop
+
+
+
+
+
+
+# Menus (GUI)
+
+* use the SF blue pack for windows and menu buttons
+
+* create complete menu from these elements
+
+* create score closer to home, in upper right hand corner, slightly rotate
+
+
+
 
 
 # How to Find the Fun
