@@ -46,3 +46,31 @@ for panel
 scale
 1
 
+To get the right trigger on the XBOX One controller:
+
+void Update ()
+	{
+		if ((Input.GetButton("Fire1") || Mathf.Round(Input.GetAxisRaw("PrimaryAttack")) > 0) && Time.time > nextFire) 
+		{
+    
+    ...
+    }
+
+in player controller
+
+
+In project settings, input settings should be:
+
+Name: "PrimaryAttack"
+
+Everything zeroed out, except from bottom up: 1, 0, 0
+
+
+snap on, invert off
+
+Type: Joystick Axis
+Axis: 3rd axis (10th axis for just RT, instead of both LT and RT)
+Get Motion from All Joysticks
+
+
+
