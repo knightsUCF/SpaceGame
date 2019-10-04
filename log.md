@@ -2,6 +2,8 @@
 
 * begin on order of tasks in the design document
 
+* get to MVP ASAP
+
 # 10 / 4 / 2019
 
 * creating the design document
