@@ -106,11 +106,10 @@ Use the iteration model from Faster Than Light, where they hardly had a game des
 # Art
 
 * main models will be:
-
- * ships
- * planets
- * skyboxes
- * particle effects
+  * ships
+  * planets
+  * skyboxes
+  * particle effects
 
 
 
