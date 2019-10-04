@@ -69,5 +69,6 @@ Type: Joystick Axis
 Axis: 3rd axis (10th axis for just RT, instead of both LT and RT)
 Get Motion from All Joysticks
 
+https://stackoverflow.com/questions/28058454/xbox-one-right-trigger-not-working
 
 
