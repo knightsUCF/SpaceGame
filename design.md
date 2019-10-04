@@ -26,6 +26,12 @@ Make the restart period long enough to prevent the player from losing.
 
 * there will be also cross randomization strategies from the rogue genre
 
+# Loot Model
+
+* perhaps some sort of circlular half outline, with some goodie in the middle of the sphere
+
+* two glowing arches, rotating, like in Mer de Noms, those spin towards you taking place of the asteroid
+
 
 # Roguelike
 
