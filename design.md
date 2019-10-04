@@ -131,7 +131,9 @@ Use the iteration model from Faster Than Light, where they hardly had a game des
 * create a skip button for the intro to keep the game loop continous and always accessible
 
 
+# Code
 
+* use the existing code base but build on a clean and simple foundation
 
 
 
