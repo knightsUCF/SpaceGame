@@ -24,11 +24,13 @@
 
 * faster asteroids
 
+* different colored asteroids, and also different shapes and arrangements
+
 * different skyboxes (worlds), planet arrangements
 
 * bosses?
 
-* 
+* ...
 
 
 # Menus (GUI)
