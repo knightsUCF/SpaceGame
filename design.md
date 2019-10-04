@@ -1,5 +1,8 @@
 # Order of Tasks
 
+* keep outlining here important stuff
+
+* determine tasks which can be done without VR
 
 
 
