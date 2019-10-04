@@ -5,6 +5,7 @@
 * this includes:
   * game start transitions
   * game end transitions
+  * game restart transitions
   * level transitions
   * sufficient explanation for the doable stuff
   * making sure the player is doing the right thing to progress along
