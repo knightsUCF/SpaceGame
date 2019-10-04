@@ -51,11 +51,8 @@ scale
 void Update ()
 	{
 		if ((Input.GetButton("Fire1") || Mathf.Round(Input.GetAxisRaw("PrimaryAttack")) > 0) && Time.time > nextFire) 
-		{
-    
-    ...
-    }
-
+		
+ 
 in player controller
 
 
