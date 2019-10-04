@@ -1,3 +1,17 @@
+# Main Game Loop
+
+* make sure we can experience the game in a continhuous comfortable game loop
+
+* this includes:
+  * game start transitions
+  * game end transitions
+  * level transitions
+  * sufficient explanation for the game core
+  * making sure the player is doing the right thing to progress along
+
+
+
+
 # Start Ship Place
 
 * start the ship in the middle forward
@@ -12,9 +26,11 @@
 
 # Game Over
 
-On game over screen, give some sort of audiovisual feedback in the moment that we wait to restart game.
+* on game over screen, give some sort of audiovisual feedback in the moment that we wait to restart game
 
-Make the restart period long enough to prevent the player from losing.
+* make the restart period long enough to prevent the player from losing
+
+* on game over perhaps we can watch our action of our death in a randomized angle each time, for that loadout screen, before we are allowed to restart the game, upon which perhaps something comes up "R to Restart" so whe know we can restart then, especially at the end of some sort of musical queue
 
 
 
@@ -48,6 +64,8 @@ Make the restart period long enough to prevent the player from losing.
 * create log screen on the left, which later can be used as an info display for the player
 
 * in the position of where we would place a large TV to our side
+
+
 
 
 
