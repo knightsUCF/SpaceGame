@@ -1,3 +1,7 @@
+# 10 / 5 / 2019
+
+* begin on order of tasks in the design document
+
 # 10 / 4 / 2019
 
 * creating the design document
