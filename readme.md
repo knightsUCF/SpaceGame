@@ -12,13 +12,11 @@ We want to preserve the fun arcade elements, like transitions on losing, restart
 
 
 
-<p>
-<p>
 
 
 
 
-<p> Move these somewhere else eventually
+<p> Move these game settings somewhere else eventually:
 
 
 # Camera
