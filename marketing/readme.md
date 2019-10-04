@@ -7,8 +7,8 @@
 
 * free demo on steam will do wonders for marketing
 
-* send out press and promotional releases to streamers, and also VR enthusiast on the net
+* send out press and promotional releases to streamers, and also VR enthusiasts on the net
 
-* with a demo, don't even need to send out keys, but we still can so streamer can excitedly tell the viewers (give them value) that the game is also available as a free demo, can't resist
+* with a demo, we don't even need to send out keys, but we still can so streamer can excitedly tell the viewers (give them value) that the game is also available as a free demo, can't resist
 
 
