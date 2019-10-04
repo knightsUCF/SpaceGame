@@ -38,6 +38,8 @@ Use the iteration model from Faster Than Light, where they hardly had a game des
 
 * make sure we can experience the game in a continhuous comfortable game loop
 
+* a continous game loop will create flow and a proper game experience for the players
+
 * this includes:
   * game start transitions
   * game end transitions
@@ -110,6 +112,15 @@ Use the iteration model from Faster Than Light, where they hardly had a game des
   * planets
   * skyboxes
   * particle effects
+
+
+# Story Intro
+
+* have this early in the game, even if this is just a panel
+
+* perhaps in VR we could be flying through the asteroids, next to a planet, while this intro plays out
+
+* create a skip button for the intro to keep the game loop continous and always accessible
 
 
 
