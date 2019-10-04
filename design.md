@@ -1,4 +1,9 @@
-# The Iteration Model
+# Order of Tasks
+
+
+
+
+# How to Find the Fun
 
 Use the iteration model from Faster Than Light, where they hardly had a game design document, and found the fun through iteration
 
@@ -70,6 +75,8 @@ Use the iteration model from Faster Than Light, where they hardly had a game des
 * create log screen on the left, which later can be used as an info display for the player
 
 * in the position of where we would place a large TV to our side
+
+
 
 
 
