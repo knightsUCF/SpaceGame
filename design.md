@@ -47,6 +47,14 @@ Use the iteration model from Faster Than Light, where they hardly had a game des
   * level transitions
   * sufficient explanation for the doable stuff
   * making sure the player is doing the right thing to progress along
+  
+* offer a pause button from early on
+
+* can also do some voice guided computer tutorial stuff, but as long as we know what buttons are the rest should work first in a continous way before addressing button configurations
+
+* later for button configurations we can let the player assign their own buttons
+
+* perhaps for now we can have a diagram of an xbox controller, on which we can flash what to press, and then during gameplay also do that, so an average gamer will have every clue to figure out the gameplay without experiencing any sort of pain points
 
 
 
