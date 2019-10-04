@@ -2,7 +2,7 @@
 
 
 
-Camera
+# Camera
 
 pos - 0, 10, -5.35
 rotation 43.25, 0, 0
@@ -46,7 +46,7 @@ for panel
 scale
 1
 
-To get the right trigger on the XBOX One controller:
+# To get the right trigger on the XBOX One controller:
 
 void Update ()
 	{
