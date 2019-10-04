@@ -1,3 +1,8 @@
+# The Iteration Model
+
+Use the iteration model from Faster Than Light, where they hardly had a game design document, and found the fun through iteration
+
+
 # Main Game Loop
 
 * make sure we can experience the game in a continhuous comfortable game loop
