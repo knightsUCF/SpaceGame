@@ -33,6 +33,16 @@ Make the restart period long enough to prevent the player from losing.
 
 * rogue elements will make the game replayable, each time a unique experience
 
+# Asteroid Speed
+
+* increase the speed of the base asteroids on further levels, with random once in a while asteroids going super fast past you
+
+# Log Screen
+
+* create log screen on the left, which later can be used as an info display for the player
+
+* in the position of where we would place a large TV to our side
+
 
 
 
