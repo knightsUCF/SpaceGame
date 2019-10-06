@@ -3,7 +3,7 @@
 
 * we have nice power ups to try out for free: https://assetstore.unity.com/packages/vfx/particles/powerup-particles-16458
 
-* these will be reveal when some asteroids and or ships are destroyed
+* these will be revealed when some asteroids and or ships are destroyed
 
 * an easy power up to do is triple lasers, perhaps this power up is time based like in Mario, so we don't just give you something forever, which would lower the perceived value of the gift
 
@@ -18,6 +18,8 @@
 * we need lots of progression, and a sense of wonder to make the game fun
 
 * create the intro story mode with a skip button for fast gameplay
+
+* we need a nice overlay GUI, which tells us our score, and how much ammo we have
 
 
 
