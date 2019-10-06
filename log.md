@@ -7,6 +7,8 @@
 
 * hologram pyramid: https://assetstore.unity.com/packages/tools/hologram-pyramid-61735
 
+* another nice hologram
+
 * we have nice power ups to try out for free: https://assetstore.unity.com/packages/vfx/particles/powerup-particles-16458
 
 * these will be revealed when some asteroids and or ships are destroyed
@@ -87,6 +89,8 @@ The other big thing is that we want to use Rogue elements for fun and replayabil
 
 This almost a futuristic game reimagined from the 80s on modern technology.
  
+ 
+ * define the game's architecture as an early TODO
  
 Interesting things:
 
