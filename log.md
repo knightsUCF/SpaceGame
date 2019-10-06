@@ -9,6 +9,8 @@ There is anice sound effect for the menu we could use in the below sound effect 
 
 * search asset store for "laser sound effects", "laser sounds"
 
+* here is a volumetric laser we could do something with: https://assetstore.unity.com/packages/tools/particles-effects/volumetric-laser-beam-40969
+
 * also search for "laser weapon(s)", "laser beams": https://assetstore.unity.com/packages/tools/particles-effects/laser-beams-weapon-systems-pack-18138
 
 
