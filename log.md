@@ -15,6 +15,8 @@ Make the best possible game in 3 months, ready for Early Access. This will pay o
 
 Also use a nice lighting effect, with beautify, or the light set up from Space Journey, to really make the glowing lights pops in the darkness, and against the space backgrounds.
 
+Showing just darkness of course will not sell the game, but if we have all sorts of hologrpahic light effects, along with asteroids, and space ships, and lots of fast movement, that will sell the game.
+
 We could do some triangular arrow like weapon, that has a nice coverage area. Very useful for getting ride of a lot of things in one area, so this would be used in harder levels, and have limited ammo.
 
 We want to create a way for the player to use strategy in what weapons they use, so that they don't waste the weapons, and also for the player to triage and manage strategy with the rogue procedurally generating engine. So they will need to get a feel for the drop and spawn rate of objects.
