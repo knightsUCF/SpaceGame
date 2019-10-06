@@ -5,6 +5,8 @@
 
 * plant out method of prototyping, although we want to have the game in the current ready state at all times, we can still go far with these primitives
 
+* lots of amazing ships we could use here for the final models, and also asteroids, but the pack is $120, so save this until the end: https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-space-pack-138857
+
 * this prototyping pack would be great if we were working on a mario like VR platformer: https://assetstore.unity.com/packages/3d/props/exterior/polygon-prototype-pack-137126
 
 
