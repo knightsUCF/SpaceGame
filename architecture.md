@@ -1,6 +1,22 @@
 
 # Game.cs
 
+Main Update():
+
+     void Update()
+        {
+            if (restart)
+            {
+                if (Input.GetKeyDown(KeyCode.R) || Input.GetButton("Fire1"))
+                {
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+                }
+            }
+
+            CheckIfToAdvanceToNextLevel();
+        }
+
+    
 Wave spawning:
 
 
