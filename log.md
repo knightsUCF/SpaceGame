@@ -187,6 +187,10 @@ Interesting things:
 https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-city-147691
 
 
+* another very nice city asset pack: https://assetstore.unity.com/packages/3d/environments/urban/backstreet-cube-pack-137610
+
+* could totally make a mini game with these, the streets would have to be built one by one, and with simple sims perhaps
+
 # 10 / 5 / 2019
 
 * begin on order of tasks in the design document
