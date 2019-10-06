@@ -7,7 +7,7 @@ Next up:
 3. Try to get the space asset pack to begin work
 4. Experiment with the ships in the game, how they look replacing the standard assets, along with the meteors
 5. Create two basic levels where we get another ship in the next level
-6. Create upgrades, and power ups that we can get when we go over the asteroid
+6. Create upgrades, and power ups that we can get when we go over the asteroid, make sure to have interactive (the more interactive the better) audiovisual feedback when we pick up the item, when the item gets dropped, even if this is just a shining light, some particles, whatever
 7. Create the intro sequence
 8. Create the title screen, even if just a black screen with a title, preferrably against the background of some space thing, so we can immediately tell we are in VR
 9. Create the menu screens using the blue SF UI pack, and also use that swoosh noise from the below SF sound effects pack
