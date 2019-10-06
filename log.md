@@ -199,6 +199,8 @@ https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-city-14769
 
 * simple assets like Kingdoms and Castles are great, because we can still make a game, which doesn't seem small, and yet have the ability to easily create more of these low poly primitive assets
 
+* great asset for prototyping: https://assetstore.unity.com/packages/3d/props/primitive-150-108758
+
 # 10 / 5 / 2019
 
 * begin on order of tasks in the design document
