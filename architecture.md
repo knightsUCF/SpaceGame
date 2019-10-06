@@ -1,12 +1,9 @@
 
-# GameController.cs
+# Game.cs
 
 
 
-# PlayerController.cs
+# Player.cs
 
 
-
-
-Probably rename to Game, and Player
 
