@@ -76,7 +76,7 @@ The other big thing is that we want to use Rogue elements for fun and replayabil
  
  We could also use the roguelike genre description as a selling point of a game.
  
- "Space Game" is an homage to the early space shooter game with roguelike elements. This game is perfect as a "party" game where you would like to show off your VR system to a friend.
+ "Space Game" is an homage to the space shooter genre along with roguelike elements. This game is perfect as a "party" game where you would like to show off your VR system to a friend.
  
  
 Interesting things:
