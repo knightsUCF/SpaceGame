@@ -8,6 +8,7 @@ The state is really the data class, so we want to keep ALL data in State.cs, unl
 
 In this file, architecture.md, we also want to diagram out any configurations. We might have to create a folder for that, "architecture", in which we will upload the png configuration files, and refer to them from here in a numbered order. (Example: See Diagram1.png)
 
+So going back to state, we will have to pull out any state data from Game.cs.
 
 
 
