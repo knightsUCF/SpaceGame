@@ -1,7 +1,11 @@
 
 # 10 / 6 / 2019
 
+For purchasing items, we could have some sort of inter galactic black market, something out of Neuromancer, with the glowing green 3D objects, some sort of data links, perhaps we purchase plans to print in a 3D printer, etc.
+
 One way of getting free advertising is to send out the game keys to magazines which review games.
+
+Nice pick up items: https://assetstore.unity.com/packages/3d/props/modular-pick-up-items-99720
 
 Check out "Enter the Gungeon", a relatively simple game but a success. Every scene is framed by a neon glowing weapon, we need to do the same: https://store.steampowered.com/app/311690/Enter_the_Gungeon/
 
