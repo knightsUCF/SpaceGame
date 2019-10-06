@@ -142,6 +142,7 @@ There is anice sound effect for the menu we could use in the below sound effect 
   
   * light effects are especially good for trailers
   
+  * nice warehouse environment for future games: https://assetstore.unity.com/packages/3d/environments/industrial/warehouse-environment-110654
   
  <br>
  
