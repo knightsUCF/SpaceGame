@@ -191,6 +191,9 @@ https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-city-14769
 
 * could totally make a mini game with these, the streets would have to be built one by one, and with simple sims perhaps
 
+* and yet another great simple town asset, and free, which is begining to give a sense of aesthetic, of what a "small" city building game could be like, along with worker placement: https://assetstore.unity.com/packages/3d/environments/urban/cartown-136585
+
+
 # 10 / 5 / 2019
 
 * begin on order of tasks in the design document
