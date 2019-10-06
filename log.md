@@ -1,5 +1,34 @@
 # 10 / 7 / 2019
 
+Next up: 
+
+1. Order the computer
+2. Work on the game while the computer ships (diagram out the code first here, to get the sense of the basic architecture, what does what, and any plans for rework or direction in the future)
+3. Try to get the space asset pack to begin work
+4. Experiment with the ships in the game, how they look replacing the standard assets, along with the meteors
+5. Create two basic levels where we get another ship in the next level
+6. Create upgrades, and power ups that we can get when we go over the asteroid
+7. Create the intro sequence
+8. Create the title screen, even if just a black screen with a title, preferrably against the background of some space thing, so we can immediately tell we are in VR
+9. Create the menu screens using the blue SF UI pack, and also use that swoosh noise from the below SF sound effects pack
+10. Create a trance playlist song by song, so we can be hands free when we cue up the game instead of having to play the music in the background
+11. With the asset pack create different skyboxes for each level
+12. Create the HUD for the player, which will have the score, and ammo for now
+13. Allow the player to rotate their ship in 3D space in the hangar, or just have the ship be in the hanger, which we can transition to after the level is done, not sure yet if we should transition in the middle of gameplay of a level, maybe when we die, but then we restart the game... not sure
+14. Do some major planning of how the base building will work
+15. Create the build mechanism for laying down the basic tiles
+16. Allow first person navigation in the world
+17. So at this point we want to be able to navigate the base, which we build, so we will also want to carry over resources we earn in the tacticle Space Shooter gameplay, to use those to purchase things and build those things
+18. Allow some sort of worker placement, which will be dependent on the food we grow and other engine building factors
+19. Polish the core game loop -> Title Screen -> Intro (can skip) -> Start Screen -> Tutorial (maybe later) -> Play Game (not sure how we are going to transition between the two, just allow transitioning in the beginning, and then combat mode for one level, and then back to the base, so Base -> Combat -> Base -> Combat -> Base (while we are upgrading each time with our loot)
+20. Create minerals from the different asteroids, which we can use for base upgrades, so we can get titanium, gold, etc, and out of those things we will have enough to build our base, and research plant
+21. Some of the workers we can dedicate (worker placement) to research, so they help our research tree
+22. Create a research tree, even if we have to use basic shapes for the prototype (better to prototype the graphics here than not make any progress toward the research tree)
+23. Create all sorts of cool visual weapon effects, and outlines for things with that shader outline tool
+24. Although up to here might seem a lot, if we get the above done then we have a very solid foundation to build from, here we want to remind ourselves to just keep polishing as you go, no prototypes!
+
+# 10 / 7 / 2019
+
 So even though this might seem like a long drawn out campaign game, this is more similar to a roguelike game such as Spelunky, in that after permadeath we have to restart, which is what keeps players playing, and gives the core replayability to the game. So likewise even though we have this involved environment, the gameplay is like a rogue, where we still start at the beginning and have to build our base over. So our base building, engine building, worker placement, those will be very elegant clean elements like toys, where we can replay like a level of Mario, and still get satisfaction in the basic elements.
 
 People will get a lot of satisfaction just from traversing their space labirynths they create. Even a game like Alice, which is very interesting, there is still some tedium, in trying to figure out how to transverse levels, being stuck in a gray box of the spaceship while you're trying to figure out how to progress, those things are not always particulalry fun, while in this game we give the player a nice Big Mac they can eat right away. The gameplay is immediate, you're right there in space flying, shooting things, building up your base, engine building, worker placement, tile laying -- satisfaction in spades all over. So in that way we can compete in the market. If Spelunky, a 2D game could be such a sensation, we can also create a roguelike in VR with these elements.
