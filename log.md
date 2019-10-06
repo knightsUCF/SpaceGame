@@ -3,6 +3,10 @@
 
 Check out "Enter the Gungeon", a relatively simple game but a success. Every scene is framed by a neon glowing weapon, we need to do the same: https://store.steampowered.com/app/311690/Enter_the_Gungeon/
 
+Put a lot time in making the weapons feel good, like the creators from Dead Cells.
+
+Also use a nice lighting effect, with beautify, or the light set up from Space Journey, to really make the glowing lights pops in the darkness, and against the space backgrounds.
+
 We could do some triangular arrow like weapon, that has a nice coverage area. Very useful for getting ride of a lot of things in one area, so this would be used in harder levels, and have limited ammo.
 
 We want to create a way for the player to use strategy in what weapons they use, so that they don't waste the weapons, and also for the player to triage and manage strategy with the rogue procedurally generating engine. So they will need to get a feel for the drop and spawn rate of objects.
