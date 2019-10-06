@@ -35,6 +35,8 @@
 
 * if we work smart we can get this done
 
+* we could also introduce the concept of biodomes, where we would grow the food
+
 
 
 # 10 / 7 / 2019
