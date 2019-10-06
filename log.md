@@ -193,6 +193,7 @@ https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-city-14769
 
 * and yet another great simple town asset, and free, which is begining to give a sense of aesthetic, of what a "small" city building game could be like, along with worker placement: https://assetstore.unity.com/packages/3d/environments/urban/cartown-136585
 
+* kind of like if we took Kingdoms and Castles, and made that in a modern city building environment, along with VR, and players being able to play both versions
 
 # 10 / 5 / 2019
 
