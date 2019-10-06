@@ -21,7 +21,7 @@
 
 * we need a nice overlay GUI, which tells us our score, and how much ammo we have
 
-* here is a nice power ups set: https://assetstore.unity.com/packages/vfx/particles/power-up-fx-152740 and https://assetstore.unity.com/packages/3d/props/sci-fi-powerup-item-crate-18990
+* here is a nice power ups set: https://assetstore.unity.com/packages/vfx/particles/power-up-fx-152740 and https://assetstore.unity.com/packages/3d/props/sci-fi-powerup-item-crate-18990 and https://assetstore.unity.com/packages/vfx/particles/spells/loot-drop-fx-147479
 
 * we just need to keep iterating on the powerups to make them look badass
 
