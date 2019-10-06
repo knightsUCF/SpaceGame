@@ -9,6 +9,8 @@ There is anice sound effect for the menu we could use in the below sound effect 
 
 * search asset store for "laser sound effects", "laser sounds"
 
+* also search for "laser weapon(s)", "laser beams": https://assetstore.unity.com/packages/tools/particles-effects/laser-beams-weapon-systems-pack-18138
+
 
 
 * amazing free pack of SF sound effects: https://assetstore.unity.com/packages/audio/sound-fx/weapons/sci-fi-weapon-sfx-by-great-heights-audio-147911
