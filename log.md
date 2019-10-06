@@ -1,6 +1,8 @@
 
 # 10 / 6 / 2019
 
+* SF sound effects, should be easy to find tons of stuff: https://assetstore.unity.com/packages/audio/sound-fx/sci-fi-sound-effects-pack-4-106530
+
 * hologram particles: https://assetstore.unity.com/packages/tools/particles-effects/hologram-particles-45196
 
 * search the asset store for "hologram"
