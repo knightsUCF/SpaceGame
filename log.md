@@ -27,6 +27,10 @@
 
 * although we are not directly going for retro, we could have all sorts of updated sounds, when things rev up, exponential stuff like the logic trick, where you can add the exponential decay to create some cool sounds, the effects are important, spend a lot of time on the sound effects, even if we have to create them ourselves
 
+* these are some very cool radar shaders we can use: https://assetstore.unity.com/packages/vfx/shaders/silhouette-radar-shaders-97229
+
+* definitely use the radar shaders, adds a lot of oomph to the game, use for: when an enemy takes damage they flash like this, perhaps when our shields, or the inner core of the ship takes damage we flash this, we can use different color for variety and situations, even some heavier asteroids might flash this color if we are trying to penetrate to the goodies, this effect definitely looks amazing in VR so use this
+
 Interesting things:
 
 1. physics propulsion system: https://assetstore.unity.com/packages/tools/physics/b-propulsion-system-96220
