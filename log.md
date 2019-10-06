@@ -43,6 +43,15 @@
 
 * here is a very nice shield effect, which even shows taking damage: https://assetstore.unity.com/packages/vfx/shaders/energy-shield-effect-with-transition-and-hit-response-100109
 
+* here are lots of visual effects: https://assetstore.unity.com/packages/vfx/particles/ultimate-vfx-26701
+
+* go for things that make the most impact, these will be: 
+  * intro
+  * SF menu
+  * powerups
+  * shields
+  * progression / variety (weapons, skyboxes, enemies, asteroids, worlds, powerups, anything, list out how we can use progression for all of the noteworthy stuff)
+
 
 Interesting things:
 
