@@ -13,7 +13,7 @@ Next up:
 9. Create the menu screens using the blue SF UI pack, and also use that swoosh noise from the below SF sound effects pack
 10. Create a trance playlist song by song, so we can be hands free when we cue up the game instead of having to play the music in the background
 11. With the asset pack create different skyboxes for each level
-12. Create the HUD for the player, which will have the score, and ammo for now
+12. Create the HUD for the player, which will have the score, and ammo for now (use the nice SF font stored here)
 13. Allow the player to rotate their ship in 3D space in the hangar, or just have the ship be in the hanger, which we can transition to after the level is done, not sure yet if we should transition in the middle of gameplay of a level, maybe when we die, but then we restart the game... not sure
 14. Do some major planning of how the base building will work
 15. Create the build mechanism for laying down the basic tiles
