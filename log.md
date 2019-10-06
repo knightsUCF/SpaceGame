@@ -179,6 +179,10 @@ Interesting things:
 4. flight simulator: https://assetstore.unity.com/packages/tools/physics/silantro-flight-simulator-toolkit-128025
 
 
+* very nice cube city we could use to make a Fez type game in VR. Very simple building:
+https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-city-147691
+
+
 # 10 / 5 / 2019
 
 * begin on order of tasks in the design document
