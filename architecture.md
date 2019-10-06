@@ -6,6 +6,9 @@ We will need of course some state machine, maybe simply we can call this: State.
 
 The state is really the data class, so we want to keep ALL data in State.cs, unless there is too much data, then we can break up the State.cs file into smaller files.
 
+In this file, architecture.md, we also want to diagram out any configurations. We might have to create a folder for that, "architecture", in which we will upload the png configuration files, and refer to them from here in a numbered order. (Example: See Diagram1.png)
+
+
 
 
 
