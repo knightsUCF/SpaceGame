@@ -15,6 +15,11 @@
 
 * the other big advantage of the polygon space pack, is that we could use the hanger for the player to walk around and check out their ships, perhaps also let the player assemble their own ships, with the loot that they gain from the space battles, this would really break up the monotony, but there is a risk the player might enjoy the hangar part too much
 
+* perhaps we could even add a little base building to the game, like XCOM, so we would have a few parts:
+
+ 1. the combat area
+ 2. the base / hangar area
+ 3. universe overview cool area, where we can investigate the different parts of the star system, although this would have to look really cool
 
 # 10 / 6 / 2019
 
