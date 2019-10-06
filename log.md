@@ -7,6 +7,8 @@ We want to create a way for the player to use strategy in what weapons they use,
 
 There is anice sound effect for the menu we could use in the below sound effect pack.
 
+* lots of high quality weapon effects, we definitely want to use this: https://assetstore.unity.com/packages/vfx/particles/sci-fi-vfx-91983
+
 * search asset store for "laser sound effects", "laser sounds"
 
 * here is a volumetric laser we could do something with: https://assetstore.unity.com/packages/tools/particles-effects/volumetric-laser-beam-40969
