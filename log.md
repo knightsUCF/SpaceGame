@@ -52,7 +52,13 @@
   * shields
   * progression / variety (weapons, skyboxes, enemies, asteroids, worlds, powerups, anything, list out how we can use progression for all of the noteworthy stuff)
   
-  * nice forcefield
+  * nice forcefield: https://assetstore.unity.com/packages/vfx/particles/spells/forcefield-effects-123431
+  
+  * some cool things we could do with the hexagons: https://assetstore.unity.com/packages/vfx/particles/spells/living-particles-105817
+  
+  * this would feel like "Geometry Walls" where with progression difficulty we want to overwhelm the players sense, but we also want to have holographic light effects right from the start to ground them
+  
+  * light effects are especially good for trailers
   
   
  <br>
