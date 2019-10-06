@@ -67,6 +67,7 @@
  
  We will want to create variety, and overwhelm the player with progression right away, so they do not get bored easily!!!
 
+Again the goal is to make a game that is like the Big Mac meal of games. So something quick, very easily accessible by people of all ages and creeds, something that shows off VR immediately. We would also like a short type of arcade gameplay, which people can use to introduce their friends to VR, because they don't want to just sit by ackwardly while their friends are in VR. So if they get a quick mega rush taste of VR, that will be enough to get them excited, and this will be a good proper party game people can use for a quick VR session. VR also wears on the user, so quick sessions are not a bad thing.
 
 Interesting things:
 
