@@ -1,11 +1,25 @@
 
-# 10 / 5 / 2019
+# 10 / 6 / 2019
 
 * we have nice power ups to try out for free: https://assetstore.unity.com/packages/vfx/particles/powerup-particles-16458
 
 * these will be reveal when some asteroids and or ships are destroyed
 
 * an easy power up to do is triple lasers, perhaps this power up is time based like in Mario, so we don't just give you something forever, which would lower the perceived value of the gift
+
+* there are some nice particle effects that we can try out, go through these and jot down what is useable for each
+
+* the ship model is really nice looking, and we can replace our current ship with that model
+
+* from the same asset creator, there is a nice ship pack we can use to start out with for the enemies
+
+* we will definitely need different skyboxes for each level
+
+* we need lots of progression, and a sense of wonder to make the game fun
+
+* create the intro story mode with a skip button for fast gameplay
+
+
 
 
 
