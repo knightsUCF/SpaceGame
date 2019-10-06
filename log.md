@@ -1,6 +1,9 @@
 
 # 10 / 6 / 2019
 
+* amazing free pack of SF sound effects: https://assetstore.unity.com/packages/audio/sound-fx/weapons/sci-fi-weapon-sfx-by-great-heights-audio-147911
+
+
 * some very high quality shader particle effects / weapons: https://assetstore.unity.com/packages/vfx/particles/sci-fi-vfx-91983
 
 * these SF sound effects for weapons are not bad: https://assetstore.unity.com/packages/audio/sound-fx/weapons/sci-fi-weapon-sound-effects-pack-1-106514
