@@ -13,6 +13,30 @@
 
 * can have a cool intro update, "The year was 1996, I was 9 nine years and completely fascinated by the new wave of 3D video games. One of these games was X-COM. I would watch my cousins play (talk about cousins collecting games) Create these blog post updates."
 
+* to handle the complexity first start with the basic game loop, along with the hangar, and no prototypes! just build the game as you go
+
+* so we would have our basic game loop, which would be flying around and getting loot in a rogue procedurally generated Space Invaders environment. After that is done we have the ability to go into our hangar and spin the plane around, which should be no problem at all. At this point we also want to have the menus designed, and the intro story, plus sound effects.
+
+* so that is the absolute basic core we need to start with.
+
+* once that is done we will need to work on some progression mechanisms, and loot drops, and upgrades
+
+* after that add a little more elements to the base, and also add base building, along some sort of grid, or perhaps no grid
+
+* just building our own hangar area will be cool
+
+* after that we will need the colonists, along with the animations, if they are already rigged then this should not be a problem, and we can already create the AI navmesh
+
+* so perhaps we can get the basic hangar and progression of the game going in 20 days
+
+* then in the next month work on the colony simulation
+
+* and the third month polish, and fill in holes
+
+* if we work smart we can get this done
+
+
+
 # 10 / 7 / 2019
 
 * we have the primitive asset pack so we can prototype the whole game out, without relying on art packs
