@@ -37,6 +37,10 @@
 
 * so go through this list and organize tasks in order of importance
 
+* universal sound effects library: https://assetstore.unity.com/packages/audio/sound-fx/universal-sound-fx-17256
+
+* have the game oozing with sound, keep feeding the player with new stimulus so they don't get bored
+
 Interesting things:
 
 1. physics propulsion system: https://assetstore.unity.com/packages/tools/physics/b-propulsion-system-96220
