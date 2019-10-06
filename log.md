@@ -51,6 +51,15 @@
   * powerups
   * shields
   * progression / variety (weapons, skyboxes, enemies, asteroids, worlds, powerups, anything, list out how we can use progression for all of the noteworthy stuff)
+  
+  * nice forcefield
+  
+  
+ <br>
+ 
+ So we will want to have enemy formations, like in classic space shooter games, this will be cool because we can line up formations, we might need to rewrite or amend the code from the ground up so the forces don't collider with asteroids, or maybe they also take damage from asteroids, or their shields take damage, that would be an easy solution instead of having to write AI to dodge asteroids.
+ 
+ We will want to create variety, and overwhelm the player with progression right away, so they do not get bored easily!!!
 
 
 Interesting things:
