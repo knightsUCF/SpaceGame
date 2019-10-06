@@ -41,6 +41,9 @@
 
 * have the game oozing with sound, keep feeding the player with new stimulus so they don't get bored
 
+* here is a very nice shield effect, which even shows taking damage: https://assetstore.unity.com/packages/vfx/shaders/energy-shield-effect-with-transition-and-hit-response-100109
+
+
 Interesting things:
 
 1. physics propulsion system: https://assetstore.unity.com/packages/tools/physics/b-propulsion-system-96220
