@@ -1,6 +1,9 @@
 
 # 10 / 6 / 2019
 
+Very nice style spaceships, but a little too much poly: https://assetstore.unity.com/packages/3d/vehicles/space/cube-spaceships-pack-01-110342
+
+
 For purchasing items, we could have some sort of inter galactic black market, something out of Neuromancer, with the glowing green 3D objects, some sort of data links, perhaps we purchase plans to print in a 3D printer, etc.
 
 One way of getting free advertising is to send out the game keys to magazines which review games.
