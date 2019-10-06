@@ -1,6 +1,8 @@
 
 # 10 / 6 / 2019
 
+* a very nice asset pack with a space base we can use in the terraforming game, even though we might use Unreal and port the art over: https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
+
 * this asset is very nice at procedurally generating tons of space environments: https://assetstore.unity.com/packages/tools/level-design/space-for-unity-space-scene-construction-kit-7095
 
 * a few things to take away from the above asset, we can use space rings like saturn in the near distance to show off the VR effect in one of the levels, also space fog
