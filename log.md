@@ -21,6 +21,8 @@
  2. the base / hangar area
  3. universe overview cool area, where we can investigate the different parts of the star system, although this would have to look really cool
 
+* that asset pack also has very cool locking on missle targets, so we could have some lock on missiles, with which we would lock on to the enemy and then send guided missles like in Star Fox, which would add another element to the game
+
 # 10 / 6 / 2019
 
 Very nice style spaceships, but a little too much poly: https://assetstore.unity.com/packages/3d/vehicles/space/cube-spaceships-pack-01-110342
