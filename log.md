@@ -3,6 +3,7 @@
 
 Very nice style spaceships, but a little too much poly: https://assetstore.unity.com/packages/3d/vehicles/space/cube-spaceships-pack-01-110342
 
+The spaceship going up and down, while in space might add a nice touch while we are idling. We don't want to do this when we're moving, only idling.
 
 For purchasing items, we could have some sort of inter galactic black market, something out of Neuromancer, with the glowing green 3D objects, some sort of data links, perhaps we purchase plans to print in a 3D printer, etc.
 
