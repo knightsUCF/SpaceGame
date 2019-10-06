@@ -9,6 +9,8 @@
 
 * this prototyping pack would be great if we were working on a mario like VR platformer: https://assetstore.unity.com/packages/3d/props/exterior/polygon-prototype-pack-137126
 
+* another cool thing to do would be able to unlock all sorts of ships, and each of the ships have their own upgrade trees, which if planned could work well, this adds further to the replayability of the game, each ship has different abilities, maneuvors, feel of the ship, and weapons, and also sound effects
+
 
 # 10 / 6 / 2019
 
