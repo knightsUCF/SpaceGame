@@ -5,6 +5,12 @@ Check out "Enter the Gungeon", a relatively simple game but a success. Every sce
 
 Put a lot time in making the weapons feel good, like the creators from Dead Cells.
 
+Also have some sort of orbiting glowing balls going around in nice circular patterns for the player to dodge.
+
+Use Lerp and sine wave functions, and smooth damp and others to get a very smooth effect going in lots of things, so the game just feels great.
+
+Make the best possible game in 3 months, ready for Early Access. This will pay off.
+
 Also use a nice lighting effect, with beautify, or the light set up from Space Journey, to really make the glowing lights pops in the darkness, and against the space backgrounds.
 
 We could do some triangular arrow like weapon, that has a nice coverage area. Very useful for getting ride of a lot of things in one area, so this would be used in harder levels, and have limited ammo.
