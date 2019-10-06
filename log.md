@@ -23,7 +23,12 @@
 
 
 
+Interesting things:
 
+1. physics propulsion system: https://assetstore.unity.com/packages/tools/physics/b-propulsion-system-96220
+2. physics lab: https://assetstore.unity.com/packages/tools/physics/forces-physics-lab-135734
+3. simple physics toolkit: https://assetstore.unity.com/packages/tools/physics/simple-physics-toolkit-magnet-water-wind-vr-ready-53912
+4. flight simulator: https://assetstore.unity.com/packages/tools/physics/silantro-flight-simulator-toolkit-128025
 
 
 # 10 / 5 / 2019
