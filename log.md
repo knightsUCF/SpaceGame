@@ -13,6 +13,8 @@
 
 * we could also use that for hologram for the ship in scan mode or something
 
+* another nice hologram: https://assetstore.unity.com/packages/vfx/shaders/sci-fi-hologram-shader-77666
+
 * we have nice power ups to try out for free: https://assetstore.unity.com/packages/vfx/particles/powerup-particles-16458
 
 * these will be revealed when some asteroids and or ships are destroyed
