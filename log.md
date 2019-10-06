@@ -69,6 +69,16 @@
 
 Again the goal is to make a game that is like the Big Mac meal of games. So something quick, very easily accessible by people of all ages and creeds, something that shows off VR immediately. We would also like a short type of arcade gameplay, which people can use to introduce their friends to VR, because they don't want to just sit by ackwardly while their friends are in VR. So if they get a quick mega rush taste of VR, that will be enough to get them excited, and this will be a good proper party game people can use for a quick VR session. VR also wears on the user, so quick sessions are not a bad thing.
 
+The other big thing is that we want to use Rogue elements for fun and replayability:
+ * randomly spawned terrain (asteroids and etc) and enemiews
+ * random items, sometimes you might get the item that saves you and sometimes you might not
+ * permadeath, have to start over, helps with increasing playability of a small game, so players don't just easily beat and experience everything on the first try
+ 
+ We could also use the roguelike genre description as a selling point of a game.
+ 
+ "Space Game" is an homage to the early space shooter game with roguelike elements. This game is perfect as a "party" game where you would like to show off your VR system to a friend.
+ 
+ 
 Interesting things:
 
 1. physics propulsion system: https://assetstore.unity.com/packages/tools/physics/b-propulsion-system-96220
