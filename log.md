@@ -1,6 +1,11 @@
 
 # 10 / 6 / 2019
 
+
+* these SF sound effects for weapons are not bad: https://assetstore.unity.com/packages/audio/sound-fx/weapons/sci-fi-weapon-sound-effects-pack-1-106514
+
+* search more for "sci fi" sounds, and also "sci fi weapons" sounds
+
 * a very nice asset pack with a space base we can use in the terraforming game, even though we might use Unreal and port the art over: https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
 
 * even simple building and cultivation of life in deep space, (mining planet for resources with large overhead machines, etc), could be very nice to start off the VR terraforming game
