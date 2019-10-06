@@ -11,6 +11,8 @@ Also create a very nice research tree in 3D, which the player can orbit around, 
 
 Next to the research tree we could have the cargo bay, in which we can rotate the ship, perhaps add new weapons, check out how they look, and then pull up our tree of upgrades. Then after the player finalizes their selection, they are taken into the next level.
 
+If we could do a really hip research tree like this but in 3D: https://assetstore.unity.com/packages/2d/gui/icons/sci-fi-upgrades-window-138966
+
 And on top of this, the 3D VR Research Tree would be easy to do, and would really set the game apart.
 
 Put a lot time in making the weapons feel good, like the creators from Dead Cells.
