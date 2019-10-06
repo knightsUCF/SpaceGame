@@ -1,5 +1,12 @@
 # 10 / 7 / 2019
 
+So work through the list below, the good news is that this is all very straightforward.
+
+Another big thing to note, like Cuphead and Spelunky, those games are hard and players say they "love and hate" the game. Of course starting over can be frustrating, but we really need this to give replayability to a small game, and a sense of challenge. So strategically we have to get over the frustration of starting over and just place this roguelike mechanic of permadeath into the game.
+
+
+# 10 / 7 / 2019
+
 Next up: 
 
 1. Order the computer
