@@ -13,6 +13,9 @@ There is anice sound effect for the menu we could use in the below sound effect 
 
 * also search for "laser weapon(s)", "laser beams": https://assetstore.unity.com/packages/tools/particles-effects/laser-beams-weapon-systems-pack-18138
 
+* this has an AMAZING laser beam weapon we can use, and the cool idea of using rotating mines: https://assetstore.unity.com/packages/vfx/particles/space-weapons-vfx-152817
+
+* mines could also be deployed by enemies
 
 
 * amazing free pack of SF sound effects: https://assetstore.unity.com/packages/audio/sound-fx/weapons/sci-fi-weapon-sfx-by-great-heights-audio-147911
