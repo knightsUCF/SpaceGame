@@ -1,6 +1,10 @@
 
 # 10 / 6 / 2019
 
+* this asset is very nice at procedurally generating tons of space environments: https://assetstore.unity.com/packages/tools/level-design/space-for-unity-space-scene-construction-kit-7095
+
+* a few things to take away from the above asset, we can use space rings like saturn in the near distance to show off the VR effect in one of the levels, also space fog
+
 * SF sound effects, should be easy to find tons of stuff: https://assetstore.unity.com/packages/audio/sound-fx/sci-fi-sound-effects-pack-4-106530
 
 * hologram particles: https://assetstore.unity.com/packages/tools/particles-effects/hologram-particles-45196
