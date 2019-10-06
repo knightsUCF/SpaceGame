@@ -195,6 +195,10 @@ https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-city-14769
 
 * kind of like if we took Kingdoms and Castles, and made that in a modern city building environment, along with VR, and players being able to play both versions
 
+* along with that is "Simple Sky": https://assetstore.unity.com/packages/3d/simple-sky-cartoon-assets-42373
+
+* simple assets like Kingdoms and Castles are great, because we can still make a game, which doesn't seem small, and yet have the ability to easily create more of these low poly primitive assets
+
 # 10 / 5 / 2019
 
 * begin on order of tasks in the design document
