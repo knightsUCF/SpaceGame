@@ -31,6 +31,12 @@
 
 * definitely use the radar shaders, adds a lot of oomph to the game, use for: when an enemy takes damage they flash like this, perhaps when our shields, or the inner core of the ship takes damage we flash this, we can use different color for variety and situations, even some heavier asteroids might flash this color if we are trying to penetrate to the goodies, this effect definitely looks amazing in VR so use this
 
+* we need lots of audiovisual candy like the above shader, this is paramount for a game like this, use all the sugar tricks they say to use, so make the lasers bigger, more powerful, delay the enemy slightly if they take damage, fine tune and polish in order of priorites
+
+* we could even move the player to a different angle or spot of the galaxy that we are fighting for some more adrenalin rushing moments, although we need to keep constant velocity without acceleration (or teleportation), and ask the player before we do this, not sure if we will even use this
+
+* so go through this list and organize tasks in order of importance
+
 Interesting things:
 
 1. physics propulsion system: https://assetstore.unity.com/packages/tools/physics/b-propulsion-system-96220
