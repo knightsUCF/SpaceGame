@@ -1,4 +1,11 @@
 
+# 10 / 7 / 2019
+
+* we have the primitive asset pack so we can prototype the whole game out, without relying on art packs
+
+* plant out method of prototyping, although we want to have the game in the current ready state at all times, we can still go far with these primitives
+
+
 # 10 / 6 / 2019
 
 Very nice style spaceships, but a little too much poly: https://assetstore.unity.com/packages/3d/vehicles/space/cube-spaceships-pack-01-110342
