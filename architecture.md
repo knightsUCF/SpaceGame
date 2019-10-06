@@ -1,3 +1,13 @@
+# Intro
+
+Here we will breakdown the game architecture, just the important parts to keep an overview of the codebase, and to prevent from things getting out of hand.
+
+We will need of course some state machine, maybe simply we can call this: State.cs, so we will have: Game.cs, Player.cs, and State.cs, which will work well.
+
+The state is really the data class, so we want to keep ALL data in State.cs, unless there is too much data, then we can break up the State.cs file into smaller files.
+
+
+
 
 # Game.cs
 
