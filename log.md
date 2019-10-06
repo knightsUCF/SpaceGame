@@ -1,6 +1,16 @@
 
 # 10 / 6 / 2019
 
+We could do some triangular arrow like weapon, that has a nice coverage area. Very useful for getting ride of a lot of things in one area, so this would be used in harder levels, and have limited ammo.
+
+We want to create a way for the player to use strategy in what weapons they use, so that they don't waste the weapons, and also for the player to triage and manage strategy with the rogue procedurally generating engine. So they will need to get a feel for the drop and spawn rate of objects.
+
+There is anice sound effect for the menu we could use in the below sound effect pack.
+
+* search asset store for "laser sound effects", "laser sounds"
+
+
+
 * amazing free pack of SF sound effects: https://assetstore.unity.com/packages/audio/sound-fx/weapons/sci-fi-weapon-sfx-by-great-heights-audio-147911
 
 
