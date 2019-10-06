@@ -9,6 +9,8 @@ Also have some sort of orbiting glowing balls going around in nice circular patt
 
 Use Lerp and sine wave functions, and smooth damp and others to get a very smooth effect going in lots of things, so the game just feels great.
 
+Also need a professional art cover, like Enter the Gungeon. We could have pilots, and perhaps aliens and ships, something very worth of Space Commander, like a cross between enter the Gungeon, and the Super Mario Land / Warrio box cover.
+
 Make the best possible game in 3 months, ready for Early Access. This will pay off.
 
 Also use a nice lighting effect, with beautify, or the light set up from Space Journey, to really make the glowing lights pops in the darkness, and against the space backgrounds.
