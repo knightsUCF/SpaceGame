@@ -1,6 +1,20 @@
 
 # 10 / 7 / 2019
 
+* engine building and worker placement, along with tile laying are the most favorite mechanics of board games, so...
+
+* create engine building, worker placement, and tile laying in the ramifications of building up this space colony, kind of like XCOM style, also create this sort of engine that people get satisfactions out of playing Factorio, so we can still have this satisfaction of building our own interactive engine. This doesn't have to be hard to do if well designed
+
+* so, our bio lab affects our stock piles of food, which affects how many colonists we can have, and in turn how many workers we can do worker placement with. Now these effects can be basic yet still gamify the experience and provide the best of Factorio. The trick is to bring out what really is an engine building game, worker placement game etc... In an engine building game "we build an engine", something affects other parts like cogs in a watch. We are trying to create this precise Swiss watch. So this doesn't necessarily require any extra assets than what we have or crazy long pages of code, instead we simply have a state machine, if we have enough plants (which need the proper nutrients fed, etc, some sort of cool VR read of CO2 levels), and then that increases food production, which opens up the requirements to having more workers, so the code is very simple yet very satisfying gameplay emerges
+
+* likewise do this for the tile laying mechanic, a very satisfying way to build
+
+* we are covering the top mechanics of the board game list: worker placement, engine building, and tile laying. Along with also recreating the first video game sensation, Space Invaders, and also going off X-COM the strategy layer with base building, and the tactical combat, which will be in Space Invaders style. So this is a recipe for success.
+
+* can have a cool intro update, "The year was 1996, I was 9 nine years and completely fascinated by the new wave of 3D video games. One of these games was X-COM. I would watch my cousins play (talk about cousins collecting games) Create these blog post updates."
+
+# 10 / 7 / 2019
+
 * we have the primitive asset pack so we can prototype the whole game out, without relying on art packs
 
 * plant out method of prototyping, although we want to have the game in the current ready state at all times, we can still go far with these primitives
