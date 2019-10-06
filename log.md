@@ -26,6 +26,7 @@ Next up:
 22. Create a research tree, even if we have to use basic shapes for the prototype (better to prototype the graphics here than not make any progress toward the research tree)
 23. Create all sorts of cool visual weapon effects, and outlines for things with that shader outline tool
 24. Although up to here might seem a lot, if we get the above done then we have a very solid foundation to build from, here we want to remind ourselves to just keep polishing as you go, no prototypes!
+25. We can create the tutorial with the voice, but to save on time, we could just have a tutorial panel page, which shows everything in Options, all the controls, plus a way to set the controls, and also a way to play with the keyboard if someone doesn't have a game controller
 
 # 10 / 7 / 2019
 
