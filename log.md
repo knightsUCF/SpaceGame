@@ -1,7 +1,15 @@
 
 # 10 / 6 / 2019
 
+One way of getting free advertising is to send out the game keys to magazines which review games.
+
 Check out "Enter the Gungeon", a relatively simple game but a success. Every scene is framed by a neon glowing weapon, we need to do the same: https://store.steampowered.com/app/311690/Enter_the_Gungeon/
+
+Study Enter the Gungeon and recreate the same sort of fun gameplay feel, along with Forager.
+
+Also create a very nice research tree in 3D, which the player can orbit around, some sort of Matrix like cyberpunk feel. This will do wonders, namely three things: 1. break up the monotony of the game (perhaps we can choose this between levels) 2. create a research tree upgrade mechanism, adding to the progression and fun of the game, and 3. create strategy
+
+And on top of this, the 3D VR Research Tree would be easy to do, and would relaly set the game apart.
 
 Put a lot time in making the weapons feel good, like the creators from Dead Cells.
 
