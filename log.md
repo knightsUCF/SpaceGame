@@ -21,7 +21,11 @@
 
 * we need a nice overlay GUI, which tells us our score, and how much ammo we have
 
+* here is a nice power ups set: https://assetstore.unity.com/packages/vfx/particles/power-up-fx-152740 and https://assetstore.unity.com/packages/3d/props/sci-fi-powerup-item-crate-18990
 
+* we just need to keep iterating on the powerups to make them look badass
+
+* although we are not directly going for retro, we could have all sorts of updated sounds, when things rev up, exponential stuff like the logic trick, where you can add the exponential decay to create some cool sounds, the effects are important, spend a lot of time on the sound effects, even if we have to create them ourselves
 
 Interesting things:
 
