@@ -5,6 +5,8 @@
 
 * even simple building and cultivation of life in deep space, (mining planet for resources with large overhead machines, etc), could be very nice to start off the VR terraforming game
 
+* just experiencing stuff like this in VR would be awe inspiring: https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-heavy-station-kit-hangars-augmented-147104
+
 * this asset is very nice at procedurally generating tons of space environments: https://assetstore.unity.com/packages/tools/level-design/space-for-unity-space-scene-construction-kit-7095
 
 * a few things to take away from the above asset, we can use space rings like saturn in the near distance to show off the VR effect in one of the levels, also space fog
