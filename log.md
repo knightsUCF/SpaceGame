@@ -39,6 +39,8 @@
 
 * the trick of not getting lost in growing scope is to pace the game building so we always have an MVP finished product instead of a prototype, so we would first have the full combat tacticle missions done, where we can fly around asteroids, get upgrades and etc, then we would finish the hanger since that is modular, then we would approach every part as a modular piece that will not impede finishing, and then of course we have Early Access
 
+* going along with this concept of a rolling MVP (Agile) we will want to build out the menus, title screen, and the intro early so this will be the base of our MVP and feel like a complete game 
+
 
 # 10 / 7 / 2019
 
