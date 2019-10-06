@@ -6,7 +6,7 @@ Another big thing to note, like Cuphead and Spelunky, those games are hard and p
 
 One of the top holograms: https://assetstore.unity.com/packages/vfx/shaders/ghosts-and-holograms-91146
 
-And another big thing to note: if a game has roguelike elements, tactics, strategy, base building, worker placement, engine building, tile placement, is similar to the first historical sensational video game mania of Space Invaders, etc... this is what a Big Mac is... a crowd pleaser... 
+And another big thing to note: if a game has roguelike elements, tactics, strategy, base building, worker placement, engine building, tile placement, and is similar to the first historical sensational video game mania of Space Invaders, etc... this is what a Big Mac is... a crowd pleaser... 
 
 
 # 10 / 7 / 2019
