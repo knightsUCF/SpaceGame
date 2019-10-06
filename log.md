@@ -4,6 +4,10 @@ So work through the list below. The good news is that this is all very straightf
 
 Another big thing to note, like Cuphead and Spelunky, those games are hard and players say they "love and hate" the game. Of course starting over can be frustrating, but we really need this to give replayability to a small game, and a sense of challenge. So strategically we have to get over the frustration of starting over and just place this roguelike mechanic of permadeath into the game.
 
+One of the top holograms: https://assetstore.unity.com/packages/vfx/shaders/ghosts-and-holograms-91146
+
+And another big thing to note: if a game has roguelike elements, tactics, strategy, base building, worker placement, engine building, tile placement, etc... this is what a Big Mac is... a crowd pleaser... 
+
 
 # 10 / 7 / 2019
 
