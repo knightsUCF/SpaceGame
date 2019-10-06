@@ -1,3 +1,9 @@
+# 10 / 7 / 2019
+
+So even though this might seem like a long drawn out campaign game, this is more similar to a roguelike game such as Spelunky, in that after permadeath we have to restart, which is what keeps players playing, and gives the core replayability to the game. So likewise even though we have this involved environment, the gameplay is like a rogue, where we still start at the beginning and have to build our base over. So our base building, engine building, worker placement, those will be very elegant clean elements like toys, where we can replay like a level of Mario, and still get satisfaction in the basic elements.
+
+People will get a lot of satisfaction just from traversing their space labirynths they create. Even a game like Alice, which is very interesting, there is still some tedium, in trying to figure out how to transverse levels, being stuck in a gray box of the spaceship while you're trying to figure out how to progress, those things are not always particulalry fun, while in this game we give the player a nice Big Mac they can eat right away. The gameplay is immediate right there, satisfaction in spades all over. So in that way we can compete in the market. If Spelunky, a 2D game could be such a sensation, we can also create a roguelike in VR with these elements.
+
 
 # 10 / 7 / 2019
 
