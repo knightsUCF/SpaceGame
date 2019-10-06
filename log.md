@@ -13,6 +13,8 @@
 
 * would also be nice if the player can collect a few ships and place them in their space hanger, so they can decide which ships to use on which missions
 
+* the other big advantage of the polygon space pack, is that we could use the hanger for the player to walk around and check out their ships, perhaps also let the player assemble their own ships, with the loot that they gain from the space battles, this would really break up the monotony, but there is a risk the player might enjoy the hangar part too much
+
 
 # 10 / 6 / 2019
 
