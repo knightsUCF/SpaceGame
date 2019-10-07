@@ -10,7 +10,7 @@ Go over the game juice YouTube video, and outline all the methods of increasing 
 
 Another major thing of course is neon lights, which can be found in most modern game trailers. So add lots of that, along with variety, an obvious one being the different laser / weapon types, not on the player, but also the enemy.
 
-Adding a game screen, and intro is another thing that the testers didn't pick up on that diminished their potential game experience. Throwing a game screen, along with a menu, music, intro story, those will add some real weight to the game.
+Adding a game screen, and intro is another thing that the testers didn't pick up on that diminished their potential game experience. A game screen, along with a menu, music, intro story, those will add some real weight to the game.
 
 So all these things are easily achievable so outline a method to get these done.
 
