@@ -35,7 +35,8 @@ public class Level : MonoBehaviour
 
     void CheckIfToAdvanceToNextLevel()
     {
-        /*
+        /* replace currentLevel with State.CURRENT_LEVEL
+        
         if (score > 300 && currentLevel == 1)
         {
             currentLevel = 2;
