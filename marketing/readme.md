@@ -209,6 +209,8 @@ In the agent cover letter mention being editor in chief of the paper, studying c
 * Outer Space and Elon Musk
 * finish with "Where from Here?" metnion how predicting the future is notoriously difficult, opening up with that one statement of the gentlemen who said nothing was left to be invented after the steam engine.
 
+If we smoothly transition ideas from chapter to chapter, culminating in a grand finale climax of the book, then no one will suspect any of these chapters were written as disjointed articles, not that they are like this.
+
 Keep collecting good ideas here, which we could arrange into modular units, which could then be pleasantly and interesting arranged into a flowing sequence which would make up the book
 
 Try to get to a beefy 300+ pages so people feel that the book is worth their money.
