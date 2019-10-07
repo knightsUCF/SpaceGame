@@ -35,6 +35,35 @@ After this is all done, import the 1) lights and camera, then the 2) background,
 
 Then study the organization of in the hierarchy, and where the prefab slots are to be linked.
 
+Oh, the BGScroller is just the background scroller, since the game is not 2D we will not need this but perhaps could take some inspiration from here for scrolling the background particles or something.
+
+So we are all done with the basics!
+
+Now we have these things left:
+
+1) GameController (Game.cs)
+2) DestroyByContact
+3) One or two other missing ones?
+
+
+After the code is cleaned as much as we can, then we will: 
+
+
+1) Import lights and camera (will require reimporting the project)
+2) Study the hierarchy to begin to recreate
+3) Import the prefabs, study how they are set up and describe here:
+
+
+
+The Asteroid Prefab
+
+- describe set up here
+
+
+The Ship Prefab
+
+- describe set up here
+
 
 
 
