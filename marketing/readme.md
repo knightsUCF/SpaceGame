@@ -233,7 +233,9 @@ Go for a high density of great ideas like a Zizek book
 
 The VR book has something like 50+ chapters, and they are organized into 4 parts with headings, like Michael Crichton. Since we are writing something more inventive we could have a clever naming scheme to the 4 parts. For Michael Crichton this was Monday, Tuesday, we could have something else entirely creative.
 
+# Pictures to Spice the Articles Up on the Site
 
+* use very fitting and carefully chosen pictures to vary up the monotony of reading
 
 # The Trick to Writing a Book
 
