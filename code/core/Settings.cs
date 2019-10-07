@@ -1,5 +1,5 @@
 // game settings
 
-public static float spawnWait;
-public static float startWait;
-public static float waveWait;
+public static float SPAWN_WAIT;
+public static float START_WAIT;
+public static float WAVE_WAIT;
