@@ -1,6 +1,32 @@
 # 10 / 7 / 19
 
 
+In reworking Game.cs, there is a part here that I'm not sure about 2 things:
+
+1) How does restart get set to true and where? (Try pressing f1 to locate the code or right clicking for options)
+2) What does the LoadScene, scene manager do here with GetActiveScene()? Might have to watch the tutorial for this.
+
+If we don't reload the scene on restart that is fine. We can rework this later.
+
+
+     void Update()
+         {
+             if (restart)
+             {
+                 if (Input.GetKeyDown(KeyCode.R))
+                 {
+                     SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+                 }
+             }
+         }
+
+
+So now clean up the remaining parts from Game.cs, especially the global variables. We don't have to worry about score, or text or anything like that. Just get the basic core working.
+
+
+# 10 / 7 / 19
+
+
 Now we have these things left:
 
 1) GameController (Game.cs)
