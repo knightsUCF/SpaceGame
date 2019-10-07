@@ -109,3 +109,11 @@ The website title should be something catchy this is a "catch all" phrase for bo
 So we could say the author is a game developer, to attract attention and give some credence along with the anthropology background.
 
 We could even have a general article which is Anthropology and Technology. What would make us stand out right away from the crowd, is by providing professional citations. Articles with lots of citations rise up as cream of the crop to the top of the Google search algorithm.
+
+# Anthropology and Technology
+
+We could have a general article on how all of the different ways technology has changed our lives from an anthropological perspective.
+
+# Getting Users to Sign Up
+
+We can have users be notified when a new article comes out, or enter your email to be notified when new articles are published, or when there are new updates to the game.
