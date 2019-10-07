@@ -35,7 +35,7 @@ The workers can then take the titanium, and other minerals we find in asteroids 
 
 The mineral depositing mechanism should have some juice, even if just lights and sound effects, so that we are rewarded for our toils.
 
-So adding this base building aspect will add great variety and make the game a success like XCOM, which if only had one aspect of gameplay would not have done well, yet came out as a unvirsal hit with the proper level of game depth.
+Adding this base building aspect will add great variety and make the game a success like XCOM, which if only had one aspect of gameplay would not have done well, yet came out as a unvirsal hit with the proper level of game depth.
 
 
 # 10 / 7 / 2019
