@@ -206,6 +206,7 @@ In the agent cover letter mention being editor in chief of the paper, studying c
 * Autonomous Electric Vehicles, cover Tesla, self driving cars, Google tech, the wonders of modern GPS
 * <good place for more light stuff here>
 * AI, mention all the nuances of AI tech, and how this whole thing works to a laymen, the big leap, and go over the AI Winter in the beginning, how we were excited about AI, and then no progress was made, until two things which occured recently 1. Developments in Big Data 2. Computing power
+* 3D printing
 * Quantum computers, finish the chapter with some conjecture on what would happen if the AI came online with the power of a quantum computer, and learned everything instantly...?
 * From Gaming to Reality, talk about how the early games were just fun amusements, and now they are taking over, with games being a bigger industry than film and Hollywood
 * VR, where we mention our game, and the history of VR, especially the interesting Facebook drama, quoting the VR book, if we pull out the best parts from the Oculus book we will have a riveting chapter
