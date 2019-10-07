@@ -23,7 +23,7 @@ public class Game : MonoBehaviour
 
     // text
     
-    public TextMeshProUGUI scoreText;
+    
     public TextMeshProUGUI gameOverText;
 
 
