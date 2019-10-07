@@ -13,7 +13,10 @@ using TMPro;
 public class Level : MonoBehaviour
 {
 
-// Level stuff - move into own Level class
+
+    public TextMeshProUGUI levelText;
+
+
 
 
     public void NewLevel(int level)
