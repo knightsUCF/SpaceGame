@@ -4,7 +4,17 @@ We began to clean up the code, starting with Game.cs.
 
 We are using clean architecture, see Diagram1.png.
 
-We also added an "AV" game object for "audiovisual" where we will keep the cameras and lights.
+We also added an "AV" game object for "audiovisual" where we will keep the cameras and lights. (Diagram2)
+
+So now we can proceed to cleanly set up the game.
+
+We decided to have StartGame() in the start method of Game, since that is fitting to have a simple clean method like this. 
+
+This will also serve to initialize any sort of things we need.
+
+Currently after StartGame() we have wave.SpawnWaves(), which will begin spawning waves, while the player and other objects will just "appear" in the hierarchy, no need to spawn them, since they will be separate objects.
+
+So now, we want to get the basics down of Input, Level, Player, and State. At least create the files and attach them in the hierarchy.
 
 
 # 10 / 7 / 19
