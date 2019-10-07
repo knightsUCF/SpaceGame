@@ -1,5 +1,12 @@
 # 10 / 7 / 19
 
+We began to clean up the code, starting with Game.cs.
+
+We are using clean architecture, see Diagram1.png.
+
+
+# 10 / 7 / 19
+
 
 The next phase is to get the core working cleanly in the engine, along with prototyping with just the shapes, anything we need to do before the computer arrives. The arrival of the computer won't slow us down if we work toward buildng a stable foundation.
 
