@@ -29,4 +29,4 @@ Game developers are usually not very good at advertising, which is usually not w
 
 # PROOFREAD, PROOFREAD, PROOFREAD
 
-Make sure to utilize all the writing craftsmanship when writing a blog post, or marketing copy. Edit the writing a number of times, read out loud, set aside for a few days, and then read out loud again, continously layering your talent and improving the quality bar. An always interesting element is insight, so that we do not dare to waste the reader's time.
+Make sure to utilize all the writing craftsmanship when writing a blog post, or marketing copy. Edit the writing a number of times, read out loud, set aside for a few days, and then read out loud again, continuously layering your talent and improving the quality bar. An always interesting element is insight, so that we do not dare to waste the reader's time.
