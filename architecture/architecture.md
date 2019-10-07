@@ -10,6 +10,12 @@ In this file, architecture.md, we also want to diagram out any configurations. W
 
 So going back to state, we will have to pull out any state data from Game.cs.
 
+Okay, so we have organized the project into "core" and "utils" folder, and we seem to be caught up with the organization. The organization might seem so easy in the beginning, but if we wait until later then the project will be much more difficult to organize without a solid foundation.
+
+So the question is, what's next? Well we have our ToDo list over in log.md. This is mostly design stuff. In terms of code we could begin to create the empty files, "Weapons.cs" and etc.
+
+Then determine what is the first thing we will code. Well, how about first cleaning up the beginning foundation before moving on to new feature. Just to make sure the core is working first. No prototypes!
+
 # Core
 
 Create a prefab called "Core", and then under this prefab have Game, Player, and State
