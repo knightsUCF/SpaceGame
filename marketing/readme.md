@@ -175,4 +175,4 @@ Not only use philosophy heavily, but also quote the ideas, thoughts, and works o
 
 * have a cool organization to the book like the biologist often does, Wilson and also Michael Crichton
 
-* speak a lot about Michael Crichton's work, and his cautionary tales of technology, introducing him as the science fiction techno thriller writer of Jurassic Park, giving the reader some real quotes from Michael Crichton's character who speak cautionary of technology, especially Ian Malcolm 
+* speak a lot about Michael Crichton's work, and his cautionary tales of technology, introducing him as the science fiction techno thriller writer of Jurassic Park, giving the reader some real quotes from Michael Crichton's character who speak cautionary of technology, especially Ian Malcolm, also mention that symbolically this is Michael Crichton featuring his altergo, or we could very well suppose that Ian Malcolm is Michael Crichton's alterego, a voice piece for his cautionary woes of humankind's often doomed to failure quest of harnessing technology
