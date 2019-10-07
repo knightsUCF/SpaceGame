@@ -266,3 +266,7 @@ Could also send out press kits of this book to all the anthropological departmen
 * send out book to all top editors / reviewers / any and all media outlets that have an audience reach, even book reviewers on YouTube, anyone by audience reach, including streamers
 
 * as money comes in pay the agent / publishing house to send the book officially through them
+
+# The Most Interesting Book They've Ever Read
+
+* fill this book to the brim with amazing ideas, so they will be truly astounded when they read this book
