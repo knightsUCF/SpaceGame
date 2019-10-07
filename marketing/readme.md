@@ -223,4 +223,4 @@ Go for a high density of great ideas like a Zizek book
 
 # The Trick to Writing a Book
 
-* if we have experience we can really do this efficiently: we can preplan all of the articles with the methods of How to Write Fast While Writing Well, knowingly how they will fit into the book sequence, getting large advertising exposure for our game, and taking care of struggling with what to write about, since now we have an overarching sturcture
+If we have writing experience and we do, we can really do this efficiently: we can preplan all of the articles with the methods of How to Write Fast While Writing Well, knowingly how they will fit into the book sequence, getting large advertising exposure for our game, and taking care of struggling with what to write about, since now we have an overarching sturcture
