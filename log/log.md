@@ -23,7 +23,7 @@ And use roguelike to glue this whole historically proven procedurally randomized
 12. Allow building basic blocks in hangar view
 13. Allow spawning of scientists as capsules, give them basic functions on the navmesh
 14. Create the resource gameplay chain, so from destroying asteroids we get minerals we can deposit at the base, which are then used by scientists to research and create new weapons and also upgrade the base, and have more building materials
-15. The player can choose whenever they want to go outside for combat, but combat somehow increases in difficulty level
+15. The player can choose whenever they want to go outside for combat, but combat somehow increases in difficulty level. Perhaps we are given the choice to travel to different galaxies, and as we beat one galaxy, then that one flashes off the universe map, so we in essence already beat that level, and we probably won't come back. Also nice to get a different skybox, and that makes sense since we will be in another of the galaxy map. We can call this the "galaxy map", which will be the world map. This could be a very cool 3D structures which takes advantage of the capabilities of VR. And everyone would LOVE to experience interacting with a star map in VR, especially with game juice, and shiny cool effects.
 
 Then after all this is done reasses what we have so far. This is a pretty good plan, which should not break or impede any future developments.
 
