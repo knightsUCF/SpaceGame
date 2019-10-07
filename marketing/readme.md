@@ -25,3 +25,8 @@ A simple cool thing we could do, is take one of our interesting log posts, and w
 # EASY MONEY
 
 Game developers are usually not very good at advertising, which is usually not within their skillset. But if we look at this from the perspective of: if we just write this blog post we will instantly generate a few thousand dollars of sales in the next few days -- that will be motivation enough to work on marketing and writing up these articles, or sending press kits out, or whatever else we can do advertise the game.
+
+
+# PROOFREAD, PROOFREAD, PROOFREAD
+
+Make sure to utilize all the writing craftsmanship when writing blog post. Edit the writing a number of times, read out loud, set aside for a few days, and then read out loud again, continously layering your talent and improving the quality bar.
