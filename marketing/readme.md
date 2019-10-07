@@ -66,4 +66,10 @@ Some examples of "big concept topics", which would have the potential of attract
 
 - technology anything related, doesn't even have to be specific to the game, or game dev (but can be)
 - VR
-- look at what is trending in technology and write about the cool things, which are not necessarily controversial, leave a good feeling afterward, and are of utmost interest to readers
+- look at what is trending in technology and write about the cool things, which are not necessarily controversial, leave a good feeling afterward, and are of utmost interest to readers.
+
+Especially if we can somehow link one of top searches, and crank out the article quickly to generate traffic.
+
+One example of this is simply writing about VR technology, which is really exciting.
+
+Can then post these VR articles on VR forums, easily get free upvotes and exposure, and link back to the product on the site, and then request to wishlist on Steam, simply by having a link: Wishlist Space Game on Steam. Make this an obvious link, and something super convenient for the user to do. Also have a link to the store page.
