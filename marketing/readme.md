@@ -89,3 +89,15 @@ Another example could be an article on the coming new Matrix film. We could do a
 Then we could post that Matrix article on a whole nice of subreddits.
 
 This would garner a lot of views. We can set up a counter on the website to measure traffic.
+
+# Collecting Big Concept Ideas
+
+These big concept ideas are good but they are hard to find if we search for them. Like generating game ideas, we should have a document here dedicated to collecting these big concept ideas as they occur to us.
+
+In the meantime we can just keep pumping out articles on Cyberpunk and the Matrix.
+
+And later who knows, we could collect these writings in a book about Cyberpunk and the new coming realities of the Information Age.
+
+Also if we put an anthropological twist on a lot of the stuff, especially that we can sign our name saying we received a degree in anthropology (when the user clicks on About the author, or some author signature, the author studied anthropology and received a bachelor's of anthropology), this gives us credence to write about these things, especially when we talk about how in a few short years the Internet has completely changed our way of life drastically the first time in a few hundred thousand years...
+
+Also in the about section the author receieved his degree in anthropology, and is currently developing a game in VR. Wishlist the game on Steam here, or go here for the link.
