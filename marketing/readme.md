@@ -183,3 +183,5 @@ Not only use philosophy heavily, but also quote the ideas, thoughts, and works o
 * a general article on anthrotech titled, "Brave New Techworld", could be a proper intro to the website, and also be the first chapter of the book
 
 * here we would outline the major themes in the tech trends of today from an anthropological perspective, which would set the tone for the further articles in the book
+
+* of course later we could rewrite this article as a proper first chapter
