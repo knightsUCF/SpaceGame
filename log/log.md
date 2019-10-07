@@ -1,5 +1,16 @@
 # 10 / 7 / 2019
 
+Something magical happens everytime we do a TODO list or a log, the items get done without necessarily looking at the screen. So this method is very helpful and should be continued.
+
+We managed to clear the first items on the log in such manner.
+
+Next up after setting up a clean modular code foundation will be experimenting with different ships, and bonus upgrades.
+
+And then on down with the list, unless we have to reprioritize.
+
+
+# 10 / 7 / 2019
+
 So work through the list below. The good news is that this is all very straightforward.
 
 Another big thing to note, like Cuphead and Spelunky, those games are hard and players say they "love and hate" the game. Of course starting over can be frustrating, but we really need this to give replayability to a small game, and a sense of challenge. So strategically we have to get over the frustration of starting over and just place this roguelike mechanic of permadeath into the game.
