@@ -1,3 +1,9 @@
+# 10 / 7 / 2019 - ANOTHER KEY THING ABOUT BASE BUILDING
+
+Another key thing about base buidling is that this not only stretches and deepens the dimension of the gameplay, but also creates a sense of anticipation. Here we are playing in the asteroid field, but we are also looking forward to getting the materials need (and not die!) to upgrade our base. Diyng takes on a larger ramification also since we will lose all of our base building materials.
+
+And use roguelike to glue this whole historically proven procedurally randomized game genre.
+
 # 10 / 7 / 2019 - TODO
 
 1. Clean up the code base
