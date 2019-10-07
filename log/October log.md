@@ -1,6 +1,6 @@
 # 10 / 7 / 2019 - ANOTHER KEY THING ABOUT BASE BUILDING: EXPANDS GAMEPLAY + GIVES ANTICIPATION BETWEEN THE DIFFERENT GAME MODES (COMBAT & BASE BUILDING)
 
-Another key thing about base buidling is that this not only stretches and deepens the dimension of the gameplay, but also creates a sense of anticipation. Here we are playing in the asteroid field, but we are also looking forward to getting the materials needed to upgrade our base (and not to die in the process!). Diyng takes on a larger ramification also since we will lose all of our base building materials.
+Another key thing about base buidling is that this not only stretches and deepens the dimension of the gameplay, but also creates a sense of anticipation. Here we are playing in the asteroid field, but we are also looking forward to getting the materials needed to upgrade our base (and not to die in the process!). Dying takes on a larger ramification also since we will lose all of our base building materials.
 
 Perhaps this was one of the subliminal elements which made the immediate post initial game play boring -- there was nothing to anticipate -- the whole game was experienced, with nothing to be done. And players are smart and sense this kind of monotony.
 
