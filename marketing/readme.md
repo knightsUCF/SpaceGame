@@ -49,4 +49,21 @@ This will do wonders for the marketing of the game!
 
 We can focus on the article more on how the developers of FTL, found the fun, so something like, "Fun, game iteration, and the struggles of FTL to make an indie game."
 
-And here we could do some major, but EXTREMELY ENTERTAINING analysis (to draw a crowd), and then link back to our game, which we would get two things right away 1) exposure 2) higher google search algorithm SEO ranking
+And here we could do some major, but EXTREMELY ENTERTAINING analysis (to draw a crowd), and then link back to our game, which we would get two things right away 1) exposure 2) higher google search algorithm SEO ranking.
+
+# Not Just the Usual Suspects
+
+Instead of going after the gaming crowd on Reddit, we can go for the ENTIRE Internet crowd.
+
+We could do this by linking to very large and on outside appearance, general (blog) articles. That's what they really are, blog articles, but blog articles could be out of fashion, and we could use a different name, maybe even articles.
+
+Kind of like a collection of articles that Terry Rossio would write for Wordplayer.com
+
+We should also have a website that is perhaps the name of the company, and not the game, so we can keep this name around for more projects, while we drive traffic to this one central location, the game company site.
+
+
+Some examples of "big concept topics", which would have the potential of attracting the largest crowd possible would be: 
+
+- technology anything related, doesn't even have to be specific to the game, or game dev (but can be)
+- VR
+- look at what is trending in technology and write about the cool things, which are not necessarily controversial, leave a good feeling afterward, and are of utmost interest to readers
