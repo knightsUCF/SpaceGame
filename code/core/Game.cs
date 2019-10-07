@@ -2,7 +2,6 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
 using UnityEngine.UI;
-// add "using TMPro;" to top of script and use a "TextMeshProUGUI" variable instead of a "Text" one
 using TMPro;
 
 
@@ -15,15 +14,12 @@ public class Game : MonoBehaviour
     public float startWait;
     public float waveWait;
 
-    // public Text scoreText;
+
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI levelText;
-    public Text restartText;
-    // public Text gameOverText;
     public TextMeshProUGUI gameOverText;
 
 
-    private bool gameOver;
     private bool restart;
     private int score;
 
@@ -31,7 +27,6 @@ public class Game : MonoBehaviour
 
     void Start()
     {
-        gameOver = false;
         restart = false;
         restartText.text = "";
         gameOverText.text = "";
@@ -75,7 +70,7 @@ public class Game : MonoBehaviour
             }
             yield return new WaitForSeconds(waveWait);
 
-            if (gameOver)
+            if (State.GAME_OVER)
             {
                 restartText.text = "Press 'R' for Restart";
                 restart = true;
@@ -98,7 +93,7 @@ public class Game : MonoBehaviour
     public void GameOver()
     {
         gameOverText.text = "GAME OVER";
-        gameOver = true;
+        State.GAME_OVER = true;
     }
 
 
