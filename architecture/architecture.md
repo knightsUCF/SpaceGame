@@ -1,5 +1,13 @@
 # 10 / 7 / 19
 
+Okay, so we are at a nice starting point of our codebase. Everything is clean and organized.
+
+Next, we can either start to recreate the gameplay, or keep laying down the foundation.
+
+Let's try to get the IEnumerator method working, since that will be our main wave spawning loop.
+
+# 10 / 7 / 19
+
 We began to clean up the code, starting with Game.cs.
 
 We are using clean architecture, see Diagram1.png.
