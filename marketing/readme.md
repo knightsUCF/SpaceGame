@@ -198,17 +198,24 @@ In the agent cover letter mention being editor in chief of the paper, studying c
 * Some more anthropology on how we evolved to our current state of a dependence on technology
 * The Postmodern Human, how anthrotech is changing the world
 * The Information Age, how we got here and where we are going
+* The Death of the Old Order, mention how newspapers have been replaced by the Internet, focus in this chapter on the industries that have been wiped away by monopolization, Amazon, which no one believed in the beginning that people would want to buy books on the Internet, and in 20 years most could hardly imaging having to pay retail when the could have the books conviently delivered to their door steps
 * Cyberpunk, a resurgence of cyberpunk with William Gibson, which ideas were put on hold, alluding to Bitcoin and cryptos, which will transition into the next chapter
+* The Streamer Sensation, how regular people are using the Internet to connect with people all over the world, a whole new paradigm of journalism, communication, "techno tribes", this like technology is not just a linear improvement, this is a quantum leap, a sudden great leap forward on an exponential scale
+* Techno Tribes, how modern technology is creating decentralized asynchronous techno tribes, groups of people who come together in a shared interest on the Internet, speak of chess as one of the examples of this, how people are using Twitch for such niche communities as chess, the whole fascinating spectacle of the thing, where else would we have thousands of people watching a chess match and commentating in real time
 * Cryptocurrency, mention that one "Cryptonomicon" on the Internet, which seemed to foretell cryptocurrency, speak of decentralized exchanges, go into the max nitty gritty, people will enjoy this stuff coming from a programmer, go over ICOs, explain very clearly how crypto works, the origins, read the crypto book by that one Greek guy, in general give the audience a very informative, yet easy to read an entertaining experience
+* Autonomous Electric Vehicles, cover Tesla, self driving cars, Google tech, the wonders of modern GPS
+* <good place for more light stuff here>
+* 
 * From Gaming to Reality, talk about how the early games were just fun amusements, and now they are taking over, with games being a bigger industry than film and Hollywood
 * VR, where we mention our game, and the history of VR, especially the interesting Facebook drama, quoting the VR book, if we pull out the best parts from the Oculus book we will have a riveting chapter
 * Experiences inside the Matrix, connect back now cyberpunk from the earlier William Gibson chapter, also jot down that Matrix Book
 * New Paradigms Brought by Tech, talk about how technology is changing our perceptions of the world, mentioning the best ideas in that book Sync, and also the Science of Impossibilty
 * Michael Crichton's Technothrillers, write how we are naturally predisposed to see the worst in things, but this is generally not a bad thing because we can be more careful about technology
 * Transition with Michael Crichton's NEXT into Biotech, and Bioethics
+* Neuralink, the things we can do with our minds
 * Chapter on Craig Venter and his work to use technology to create life in the lab
-* Outer Space and Elon Musk
-* finish with "Where from Here?" mention how predicting the future is notoriously difficult, opening up with that one statement of the gentlemen who said nothing was left to be invented after the steam engine.
+* Outer Space and Elon Musk, colonizing the moon and mars, mention India and China's efforts to have moon and mars bases
+* finish with "Where from Here with Accelerating Change" mention how predicting the future is notoriously difficult, opening up with that one statement of the gentlemen who said nothing was left to be invented after the steam engine. Focus on accelerating change, and open up with Baltazar Gracian's saying, that took more than century to educate a man than before intro, with the quote in the beginning 1650, also do quotes for each of the chapters
 
 If we smoothly transition ideas from chapter to chapter, culminating in a grand finale climax of the book, then no one will suspect any of these chapters were written as disjointed articles, not that they are like this.
 
