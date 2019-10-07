@@ -17,7 +17,17 @@ So, what is up next?
 
 Feels much clearer now, can go into Game.cs, and expect to only see stuff relevant to Game, instead of chewing through the spawner code, as one large big chunk of procedural code. Now the code is modular.
 
+Excerpt:
 
+"Modularity is at the core of everything. Initially I had approached this very differently, but it turned out after ~ 20 drafts that nothing else is as important as getting modularization right.
+
+Good modularization makes building and packaging for the browser easy, it makes testing easier and it defines how maintainable the code is. It is the linchpin that makes it possible to write testable, packagable and maintainable code.
+
+What is maintainable code?
+
+Easy to understand and troubleshoot
+Easy to test
+Easy to refactor"
 
 # Intro
 
