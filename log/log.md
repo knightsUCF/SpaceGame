@@ -38,7 +38,7 @@ The mineral depositing mechanism should have some juice, even if just lights and
 Adding this base building aspect will add great variety and make the game a success like XCOM, which if only had one aspect of gameplay would not have done well, yet came out as a unvirsal hit with the proper level of game depth.
 
 
-# 10 / 7 / 2019 - CLEAN CODE & NO PROTOTYPES! (ENSURES FINAL PRODUCT WORKS)
+# 10 / 7 / 2019 - CLEAN MODULAR DATA DRIVEN EVEN BASED CODE & NO PROTOTYPES! (ENSURES FINAL PRODUCT WORKS)
 
 Something magical happens everytime we do a TODO list or a log. The items get done without necessarily referring back at the list. So this method is very helpful and should be continued.
 
