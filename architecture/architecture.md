@@ -13,8 +13,7 @@ We can also do the upgrades, from the asteroids and ships, we already have the c
 
 Also create a basic weapon system, so that we can experiment with transitioning between different weapon effects (Weapon.cs)
 
-
-
+Next up is also determining in which order we will be importing the code from here because of dependencies.
 
 
 # 10 / 7 / 19
