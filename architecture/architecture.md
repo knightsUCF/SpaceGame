@@ -1,3 +1,23 @@
+# 10 / 7 / 19
+
+We moved and segragated functionality by type, so now we have smaller files, which are easier to understand such as WaveSpawner.cs, which used to be in Game.cs.
+
+Game.cs was a convoluted piece of code, so we parted out all the functions by type, such as Score.cs, WaveSpawner.cs, InputManager.cs, and etc. 
+
+When we get the Player code, we will also want to do that, namely with InputManager.cs, where we will get the RT XBox controller input.
+
+So, what is up next?
+
+* Finishing cleaning the game class
+
+* Clean the rest of the code
+
+* Begin assembling in the compiler
+
+* Arrive at a clean foundation
+
+
+
 # Intro
 
 Here we will breakdown the game architecture, just the important parts to keep an overview of the codebase, and to prevent from things getting out of hand.
