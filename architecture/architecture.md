@@ -22,8 +22,6 @@ What we have left on the list to pull out:
 
 BGScroller
 
-EvasiveManeuver (check if this is done)
-
 GameController (Game.cs -> have to rework some of the code here)
 
 Mover -> this will probably go into the Ship folder of Space Object
