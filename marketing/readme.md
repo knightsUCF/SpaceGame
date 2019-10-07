@@ -150,6 +150,29 @@ Have a cool book title, like Brave New Technoworld: Journeys in the Dark Labyrin
 
 This lends to all the dark undercurrents of modern tech, so on biotech we could draw inspiration from Michael Crichton and his work on Next.
 
+
 # The Literary Edge
 
 Not only use philosophy heavily, but also quote the ideas, thoughts, and works of literary authors to make the worker higher class.
+
+# Book Topics
+
+* pull out cyberpunky and anthrotech (perhaps coin this word), topics from the articles kind of like in the style of Cyberia
+
+* mention the idea of information doubling, how from the renaissance to the 70s technology doubled, etc
+
+* above all try to gain the reader's interest
+
+* hot technology is always going to be high up on the bestseller's list, especially that now the trend is going toward more nonfiction writing than fiction writing
+
+* feature tons of philosophy like Zizek, who repeats all the good ideas to garner interest
+
+* feature tons of literary references, and literary theory
+
+* really ground the reader in modern theory to expand their horizons
+
+* expand the reader's horizons on every step
+
+* have a cool organization to the book like the biologist often does, Wilson and also Michael Crichton
+
+* speak a lot about Michael Crichton's work, and his cautionary tales of technology, introducing him as the science fiction techno thriller writer of Jurassic Park
