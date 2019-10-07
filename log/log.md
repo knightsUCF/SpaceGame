@@ -1,6 +1,6 @@
 # 10 / 7 / 2019 - GAME JUICE
 
-A thing that I noticed when beta testers played the game, was that they expected "a lot more". This is fine considering there was really only 2 days spent on getting the basic prototype running. There is a level of initial fun experienced by the players, and then a loss of attention, which is understandable since the game was just started and is rather shallow.
+A thing that I noticed when beta testers played the game, was that they expected "a lot more". This is fine considering there was really only 2 days spent on getting the basic prototype running. There was a level of initial fun experienced by the players, and then a loss of attention, which is understandable since the game was just started and is rather shallow.
 
 So the goal then is to make the game deep, and also provide much more stimulation, and interaction, engaging the player and not allowing them to be bored.
 
