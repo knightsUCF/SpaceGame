@@ -26,6 +26,17 @@ GameController (Game.cs -> have to rework some of the code here)
 
 Mover -> this will probably go into the Ship folder of Space Object
 
+We are assuming Mover is for the asteroids, and hence we are placing this into the asteroids folder.
+
+
+So we have just BGScroller, and GameController now to clean up. And the dependencies from DestroyByContact, and a few other files with dependencies... determine all the files with dependencies.
+
+After this is all done, import the 1) lights and camera, then the 2) background, (and skybox), and then the 3) asteroid and ship prefabs.
+
+Then study the organization of in the hierarchy, and where the prefab slots are to be linked.
+
+
+
 
 
 
