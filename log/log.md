@@ -4,9 +4,9 @@
 2. Get the code base to compile
 3. Get basic gameplay working (diagram out all components here for reference, and later assembly)
 4. Create game elements:
- - ship variety
- - weapon variety
- - bonus upgrades
+  - ship variety
+  - weapon variety
+  - bonus upgrades
 5. Polish the small core
 6. Create the menu
 7. Create the HUD
