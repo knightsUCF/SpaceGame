@@ -149,3 +149,7 @@ Also use a lot of philosophy. One way of doing this is simply talking about the 
 Have a cool book title, like Brave New Technoworld: Journeys in the Dark Labyrinth of 21st Technology.
 
 This lends to all the dark undercurrents of modern tech, so on biotech we could draw inspiration from Michael Crichton and his work on Next.
+
+# The Literary Edge
+
+Not only use philosophy heavily, but also quote the ideas, thoughts, and works of literary authors to make the worker higher class.
