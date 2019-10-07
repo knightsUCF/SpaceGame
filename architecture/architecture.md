@@ -1,5 +1,12 @@
 # 10 / 7 / 19
 
+
+The next phase is to get the core working cleanly in the engine, along with prototyping with just the shapes, anything we need to do before the computer arrives. The arrival of the computer won't slow us down if we work toward buildng a stable foundation.
+
+
+
+# 10 / 7 / 19
+
 Game.cs was a convoluted piece of code, so we parted out all the functions by type, such as Score.cs, WaveSpawner.cs, InputManager.cs, and etc. 
 
 When we get the Player code, we will also want to do that, namely with InputManager.cs, where we will get the RT XBox controller input.
