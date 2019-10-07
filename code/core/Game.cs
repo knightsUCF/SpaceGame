@@ -17,13 +17,13 @@ public class Game : MonoBehaviour
     Wave wave;
 
 
-    // start up StartGame()
+    // call game start
 
     void Start()
     {
         wave = FindObjectOfType<Wave>();
 
-        StartGame();
+        GameStart();
     }
 
 
@@ -31,10 +31,10 @@ public class Game : MonoBehaviour
     // METHODS ///////////////////////////////////////////////////////
 
     
-    // start game
+    // game start
 
 
-    void StartGame()
+    void GameStart()
     {
         Debug.Log("Starting game...");
 
@@ -56,6 +56,7 @@ public class Game : MonoBehaviour
 
    
 }
+
 
 
 
