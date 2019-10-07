@@ -33,6 +33,8 @@ At first the scene transition to the hanger will be simple. There will be a rota
 
 The workers can then take the titanium, and other minerals we find in asteroids and begin engine building and generating cool stuff for us, that we can then use to upgrade the ship, and also the colony.
 
+The mineral depositing mechanism should have some juice, even if just lights and sound effects, so that we are rewarded for our toils.
+
 So adding this base building aspect will add great variety and make the game a success like XCOM, which if only had one aspect of gameplay would not have done well, yet came out as a unvirsal hit with the proper level of game depth.
 
 
