@@ -21,6 +21,9 @@ public class Wave : MonoBehaviour
 
         while (true)
         {
+            Debug.Log("Spawning a new wave"); // send this log out to the panel next to the user in VR
+
+
             for (int i = 0; i < Settings.HAZARD_COUNT; i++)
             {
                 Debug.Log("Spawning waves: " + i);
