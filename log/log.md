@@ -21,7 +21,7 @@ Besides that, the three major things that provide for game fun are:
 3. A sense of wonder
 
 
-That's why they say to start off by getting your game loop right. The basic game loop does feel right, but there is not enough variety and stimulation to maintain interest levels. So we want to add more gameplay juice like in Enter the Gungeon, Geometry Wars, and other Space Shooters.
+That's why they say to start off by getting your game loop right. The basic game loop does feel right, but there is not enough variety and stimulation to maintain interest levels. So we want to add more gameplay juice like in Enter the Gungeon, Geometry Wars, and other space shooters.
 
 Of course when we add the base engine building aspect that will deepen the gameplay, but we want the basic combat tacticle game part to work independently.
 
