@@ -29,7 +29,8 @@ So the rest of rewriting of Game was rather simple, with only needing to transfe
 
      // public GameObject[] hazards;
      // public Vector3 spawnValues;
-     
+ 
+ Since both of these are public, check which settings / objects are being set / dragged into slots in the project from the inspector.
  Where are the hazards game objects coming from?
  
  Either:
