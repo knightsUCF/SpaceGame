@@ -21,3 +21,7 @@
 A simple cool thing we could do, is take one of our interesting log posts, and write up a game dev / general gamer audience article, which would go into cool nitty gritty details while advertising the game. This would feel very natural and work in tune with how we want to present on reddit, namely that post write ups do much better than external article links.
 
 
+
+# EASY MONEY
+
+Game developers are usually not very good at advertising, which is not within their skillset. But if we look at this with the perspect of: if we just write this blog post we will instantly generate a few thousand dollars of sales in the next few days -- that will be motivation enough to work on marketing and writing up these articles, or sending press kits out, or whatever else we can do advertise the game.
