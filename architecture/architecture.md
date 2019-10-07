@@ -23,6 +23,7 @@ If we don't reload the scene on restart that is fine. We can rework this later.
 
 So now clean up the remaining parts from Game.cs, especially the global variables. We don't have to worry about score, or text or anything like that. Just get the basic core working.
 
+And to note, here in Game.cs we are just using that to start the spawning of enemies. No gameover or anything like that for now.
 
 # 10 / 7 / 19
 
