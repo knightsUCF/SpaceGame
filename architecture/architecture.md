@@ -1,6 +1,61 @@
 # 10 / 7 / 19
 
 
+So the files to pull out are:
+
+BGScroller
+DestroyByBoundary
+DestroyByContact
+DestroyByTime
+Evasivemaneuver
+GameController (Game)
+Mover
+PlayerController (Player)
+RandomRotator
+WeaponController
+
+https://github.com/knightsUCF/AsteroidsOriginal
+
+
+So let's group these.
+
+The destroy methods could go into a "destroy" folder. The destroy folder could be in a folder called "gameplay".
+
+This folder "Gameplay" could be in the "Core" folder?
+
+So, Core -> Gameplay -> Destroy
+
+We are not sure what "BGScroller" is yet.
+
+EvasiveManeuver we already have in AI. Double check the code is there and up to date.
+
+Mover we are assuming moves the ships. This would be in Gameplay. Not sure if we should somehow connect space object here.
+
+Instead of Gameplay, we can name this whole folder "Space Object", and then move the Destroy() methods here since they all apply to space objects.
+
+Okay, proceeding, we already have Player on the Core.
+
+RandomRotator would go in the Space Object folder.
+
+And WeaponController would go in the Weapon folder.
+
+
+So create these blank files to go in the Space Object folder:
+
+DestroyByBoundary
+DestroyByContact
+DestroyByTime
+RandomRotator
+
+Within the space object folder, create a folder called "Asteroid", and in here move the RandomRotator.
+
+
+
+
+
+# 10 / 7 / 19
+
+
 So now we have the IEnumerator method working, and a good understanding of how the spawn waves work. The code is clean and backed up. FeelsGoodMan.
 
 We also created a "space objects" folder, into which we will place all the space object, probably subdivided by type, so asteroid, and ship. So we will need both of those folders.
