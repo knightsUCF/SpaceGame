@@ -4,6 +4,21 @@
 // use a singleton for this one
 
 
-public bool GAME_OVER = false;
-public int SCORE = 0;
 
+
+public class State : Singleton<State>
+{
+
+
+  public static bool GAME_OVER = false;
+  public static int SCORE = 0;
+
+
+
+
+
+
+    
+  
+
+}
