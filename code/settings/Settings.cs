@@ -10,18 +10,19 @@ public class Settings : Singleton<State>
     // WAVE SPAWNING //////////////////////////////
 
 
-    // start wait time before the game begins
+    // pause time before the game begins
 
     public static float START_WAIT = 3.0f;
 
 
-    // time between wave spawns
+    // pause time between individual object spawns in each wave
 
     public static float SPAWN_WAIT = 2.0f;
 
 
+    // pause time between waves
 
-    public static float WAVE_WAIT;
+    public static float WAVE_WAIT = 10.0f;
 
 
 
