@@ -8,7 +8,7 @@ Next up after setting up a clean modular code foundation will be experimenting w
 
 And then on down with the list, unless we have to reprioritize.
 
-Again, no prototyping! Even when we get to the hangar and workers, work first toward getting to a simple fun core MVP, so that we are always in a state of a working product, and not a prototype or a tech demo!
+Again, no prototyping! Even when we get to the hangar and workers, work first toward getting to a simple fun core MVP, so that we are always in a state of a working product, and not a prototype or a tech demo! This single thing ensures success after three months.
 
 
 # 10 / 7 / 2019
