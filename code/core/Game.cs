@@ -27,22 +27,35 @@ public class Game : MonoBehaviour
     }
 
 
+
+    // METHODS ///////////////////////////////////////////////////////
+
     
     // start game
 
 
     void StartGame()
     {
+        Debug.Log("Starting game...");
 
+        Debug.Log("Time to first spawn: " + Settings.START_WAIT);
         // spawn enemy AI waves
 
         StartCoroutine(wave.SpawnWaves());
     }
 
 
+
+    // game over
+
+    void GameOver()
+    {
+        Debug.Log("GAME OVER!");
+    }
+
+
    
 }
-
 
 
 
