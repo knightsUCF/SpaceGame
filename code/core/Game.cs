@@ -34,6 +34,8 @@ public class Game : MonoBehaviour
 
     void Start()
     {
+        /* rewrite all this to be compatible with the new modular files
+        
         restart = false;
         restartText.text = "";
         gameOverText.text = "";
@@ -44,6 +46,7 @@ public class Game : MonoBehaviour
         NewLevel(1);
         
         Invoke("ClearLevelText", 2);
+        */
 
         
     }
