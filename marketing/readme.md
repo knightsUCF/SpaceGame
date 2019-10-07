@@ -121,3 +121,7 @@ We can have users be notified when a new article comes out, or enter your email 
 # Trashy Ads
 
 In the beginning we don't want any ads on the website so the site does not seem trashy. We will get more traffic this way, and the real product is the game.
+
+# Research SEO Techniques
+
+* this is key, and something we can list on our resume
