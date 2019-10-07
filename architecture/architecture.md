@@ -25,6 +25,18 @@ So now clean up the remaining parts from Game.cs, especially the global variable
 
 And to note, here in Game.cs we are just using that to start the spawning of enemies. No gameover or anything like that for now.
 
+So the rest of rewriting of Game was rather simple, with only needing to transfer these two lines:
+
+     // public GameObject[] hazards;
+     // public Vector3 spawnValues;
+     
+ Where are the hazards game objects coming from?
+ 
+ Either:
+ 
+ 1) We will need to break a dependency to have the editor tell us where these are coming from, or
+ 2) They are somehow dragged in through GameObject slots in the hierarchy
+
 # 10 / 7 / 19
 
 
