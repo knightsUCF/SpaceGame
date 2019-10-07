@@ -4,7 +4,7 @@ A thing that I noticed when beta testers played the game, was that they expected
 
 So the goal then is to make the game deep, and also provide much more stimulation, and interaction, engaging the player and not allowing them to be bored.
 
-One simple way of doing this is adding "game juice", which is not particularly concerned with game progression, although there will be juice effects for progression.
+One simple way of doing this is adding <br>"game juice"</b>, which is not particularly concerned with game progression, although there will be juice effects for progression.
 
 Go over the game juice YouTube video, and outline all the methods of increasing game juice here.
 
@@ -48,7 +48,7 @@ Next up after setting up a clean modular code foundation will be experimenting w
 
 And then on down with the list, unless we have to reprioritize.
 
-Again, no prototyping! Even when we get to the hangar and workers, work first toward getting to a simple fun core MVP, so that we are always in a state of a working product, and not a prototype or a tech demo! This single thing ensures success after the three month workperiod comes to an end.
+Again, no prototyping! Even when we get to the hangar and workers, work first toward getting to a simple fun core MVP, so that we are always in a state of a working product, and not a prototype or a tech demo! <b>This single thing ensures success after the three month workperiod comes to an end.</b>
 
 
 # 10 / 7 / 2019
