@@ -242,3 +242,10 @@ If we have writing experience and we do, we can really do this efficiently: we c
 # Back of the Book Cover
 
 On the back book cover mention anthropology education, being a programmer, and the name of the game on Steam, which will be a huge advertisement
+
+
+# Writing Well
+
+* use active voice, active action verbs
+* rewrite a lot, working on one article at a time will help with this
+* use variety in rhythm
