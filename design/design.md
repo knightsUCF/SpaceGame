@@ -1,3 +1,9 @@
+
+# Main Point
+
+* don't let the player catch on to repetition, vary the gameplay
+
+
 # Order of Tasks
 
 * keep outlining here important stuff
