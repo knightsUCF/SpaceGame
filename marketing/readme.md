@@ -134,4 +134,4 @@ In the beginning we don't want any ads on the website so the site does not seem 
 
 * write each of the articles in such a way that we can create a whole book out of placing the seemingly organic articles in a sequential chapter manner (even planning out series of articles with an overarching theme before hand, like Cyberia, with a title like Virtual Realities, Cyberpunk, and the ..., a very cool anthropological title), something that we could file away in anthropology or technology. Then when the VR game is done, we should have a much easier time of getting a book published with all of these articles. So this would be a book on topics in tech and anthropology with a lose theme of cyberpunk, so we would just collect those articles which would cover the topic, such as Matrix, Neuromancer, Cyberia, VR, etc.
 
-And of course the book would be extra advertising for the game.
+And of course the book would result in extra advertising for the game.
