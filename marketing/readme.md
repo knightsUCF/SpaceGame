@@ -3,7 +3,7 @@
 
 * the whole marketing page could be just: VOLUME, VOLUME, VOLUME
 
-* the goal is to simply send out as much marketing as measure in volume
+* the goal is to simply send out as much marketing as measured in volume
 
 * marketing is creating a game that is marketable
 
