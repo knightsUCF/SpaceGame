@@ -26,7 +26,9 @@ Good modularization makes building and packaging for the browser easy, it makes 
 What is maintainable code?
 
 Easy to understand and troubleshoot
+
 Easy to test
+
 Easy to refactor"
 
 # Intro
