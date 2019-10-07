@@ -200,7 +200,8 @@ In the agent cover letter mention being editor in chief of the paper, studying c
 * The Information Age, how we got here and where we are going
 * Cyberpunk, a resurgence of cyberpunk with William Gibson, which ideas were put on hold, alluding to Bitcoin and cryptos, which will transition into the next chapter
 * Cryptocurrency, mention that one "Cryptonomicon" on the Internet, which seemed to foretell cryptocurrency, speak of decentralized exchanges, go into the max nitty gritty, people will enjoy this stuff coming from a programmer, go over ICOs, explain very clearly how crypto works, the origins, read the crypto book by that one Greek guy, in general give the audience a very informative, yet easy to read an entertaining experience
-* VR, where we mention our game, and the history of VR, especially the interesting Facebook drama, quoting the VR book
+* From Gaming to Reality, talk about how the early games were just fun amusements, and now they are taking over, with games being a bigger industry than film and Hollywood
+* VR, where we mention our game, and the history of VR, especially the interesting Facebook drama, quoting the VR book, if we pull out the best parts from the Oculus book we will have a riveting chapter
 * Experiences inside the Matrix, connect back now cyberpunk from the earlier William Gibson chapter, also jot down that Matrix Book
 * New Paradigms Brought by Tech, talk about how technology is changing our perceptions of the world, mentioning the best ideas in that book Sync, and also the Science of Impossibilty
 * Michael Crichton's Technothrillers, write how we are naturally predisposed to see the worst in things, but this is generally not a bad thing because we can be more careful about technology
