@@ -220,7 +220,7 @@ In the agent cover letter mention being editor in chief of the paper, studying c
 * Neuralink, the things we can do with our minds
 * Chapter on Craig Venter and his work to use technology to create life in the lab
 * Outer Space and Elon Musk, colonizing the moon and mars, mention India and China's efforts to have moon and mars bases
-* finish with "Where from Here with Accelerating Change" mention how predicting the future is notoriously difficult, opening up with that one statement of the gentlemen who said nothing was left to be invented after the steam engine. Focus on accelerating change, and open up with Baltazar Gracian's saying, that took more than century to educate a man than before intro, with the quote in the beginning 1650, also do quotes for each of the chapters
+* finish with "Where from Here with Accelerating Change" mention how predicting the future is notoriously difficult, opening up with that one statement of the gentlemen who said nothing was left to be invented after the steam engine. Focus on accelerating change, and open up with Baltazar Gracian's saying, that took more than century to educate a man than before intro, with the quote in the beginning 1650, also do quotes for each of the chapters. Like Alice, mention we have to run faster just to stay in place in the Brave New Techworld, which is a nice way to wrap up the theme of the book, that if you're feeling overwhelmed with the rapid pace of change that's okay, everyone is, as the subliminal message to the reader.
 
 If we smoothly transition ideas from chapter to chapter, culminating in a grand finale climax of the book, then no one will suspect any of these chapters were written as disjointed articles, not that they are like this.
 
