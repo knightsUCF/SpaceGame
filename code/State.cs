@@ -4,5 +4,5 @@
 // use a singleton for this one
 
 
-public bool gameOver = false;
+public bool GAME_OVER = false;
 
