@@ -192,4 +192,33 @@ Of course we want to take the proper route and get an agent instead of self publ
 
 In the agent cover letter mention being editor in chief of the paper, studying creative writing in college, and other things to give immediate credence. Then mention that you just published a VR game to give even further credence, and of course mention you got a degree in anthropology so you are writing in this genre of "anthrotech", making up the word unashamedly.
 
+# Book Chapters
 
+* Brave New Techworld anthro intro
+* Some more anthropology on how we evolved to our current state of a dependence on technology
+* The Postmodern Human, how anthrotech is changing the world
+* The Information Age, how we got here and where we are going
+* Cyberpunk, a resurgence of cyberpunk with William Gibson, which ideas were put on hold, alluding to Bitcoin and cryptos, which will transition into the next chapter
+* Cryptocurrency, mention that one "Cryptonomicon" on the Internet, which seemed to foretell cryptocurrency, speak of decentralized exchanges, go into the max nitty gritty, people will enjoy this stuff coming from a programmer, go over ICOs, explain very clearly how crypto works, the origins, read the crypto book by that one Greek guy, in general give the audience a very informative, yet easy to read an entertaining experience
+* VR, where we mention our game, and the history of VR, especially the interesting Facebook drama, quoting the VR book
+* Experiences inside the Matrix, connect back now cyberpunk from the earlier William Gibson chapter, also jot down that Matrix Book
+* New Paradigms Brought by Tech, talk about how technology is changing our perceptions of the world, mentioning the best ideas in that book Sync, and also the Science of Impossibilty
+* Michael Crichton's Technothrillers, write how we are naturally predisposed to see the worst in things, but this is generally not a bad thing because we can be more careful about technology
+* Transition with Michael Crichton's NEXT into Biotech, and Bioethics
+* Chapter on Craig Venter and his work to use technology to create life in the lab
+* Outer Space and Elon Musk
+* finish with "Where from Here?" metnion how predicting the future is notoriously difficult, opening up with that one statement of the gentlemen who said nothing was left to be invented after the steam engine.
+
+Keep collecting good ideas here, which we could arrange into modular units, which could then be pleasantly and interesting arranged into a flowing sequence which would make up the book
+
+Try to get to a beefy 300+ pages so people feel that the book is worth their money.
+
+Keep researching the most interesting ideas, and collect those ideas to then write around that in a preplanned manner in the style of How to Write Well While Writing Fast.
+
+Go for a high density of great ideas like a Zizek book
+
+
+
+# The Trick to Writing a Book
+
+* if we have experience we can really do this efficiently: we can preplan all of the articles with the methods of How to Write Fast While Writing Well, knowingly how they will fit into the book sequence, getting large advertising exposure for our game, and taking care of struggling with what to write about, since now we have an overarching sturcture
