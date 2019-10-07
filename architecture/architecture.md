@@ -60,7 +60,11 @@ RandomRotator
 Within the space object folder, create a folder called "Asteroid", and in here move the RandomRotator.
 
 
+So we have a folder called "Space Object" in Code, instead of Gameplay for now. (A gameplay folder might come later.)
 
+In this Space Object folder we have three folders: Asteroid, General, and Ship.
+
+Asteroid will get the RandomRotator, and the destroy methods will go in General.
 
 
 # 10 / 7 / 19
