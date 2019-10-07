@@ -13,6 +13,23 @@ Another thing to put on the short term TODO list, is to go through the project (
 
 There will be of course a few errors that we will find what we are missing through experimentation, but with a solid clean core we don't have any problems.
 
+But do this until we get the codebase ready to go, including Game.cs, with the rest of the stuff we have to pull out.
+
+So let's get to BGScroller, last since we don't know what this is.
+
+What we have left on the list to pull out:
+
+
+BGScroller
+
+EvasiveManeuver (check if this is done)
+
+GameController (Game.cs -> have to rework some of the code here)
+
+Mover -> this will probably go into the Ship folder of Space Object
+
+
+
 
 
 # 10 / 7 / 19
