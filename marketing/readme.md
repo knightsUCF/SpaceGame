@@ -194,7 +194,7 @@ In the agent cover letter mention being editor in chief of the paper, studying c
 
 # Book Chapters
 
-* Brave New Techworld anthro intro
+* Brave New Techworld anthro intro, mention Michael Crichton a lot (with a nice young picture), since he was the leading techno thriller pop culture author, and he was also an anthropologist, and his general opinion of technology in all of his books lines up with the theme of the cautionary tale of technology, our quest to harness our new powers, (use some mythology here how someone tried to get too much power at their detrmine, Icarus? That's a common one, try to find others, that people haven't heard about), and this goes well with the title "Brave New Techworld"
 * Some more anthropology on how we evolved to our current state of a dependence on technology
 * The Postmodern Human, how anthrotech is changing the world
 * The Information Age, how we got here and where we are going
