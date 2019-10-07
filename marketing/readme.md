@@ -30,3 +30,17 @@ Game developers are usually not very good at advertising, which is usually not w
 # PROOFREAD, PROOFREAD, PROOFREAD
 
 Make sure to utilize all the writing craftsmanship when writing a blog post, or marketing copy. Edit the writing a number of times, read out loud, set aside for a few days, and then read out loud again, continuously layering your talent and improving the quality bar. An always interesting element is insight, so that we do not dare to waste the reader's time.
+
+# FTL Article
+
+We just wrote a log post on comparing the game to FTL, and the developer's iteration process of "finding the fun". We could write up a blog post how we were inspired by this GDC talk, summarize and expand on the GDC talk relating back on the game. We could set this up on our website, and organically drive traffic. This is an ofter overlooked way of generating some really good traffic. The Internet is your backyard sandbox! Take advantage of the user friendliness of technology in the 21st century and bring your traffic to you! 
+
+This can simply be done with writing this informative blog posts (could be signed undersome developer nickname), and these would organically drive traffic to the site!
+
+The blog posts wouldn't have to be just about games but like Yung Yea, although in a much less gossipy fashion, write about anything game related, which would then drive traffic. So we could have all sorts stuff, where we don't even mention the game, but just writing about the game would drive traffic.
+
+In fact, we should probably begin writing these blog posts sooner rather than later, and then have some sort of standard signature, like "Notch is the developer of Space Game, a space building game inspired by classic space shooters. Wishlist the game on Steam here: <link>." And bam! We are in!
+
+We can also have the user sign up their email address to be notified. Make this very easy for the user to input their email address. 
+
+This will do wonders for the marketing of the game!
