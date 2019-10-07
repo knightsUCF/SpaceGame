@@ -146,4 +146,6 @@ Also use a lot of philosophy. One way of doing this is simply talking about the 
 
 # Book Title
 
-Have a cool book title, like Brave New Technoworld: Journeys in the Dark Labyrinth of 21st Technology
+Have a cool book title, like Brave New Technoworld: Journeys in the Dark Labyrinth of 21st Technology.
+
+This lends to all the dark undercurrents of modern tech, so on biotech we could draw inspiration from Michael Crichton and his work on Next.
