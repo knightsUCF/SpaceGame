@@ -257,3 +257,7 @@ On the back book cover mention anthropology education, being a programmer, and t
 Try to make up as much new theory as possible, along with new concepts such as the human 2.0, anthrotech, all these sorts of things that could be referenced by others, especially anthropologist, making this a groundbreaking work of anthropology.
 
 Could also send out press kits of this book to all the anthropological departments in the US. And also send out book to review by anthropology magazines.
+
+# Advertising the Book
+
+* send out book to all top editors / reviewers / any and all media outlets that have an audience reach, even book reviewers on YouTube, anyone by audience reach, including streamers
