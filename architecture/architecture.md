@@ -1,5 +1,16 @@
 # 10 / 7 / 19
 
+DestroyByContact has code dependencies. DestroyByBoundary is fine with no dependencies.
+
+DestroyByTime is fine also, so DestroyByContact is our only dependency from the Space Object -> General folder
+
+
+Let's try moving the easy one, WeaponController now over to the Weapon folder.
+
+
+
+# 10 / 7 / 19
+
 
 So the files to pull out are:
 
