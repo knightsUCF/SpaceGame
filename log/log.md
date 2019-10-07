@@ -1,5 +1,41 @@
 # 10 / 7 / 2019
 
+Something I noticed when I let beta testers play the game, was that they expected "a lot more". This is fine considering there was really only 2 days spent on getting the basic prototype running. There is initial fun experienced by all players, and then a loss of attention, which is understandable since the game was just started and is rather shallow.
+
+So the goal then is to make the game deep, and also provide much more stimulation, and interaction, engaging the player and not allowing them to be bored.
+
+One simple way of doing this is adding "game juice", which is not particularly concerned with game progression, although there will be juice effects for progression.
+
+Go over the game juice YouTube video, and outline all the methods of increasing game juice here.
+
+Another major thing of course is neon lights, which can be found in most modern game trailers. So add lots of that, along with variety, an obvious one being the different laser / weapon types, not on the player, but also the enemy.
+
+Adding a game screen, and intro is another thing that the testers didn't pick up on that diminished their potential game experience. Throwing a game screen, along with a menu, music, intro story, those will add some real weight to the game.
+
+So all these things are easily achievable so outline a method to get these done.
+
+Besides that, the three major things that provide for game fun are:
+
+1. Engagement
+2. Progression
+3. A sense of wonder
+
+
+That's why they say to start off by getting your game loop right. The basic game loop does feel right, but there is not enough variety and stimulation to maintain interest levels. So we want to add more gameplay juice like in Enter the Gungeon, Geometry Wars, and other Space Shooters.
+
+Of course when we add the base engine building aspect that will deepen the gameplay, but we want the basic combat tacticle game part to work independently.
+
+So we will start by polishing the central game part as we go before approaching base building. We probably should spend all this month just polishing the basic combat, and then next month focus on the base building.
+
+Or perhaps we should start right away with simple base building, avoiding any time sinks, and testing that out with gameplay so we can develop the two alongside. That is probably better, although we want to the different types of ships, weapons, and ugprades first, so we can build out the basic architecture to work with the other aspect of the game.
+
+At first the scene transition to the hanger will be simple. There will be a rotating ship, and maybe some basic building, and also spawning workers, so we can begin to start taking care of them.
+
+The workers can then take the titanium, and other minerals we find in asteroids and begin engine building and generating cool stuff for us, that we can then use to upgrade the ship, and also the colony.
+
+
+# 10 / 7 / 2019
+
 Something magical happens everytime we do a TODO list or a log. The items get done without necessarily referring back at the list. So this method is very helpful and should be continued.
 
 We managed to clear the first items on the log in such manner.
