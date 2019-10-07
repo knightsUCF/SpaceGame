@@ -1,7 +1,5 @@
 # 10 / 7 / 19
 
-We moved and segragated functionality by type, so now we have smaller files, which are easier to understand such as WaveSpawner.cs, which used to be in Game.cs.
-
 Game.cs was a convoluted piece of code, so we parted out all the functions by type, such as Score.cs, WaveSpawner.cs, InputManager.cs, and etc. 
 
 When we get the Player code, we will also want to do that, namely with InputManager.cs, where we will get the RT XBox controller input.
