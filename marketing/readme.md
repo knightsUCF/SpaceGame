@@ -205,6 +205,7 @@ In the agent cover letter mention being editor in chief of the paper, studying c
 * Cryptocurrency, mention that one "Cryptonomicon" on the Internet, which seemed to foretell cryptocurrency, speak of decentralized exchanges, go into the max nitty gritty, people will enjoy this stuff coming from a programmer, go over ICOs, explain very clearly how crypto works, the origins, read the crypto book by that one Greek guy, in general give the audience a very informative, yet easy to read an entertaining experience
 * Autonomous Electric Vehicles, cover Tesla, self driving cars, Google tech, the wonders of modern GPS
 * <good place for more light stuff here>
+* Food engineering / production
 * AI, mention all the nuances of AI tech, and how this whole thing works to a laymen, the big leap, and go over the AI Winter in the beginning, how we were excited about AI, and then no progress was made, until two things which occured recently 1. Developments in Big Data 2. Computing power
 * 3D printing
 * Quantum computers, finish the chapter with some conjecture on what would happen if the AI came online with the power of a quantum computer, and learned everything instantly...?
