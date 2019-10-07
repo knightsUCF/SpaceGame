@@ -4,6 +4,8 @@ We began to clean up the code, starting with Game.cs.
 
 We are using clean architecture, see Diagram1.png.
 
+We also added an "AV" game object for "audiovisual" where we will keep the cameras and lights.
+
 
 # 10 / 7 / 19
 
