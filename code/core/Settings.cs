@@ -1,5 +1,5 @@
 
-public class State : Singleton<State>
+public class Settings : Singleton<State>
 {
   public static float SPAWN_WAIT;
   public static float START_WAIT;
