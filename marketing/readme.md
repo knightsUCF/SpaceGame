@@ -44,3 +44,9 @@ In fact, we should probably begin writing these blog posts sooner rather than la
 We can also have the user sign up their email address to be notified. Make this very easy for the user to input their email address. 
 
 This will do wonders for the marketing of the game!
+
+# An Entry to the Large Clubhouse of Reddit/r/Gaming
+
+We can focus on the article more on how the developers of FTL, found the fun, so something like, "Fun, game iteration, and the struggles of FTL to make an indie game."
+
+And here we could do some major, but EXTREMELY ENTERTAINING analysis (to draw a crowd), and then link back to our game, which we would get two things right away 1) exposure 2) higher google search algorithm SEO ranking
