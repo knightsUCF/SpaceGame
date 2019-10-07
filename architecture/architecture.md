@@ -3,6 +3,18 @@
 
 The next phase is to get the core working cleanly in the engine, along with prototyping with just the shapes, anything we need to do before the computer arrives. The arrival of the computer won't slow us down if we work toward buildng a stable foundation.
 
+We can use the shapes to prototype ships, even if the ships are made out of simple cube shapes, that is enough for now. We can still use the outline asset pack on the prototyped ships.
+
+So with the different ships we will want to begin the different waves of ships. And we can also build the menu transition to the base hangar, where the ship spins in 3D. This can all be done with the prototyping pack.
+
+By the time the computer arrives, we could have the whole core working. Don't waste time testing out the game in VR, we can guarantee basically that the game will work in VR after the prelimenary testing, so just focus on building out the core gameplay.
+
+We can also do the upgrades, from the asteroids and ships, we already have the core stuff for that.
+
+Also create a basic weapon system, so that we can experiment with transitioning between different weapon effects (Weapon.cs)
+
+
+
 
 
 # 10 / 7 / 19
