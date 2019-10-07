@@ -135,3 +135,15 @@ In the beginning we don't want any ads on the website so the site does not seem 
 * write each of the articles in such a way that we can create a whole book out of placing the seemingly organic articles in a sequential chapter manner (even planning out series of articles with an overarching theme before hand, like Cyberia, with a title like Virtual Realities, Cyberpunk, and the ..., a very cool anthropological title), something that we could file away in anthropology or technology. Then when the VR game is done, we should have a much easier time of getting a book published with all of these articles. So this would be a book on topics in tech and anthropology with a lose theme of cyberpunk, so we would just collect those articles which would cover the topic, such as Matrix, Neuromancer, Cyberia, VR, etc.
 
 And of course the book would result in extra advertising for the game.
+
+# On Neuromancer
+
+Skim Neuromancer, and list out all the visionary ideas, some of which came true, some of which didn't, and some of which might. We could use this wording to delineate these three categories.
+
+# On Combining Philosophy
+
+Also use a lot of philosophy. One way of doing this is simply talking about the ideas of philosophers, and quoting famous philosophers, which immediately gives our work a philosophical edge, which can be enjoyed by many.
+
+# Book Title
+
+Have a cool book title, like Brave New Technoworld: Journeys in the Dark Labyrinth of 21st Technology
