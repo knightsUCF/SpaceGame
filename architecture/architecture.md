@@ -10,7 +10,9 @@ In this file, architecture.md, we also want to diagram out any configurations. W
 
 So going back to state, we will have to pull out any state data from Game.cs.
 
+# Core
 
+Create a prefab called "Core", and then under this prefab have Game, Player, and State
 
 
 # Game.cs
