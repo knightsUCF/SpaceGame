@@ -15,6 +15,14 @@ public class Level : MonoBehaviour
 
 
     public TextMeshProUGUI levelText;
+    
+    
+    void Update()
+    {
+        CheckIfToAdvanceToNextLevel();
+    }
+    
+    
 
 
 
