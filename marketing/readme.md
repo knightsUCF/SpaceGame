@@ -118,6 +118,6 @@ We could have a general article on how all of the different ways technology has 
 
 We can have users be notified when a new article comes out, or enter your email to be notified when new articles are published, or when there are new updates to the game.
 
-# TRASHY ADS
+# Trashy Ads
 
 In the beginning we don't want any ads on the website so the site does not seem trashy. We will get more traffic this way, and the real product is the game.
