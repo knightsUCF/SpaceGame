@@ -1,4 +1,4 @@
-class WaveSpawner : MonoBehaviour
+class Wave : MonoBehaviour
 {
 
   IEnumerator SpawnWaves()
