@@ -261,3 +261,5 @@ Could also send out press kits of this book to all the anthropological departmen
 # Advertising the Book
 
 * send out book to all top editors / reviewers / any and all media outlets that have an audience reach, even book reviewers on YouTube, anyone by audience reach, including streamers
+
+* as money comes in pay the agent / publishing house to send the book officially through them
