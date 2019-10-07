@@ -101,3 +101,11 @@ And later who knows, we could collect these writings in a book about Cyberpunk a
 Also if we put an anthropological twist on a lot of the stuff, especially that we can sign our name saying we received a degree in anthropology (when the user clicks on About the author, or some author signature, the author studied anthropology and received a bachelor's of anthropology), this gives us credence to write about these things, especially when we talk about how in a few short years the Internet has completely changed our way of life drastically the first time in a few hundred thousand years...
 
 Also in the about section the author receieved his degree in anthropology, and is currently developing a game in VR. Wishlist the game on Steam here, or go here for the link.
+
+# Marketing Personality and Website
+
+The website title should be something catchy this is a "catch all" phrase for both the game development company and also the symposium of articles on the state of technology in the 21st century.
+
+So we could say the author is a game developer, to attract attention and give some credence along with the anthropology background.
+
+We could even have a general article which is Anthropology and Technology. What would make us stand out right away from the crowd, is by providing professional citations. Articles with lots of citations rise up as cream of the crop to the top of the Google search algorithm.
