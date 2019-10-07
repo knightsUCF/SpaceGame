@@ -1,6 +1,6 @@
 # 10 / 7 / 2019
 
-Something magical happens everytime we do a TODO list or a log, the items get done without necessarily looking at the screen. So this method is very helpful and should be continued.
+Something magical happens everytime we do a TODO list or a log. The items get done without necessarily looking at the screen. So this method is very helpful and should be continued.
 
 We managed to clear the first items on the log in such manner.
 
