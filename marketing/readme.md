@@ -185,3 +185,11 @@ Not only use philosophy heavily, but also quote the ideas, thoughts, and works o
 * here we would outline the major themes in the tech trends of today from an anthropological perspective, which would set the tone for the further articles in the book
 
 * of course later we could rewrite this article as a proper first chapter
+
+# Getting an Agent
+
+Of course we want to take the proper route and get an agent instead of self publishing. We could however continue to self promote, but we really need an agent to get the best deal, hopefully a bidding war, and also get the book in bookstores, and also featured on lists.
+
+In the agent cover letter mention being editor in chief of the paper, studying creative writing in college, and other things to give immediate credence. Then mention that you just published a VR game to give even further credence, and of course mention you got a degree in anthropology so you are writing in this genre of "anthrotech", making up the word unashamedly.
+
+
