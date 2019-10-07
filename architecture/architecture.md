@@ -1,5 +1,41 @@
 # 10 / 7 / 19
 
+
+So now we have the IEnumerator method working, and a good understanding of how the spawn waves work. The code is clean and backed up. FeelsGoodMan.
+
+We also created a "space objects" folder, into which we will place all the space object, probably subdivided by type, so asteroid, and ship. So we will need both of those folders.
+
+Because the ship will be asynchronous, whatever collisions happen will belong to that ship object, other than a global state change, which we want to do. The global state machine in State is amazing. We can keep the game working asynchronously, give smart behaviour to AI, and simply have a much easier time.
+
+So we are setup for success.
+
+So we are assuming that the space objects have some kind of relation.
+
+We will want to reimport the space template project files (first delete), since we are missing some stuff.
+
+We don't have to worry (too much) about restarting the project if some settings are overridden, since we are organized and modular. 
+
+What we really need is to get those lights, and camera easily into the project. Later we could create exported asset packs.
+
+So we will want to get the scene set up. We don't really need the audio, but we can use that one slot as a simple placeholder to get the audio going.
+
+So we want to recreate the audiovisual from the game.
+
+Then import the space objects.
+
+Then take care of the dependencies in Game.cs, and test out spawning the actual prefabs.
+
+We also want to get the other files written into the project, there are only a few more.
+
+First we should get the other files in there.
+
+The spawning part we pulled out, and we have a few more things to do in Game.cs, before reproducing the project.
+
+
+
+
+# 10 / 7 / 19
+
 Okay, so we are at a nice starting point of our codebase. Everything is clean and organized.
 
 Next, we can either start to recreate the gameplay, or keep laying down the foundation.
