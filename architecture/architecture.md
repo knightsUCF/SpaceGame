@@ -4,15 +4,25 @@
 So the files to pull out are:
 
 BGScroller
+
 DestroyByBoundary
+
 DestroyByContact
+
 DestroyByTime
+
 Evasivemaneuver
+
 GameController (Game)
+
 Mover
+
 PlayerController (Player)
+
 RandomRotator
+
 WeaponController
+
 
 https://github.com/knightsUCF/AsteroidsOriginal
 
