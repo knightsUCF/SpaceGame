@@ -251,3 +251,9 @@ On the back book cover mention anthropology education, being a programmer, and t
 * use active voice, active action verbs
 * rewrite a lot, working on one article at a time will help with this
 * use variety in rhythm
+
+# Make up New Theory
+
+Try to make up as much new theory as possible, along with new concepts such as the human 2.0, anthrotech, all these sorts of things that could be referenced by others, especially anthropologist, making this a groundbreaking work of anthropology.
+
+Could also send out press kits of this book to all the anthropological departments in the US. And also send out book to review by anthropology magazines.
