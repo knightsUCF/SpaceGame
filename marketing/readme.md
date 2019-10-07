@@ -237,3 +237,7 @@ The VR book has something like 50+ chapters, and they are organized into 4 parts
 # The Trick to Writing a Book
 
 If we have writing experience and we do, we can really do this efficiently: we can preplan all of the articles with the methods of How to Write Fast While Writing Well, knowingly how they will fit into the book sequence, getting large advertising exposure for our game, and taking care of struggling with what to write about, since now we have an overarching sturcture
+
+# Back of the Book Cover
+
+On the back book cover mention anthropology education, being a programmer, and the name of the game on Steam, which will be a huge advertisement
