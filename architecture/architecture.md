@@ -5,11 +5,9 @@ So now we have the IEnumerator method working, and a good understanding of how t
 
 We also created a "space objects" folder, into which we will place all the space object, probably subdivided by type, so asteroid, and ship. So we will need both of those folders.
 
-Because the ship will be asynchronous, whatever collisions happen will belong to that ship object, other than a global state change, which we want to do. The global state machine in State is amazing. We can keep the game working asynchronously, give smart behaviour to AI, and simply have a much easier time.
+Because the ship will be asynchronous, whatever collisions happen will belong to that ship object, other than a global state change, which we want to do. (The global state machine in State is amazing. We can keep the game working asynchronously, give smart behaviour to AI, and simply have a much easier time. Space objects could read and write to a shared data set, not worrying about anything else, and the receipient can also read and write to the shared data set, not caring about anything else, yet the game will work asynchronously together.)
 
-So we are setup for success.
-
-So we are assuming that the space objects have some kind of relation.
+We are assuming that the space objects have some kind of relation.
 
 We will want to reimport the space template project files (first delete), since we are missing some stuff.
 
