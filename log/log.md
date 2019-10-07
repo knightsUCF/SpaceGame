@@ -15,7 +15,7 @@
 10. Create the separate scene, or same scene with different camera location for building the space base (the difference doesn't matter, we can redo whether this is in the same scene later)
 11. Allow rotating of ship in hangar
 12. Allow building basic blocks in hangar view
-13. Allow spawning of scientists as capsules
+13. Allow spawning of scientists as capsules, give them basic functions on the navmesh
 14. Create the resource gameplay chain, so from destroying asteroids we get minerals we can deposit at the base, which are then used by scientists to research and create new weapons and also upgrade the base, and have more building materials
 15. The player can choose whenever they want to go outside for combat, but combat somehow increases in difficulty level
 
