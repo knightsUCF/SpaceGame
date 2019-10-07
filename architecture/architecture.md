@@ -16,9 +16,13 @@ So the question is, what's next? Well we have our ToDo list over in log.md. This
 
 Then determine what is the first thing we will code. Well, how about first cleaning up the beginning foundation before moving on to new feature. Just to make sure the core is working first. No prototypes!
 
+# Redoing Game.cs
+
+We want to start here. Rewrite the code, pulling out the state info, which we can simply reference now as State.GAME_OVER, since this is inside a singleton.
+
 # Core
 
-Create a prefab called "Core", and then under this prefab have Game, Player, and State
+Create a prefab called "Core", and then under this prefab have Game, Player, and State.
 
 
 # Game.cs
