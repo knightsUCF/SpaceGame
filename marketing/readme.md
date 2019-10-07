@@ -35,7 +35,7 @@ Make sure to utilize all the writing craftsmanship when writing a blog post, or 
 
 We just wrote a log post on comparing the game to FTL, and the developer's iteration process of "finding the fun". We could write up a blog post how we were inspired by this GDC talk, summarize and expand on the GDC talk relating back on the game. We could set this up on our website, and organically drive traffic. This is an ofter overlooked way of generating some really good traffic. The Internet is your backyard sandbox! Take advantage of the user friendliness of technology in the 21st century and bring your traffic to you! 
 
-This can simply be done with writing this informative blog posts (could be signed undersome developer nickname), and these would organically drive traffic to the site!
+This can simply be done with writing informative blog posts (could be signed undersome developer nickname), and these would organically drive traffic to the site!
 
 The blog posts wouldn't have to be just about games but like Yung Yea, although in a much less gossipy fashion, write about anything game related, which would then drive traffic. So we could have all sorts stuff, where we don't even mention the game, but just writing about the game would drive traffic.
 
