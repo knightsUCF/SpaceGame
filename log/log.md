@@ -1,3 +1,28 @@
+# 10 / 7 / 2019 - TODO
+
+1. Clean up the code base
+2. Get the code base to compile
+3. Get basic gameplay working (diagram out all components here for reference, and later assembly)
+4. Create game elements:
+ - ship variety
+ - weapon variety
+ - bonus upgrades
+5. Polish the small core
+6. Create the menu
+7. Create the HUD
+8. Create the titles screen
+9. Insert story with skip feature
+10. Create the separate scene, or same scene with different camera location for building the space base (the difference doesn't matter, we can redo whether this is in the same scene later)
+11. Allow rotating of ship in hangar
+12. Allow building basic blocks in hangar view
+13. Allow spawning of scientists as capsules
+14. Create the resource gameplay chain, so from destroying asteroids we get minerals we can deposit at the base, which are then used by scientists to research and create new weapons and also upgrade the base, and have more building materials
+15. The player can choose whenever they want to go outside for combat, but combat somehow increases in difficulty level
+
+Then after all this is done reasses what we have so far. This is a pretty good plan, which should not break or impede any future developments.
+
+
+
 # 10 / 7 / 2019 - GAME JUICE
 
 A thing that I noticed when beta testers played the game, was that they expected "a lot more". This is fine considering there was really only 2 days spent on getting the basic prototype running. There was a level of initial fun experienced by the players, and then a loss of attention, which is understandable since the game was just started and is rather shallow.
