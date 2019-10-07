@@ -1,7 +1,7 @@
 # SpaceGame
 
 
-An homage to Space Invaders and the whole genre of asteroid space shooter games, along with tactile combat (meaning different weapons for different situations) and base building of XCOM.
+An homage to Space Invaders and the whole genre of asteroid space shooter games, along with tactile combat (meaning different weapons for different situations) and the base building of XCOM.
 
 Space Invaders was the first sensational video game. We are inspired to create the first type of this kind of game for VR.
 
