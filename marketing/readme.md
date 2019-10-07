@@ -68,7 +68,9 @@ Some examples of "big concept topics", which would have the potential of attract
 - VR
 - look at what is trending in technology and write about the cool things, which are not necessarily controversial, leave a good feeling afterward, and are of utmost interest to readers.
 
-Especially if we can somehow link one of top searches, and crank out the article quickly to generate traffic.
+Especially if we can somehow link one of the top searches, and crank out the article quickly to generate traffic.
+
+Study what gets a lot of traffic in the realm of technology. Also rank the top posts of all time in Reddit / technology / gaming, and all the slew of related tech communities. Copy what they did. If we have just a few of these breakouts the game could go viral just on this basis.
 
 One example of this is simply writing about VR technology, which is really exciting.
 
