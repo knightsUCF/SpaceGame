@@ -58,7 +58,7 @@ public class Game : MonoBehaviour
             }
         }
 
-        CheckIfToAdvanceToNextLevel();
+        
     }
 
 
