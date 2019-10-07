@@ -75,3 +75,17 @@ Study what gets a lot of traffic in the realm of technology. Also rank the top p
 One example of this is simply writing about VR technology, which is really exciting.
 
 Can then post these VR articles on VR forums, easily get free upvotes and exposure, and link back to the product on the site, and then request to wishlist on Steam, simply by having a link: Wishlist Space Game on Steam. Make this an obvious link, and something super convenient for the user to do. Also have a link to the store page.
+
+# An Example of a Far Reaching Big Concept Article
+
+An example of a big concept article which could draw a large crowd, would be an updated review of Neuromancer by William Gibson. In there we could explore the updated ideas of VR, the Matrix, ideas in the book Cyberia, also mention interesting factoids about how VR started, quoting even the book on VR, which we should be able to do with fair use.
+
+So we could quote Cyberia, Neuromancer, and the VR book, really giving the people a very high quality read.
+
+# Another Example of a Far Reaching Big Concept Article
+
+Another example could be an article on the coming new Matrix film. We could do a lot of research, have really pleasant to read content like on Medium, but custom made for us, we could also give the readers a proper grounding and refresher of the Matrix storyline, by studying all the YouTube videos, and then outline this in a very nice format for readers, basically have the single most informative article on the Internet on the upcoming movie. 
+
+Then we could post that Matrix article on a whole nice of subreddits.
+
+This would garner a lot of views. We can set up a counter on the website to measure traffic.
