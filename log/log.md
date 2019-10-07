@@ -12,7 +12,7 @@ Another major thing of course is neon lights, which can be found in most modern 
 
 Adding a game screen, and intro is another thing that the testers didn't pick up on that diminished their potential game experience. Along with a menu, music, intro story, those will add some real weight to the game.
 
-So all these things are easily achievable so outline a method to get these done.
+All these things are easily achievable so outline a method to get these done.
 
 Besides that, the three major things that provide for game fun are:
 
