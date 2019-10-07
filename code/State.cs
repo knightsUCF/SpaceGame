@@ -5,4 +5,5 @@
 
 
 public bool GAME_OVER = false;
+public int SCORE = 0;
 
