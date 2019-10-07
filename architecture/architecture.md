@@ -31,6 +31,8 @@ Easy to test
 
 Easy to refactor"
 
+So finish the above steps, and also create repo for the original code base of the space shooter game, so we can easily refer back to in here.
+
 # Intro
 
 Here we will breakdown the game architecture, just the important parts to keep an overview of the codebase, and to prevent from things getting out of hand.
