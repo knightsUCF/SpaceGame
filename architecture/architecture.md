@@ -7,6 +7,12 @@ DestroyByTime is fine also, so DestroyByContact is our only dependency from the 
 
 Let's try moving the easy one, WeaponController now over to the Weapon folder.
 
+WeaponController has no dependencies but requires prefab drag in slot set up in the hierarchy.
+
+Another thing to put on the short term TODO list, is to go through the project (after reimporting), and take screenshots of the set up, and outline here which game objects get which prefabs, and how they are linked together.
+
+There will be of course a few errors that we will find what we are missing through experimentation, but with a solid clean core we don't have any problems.
+
 
 
 # 10 / 7 / 19
