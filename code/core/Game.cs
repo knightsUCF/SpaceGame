@@ -48,18 +48,7 @@ public class Game : MonoBehaviour
         
     }
 
-    void Update()
-    {
-        if (restart)
-        {
-            if (Input.GetKeyDown(KeyCode.R) || Input.GetButton("Fire1"))
-            {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-            }
-        }
-
-        
-    }
+    
 
 
     IEnumerator SpawnWaves()
