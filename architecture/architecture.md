@@ -15,6 +15,9 @@ So, what is up next?
 * Arrive at a clean foundation
 
 
+Feels much clearer now, can go into Game.cs, and expect to only see stuff relevant to Game, instead of chewing through the spawner code, as one large big chunk of procedural code. Now the code is modular.
+
+
 
 # Intro
 
