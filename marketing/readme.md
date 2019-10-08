@@ -1,3 +1,11 @@
+# BIG WIN
+
+* the developer of Forager said they were able to get 300K downloads of their demo on Itch.
+
+* do the same thing, offer the demo gameplay with both VR and regular on Itch for free
+
+* the Steam algorithm loves people who create an account just to buy your game
+
 
 # MARKETING
 
