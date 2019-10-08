@@ -1,3 +1,8 @@
+# LOCALIZING INTO CHINESE
+
+* localizing into simplified Chinese is very helpful, since the Chinese Steam page only shows translated games
+
+
 # BIG WIN
 
 * the developer of Forager said they were able to get 300K downloads of their demo on Itch.
