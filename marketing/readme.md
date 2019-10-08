@@ -11,6 +11,8 @@
 
 * the Steam algorithm loves people who create an account just to buy your game
 
+* when we hand out the game on Itch for free, we need someway to retain users, use Discord for this, and possibly Twitter, and maybe a webpage
+
 
 
 
