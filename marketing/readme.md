@@ -13,6 +13,10 @@
 
 * when we hand out the game on Itch for free, we need someway to retain users, use Discord for this, and possibly Twitter, and maybe a webpage
 
+* then like the developer of Forager said, do @everyone in Discord, to update them of news
+
+* also inform people on Itch when the game is coming, and also research whether we have to remove the demo from Itch when releasing on Steam (Is the Forager demo still up on Itch?)
+
 
 
 
