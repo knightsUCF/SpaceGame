@@ -7,6 +7,8 @@
 * the Steam algorithm loves people who create an account just to buy your game
 
 
+
+
 # MARKETING
 
 * the whole marketing page could be just: VOLUME, VOLUME, VOLUME
