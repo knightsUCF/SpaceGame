@@ -17,6 +17,8 @@
 
 * also inform people on Itch when the game is coming, and also research whether we have to remove the demo from Itch when releasing on Steam (Is the Forager demo still up on Itch?)
 
+* yes, Forager is still on Itch, study the sales page of Forager on Itch
+
 
 
 
