@@ -38,7 +38,6 @@ public class Game : MonoBehaviour
     {
         Debug.Log("Starting game...");
 
-        Debug.Log("Time to first spawn: " + Settings.START_WAIT);
         // spawn enemy AI waves
 
         StartCoroutine(wave.SpawnWaves());
@@ -58,78 +57,91 @@ public class Game : MonoBehaviour
 }
 
 
-
-
-
 /*
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
 using UnityEngine.UI;
-using TMPro;
 
-
-
-
-
-
-
-public class Game : MonoBehaviour
+public class Done_GameController : MonoBehaviour
 {
-
-    // game settings
-
     public GameObject[] hazards;
     public Vector3 spawnValues;
     public int hazardCount;
-    
+    public float spawnWait;
+    public float startWait;
+    public float waveWait;
 
+    public Text scoreText;
+    public Text restartText;
+    public Text gameOverText;
 
-    // text
-    
-    
-    public TextMeshProUGUI gameOverText;
-
-
-
+    private bool gameOver;
     private bool restart;
-
-
+    private int score;
 
     void Start()
     {
-        // rewrite all this to be compatible with the new modular files
-        
+        gameOver = false;
         restart = false;
         restartText.text = "";
         gameOverText.text = "";
-
+        score = 0;
         UpdateScore();
         StartCoroutine(SpawnWaves());
-
-        NewLevel(1);
-        
-        Invoke("ClearLevelText", 2);
-        
-
-        
     }
 
-    
+    void Update()
+    {
+        if (restart)
+        {
+            if (Input.GetKeyDown(KeyCode.R))
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            }
+        }
+    }
 
+    IEnumerator SpawnWaves()
+    {
+        yield return new WaitForSeconds(startWait);
+        while (true)
+        {
+            for (int i = 0; i < hazardCount; i++)
+            {
+                GameObject hazard = hazards[Random.Range(0, hazards.Length)];
+                Vector3 spawnPosition = new Vector3(Random.Range(-spawnValues.x, spawnValues.x), spawnValues.y, spawnValues.z);
+                Quaternion spawnRotation = Quaternion.identity;
+                Instantiate(hazard, spawnPosition, spawnRotation);
+                yield return new WaitForSeconds(spawnWait);
+            }
+            yield return new WaitForSeconds(waveWait);
 
-    
+            if (gameOver)
+            {
+                restartText.text = "Press 'R' for Restart";
+                restart = true;
+                break;
+            }
+        }
+    }
 
-    
+    public void AddScore(int newScoreValue)
+    {
+        score += newScoreValue;
+        UpdateScore();
+    }
+
+    void UpdateScore()
+    {
+        scoreText.text = "Score: " + score;
+    }
 
     public void GameOver()
     {
-        gameOverText.text = "GAME OVER";
-        State.GAME_OVER = true;
+        gameOverText.text = "Game Over!";
+        gameOver = true;
     }
+}
 
 */
-
-
-    
-}
