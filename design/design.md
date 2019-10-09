@@ -28,7 +28,8 @@ We are pivoting the design to something which solves all of our problems:
 24. Not sure yet how big or small the planets will be, but go for a low polygon style which is easy to finish 
 25. And overall this just feels exciting to make, so the quality of work will be higher
 26. Everytime the player plays the game can be totally different, especially with procedural generation
-
+27. Space Exploration games have lots of dead empty space, which is easy for design
+28. Like John Romero's game Space Rogue, just going between objects is exciting
 
 For example check out this low poly recreation of No Man's Sky:
 
