@@ -18,8 +18,7 @@ The feeling of flying through space is really cool, and also establishing a base
 
 Because if this game is just flying, that might get boring, we would like to move between stuff like in XCOM, where each part adds to the overall feel. The sum is greater than the parts... 
 
-
-
+Seems like also one of the issues is that the space combat does not look that good in 2D in preview, and looks way better in person in VR. So perhaps we can add also asteroids flying overhead. And also focus on having lots of the enemy ships in formation. Like the classic shoot 'em up genre.
 
 
 # Time Pressure
