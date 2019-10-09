@@ -1,3 +1,9 @@
+# Make the Game To Feel Exciting from the Beginning, taking Advantage of VR
+
+Even the outlines of the models could feel exciting if we arrange them right.
+
+
+
 # 4X Game Design
 
 Taking note of John Romero's Space Rogue: https://www.youtube.com/watch?v=vetUbjRB_0k
