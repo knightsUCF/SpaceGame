@@ -1,3 +1,10 @@
+# Time Pressure
+
+* time pressure can add intensity and fun
+
+* time pressure like blitz chess, but perhaps we don't show them a clock, and instead use visual effects along with game mechanisms
+
+
 
 # Main Point
 
