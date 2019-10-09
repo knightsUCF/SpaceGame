@@ -26,7 +26,7 @@ We are pivoting the design to something which solves all of our problems:
 22. There are lots of possible situations here with planet generation, procedural galaxy generation, etc, so that the people might take lots of screenshots and share them to reddit like they did with the Space Engine game
 23. We can really make this game look beautiful for low cost, flashing lights, neon glowing lights, beautiful planets, etc
 24. Not sure yet how big or small the planets will be, but go for a low polygon style which is easy to finish 
-
+25. And overall this just feels exciting to make, so the quality of work will be higher
 
 # Make the Game To Feel Exciting from the Beginning, taking Advantage of VR
 
