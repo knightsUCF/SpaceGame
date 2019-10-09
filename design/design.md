@@ -1,3 +1,27 @@
+# 4X Game Design
+
+Taking note of John Romero's Space Rogue: https://www.youtube.com/watch?v=vetUbjRB_0k
+
+Quite surprising to notice how much depth there is in a simple game just because of the scrollable map and objects.
+
+A scrollable map and attached objects is a powerful thing for gameplay!
+
+So instead of just having one base, have a small map of the universe (which would look cool in 3D), and then allow the players to make camp on any of these planets. So we get a 4X type feel except the only direct encounters with others the combat fights. Oh well... If we can't do anything about this, we should necessarily take combat out.
+
+Or make life easy, and only feature the space combat... 
+
+
+Well, this is a difficult question, but we could focus on polish the space combat this month, if that becomes a contingency, but still not sure about the whole thing...
+
+
+The feeling of flying through space is really cool, and also establishing a base.
+
+Because if this game is just flying, that might get boring, we would like to move between stuff like in XCOM, where each part adds to the overall feel. The sum is greater than the parts... 
+
+
+
+
+
 # Time Pressure
 
 * time pressure can add intensity and fun
