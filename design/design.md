@@ -1,3 +1,33 @@
+# Pivoting the Design
+
+We are pivoting the design to something which solves all of our problems:
+
+1. Not enough models or "game juice" type things to make the Space Invader genre viable
+2. Discord between the two game modes
+3. The shiny low poly asset pack might extra work
+4. A solo adventure will require less 
+5. An even lower low poly style, with solo adventure will help us keep the scope down
+6. An exploration, fun, building game instead, which is perfect for iterating into Early Access
+7. We can do basic stuff like in Astroneer, but with another indie flavor which is designed for VR
+8. Easier to work, there is nothing wrong we can do, like mess up the combat progression in the Space Invader
+9. The Space Invader genre does not really line up with our game aesthetic
+10. Instead we want to make something like Spore, that the world feels large, but not necessarily complicated
+11. We can easily procedurally generated a whole infinite world for the player to explore
+12. This is more of a simulation game, which is our specialty
+13. No combat in space, this saves scope, because no one will ask, and who cares, and much much much much much less work
+14. We want a fun "bouncy" type of game. We are not going to get dizzy from moving the camera, but watch the astronaut have fun in zero space gravity
+15. We want to build cool stuff, like establish a space station, the equivalent of that game Factory Town
+16. We would like to do some engine building, perhaps water extraction from the surface
+17. This game is both simpler than the City Building and also this Arcade Space Invaders game
+18. This is something which guarantees us higher chances of success
+19. This type of game lends to the iterating no prototypes way of working, which ensures finishing near the deadline
+20. This is a type of game that anyone who has respect for VR can enjoy
+21. This game has a relatively pretty wide engine, which Space Engine proved to have 
+22. There are lots of possible situations here with planet generation, procedural galaxy generation, etc, so that the people might take lots of screenshots and share them to reddit like they did with the Space Engine game
+23. We can really make this game look beautiful for low cost, flashing lights, neon glowing lights, beautiful planets, etc
+24. Not sure yet how big or small the planets will be, but go for a low polygon style which is easy to finish 
+
+
 # Make the Game To Feel Exciting from the Beginning, taking Advantage of VR
 
 Even the outlines of the models could feel exciting if we arrange them right.
