@@ -36,6 +36,7 @@ We are pivoting the design to something which solves all of our problems:
 27. Space Exploration games have lots of dead empty space, which is easy for design
 28. Like John Romero's game Space Rogue, just going between objects is exciting
 29. People are divided on aliens, so having an empty universe gives us less work and is more scientifically accepted
+30. We have a chance of organically designing the game with our own art style
 
 For example check out this low poly recreation of No Man's Sky:
 
