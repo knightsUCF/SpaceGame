@@ -27,6 +27,28 @@ We are pivoting the design to something which solves all of our problems:
 23. We can really make this game look beautiful for low cost, flashing lights, neon glowing lights, beautiful planets, etc
 24. Not sure yet how big or small the planets will be, but go for a low polygon style which is easy to finish 
 25. And overall this just feels exciting to make, so the quality of work will be higher
+26. Everytime the player plays the game can be totally different, especially with procedural generation
+
+
+For example check out this low poly recreation of No Man's Sky:
+
+https://poly.google.com/view/466Hz6c-IjZ
+
+We could also procedurally set up our own generation of the universe, and have a mini game like No Man's Sky where we can explore.
+
+Since we are doing the whole no prototypes build the game as you go, we could do traveling around the universe, controlling a ship, and also landing on the planet. Make sure the camera rotation is locked, so not sure how we are going to do space travel just yet.
+
+
+So going along with building a rolling MVP, let's do:
+
+1. Universe generation
+ A) Planets around a sun, a star system
+ B) Random asteroids (perhaps take that rotation code from that one game, or use the current rotation code)
+ C) Strange abstract vegetation, almost like from old school science fiction novels, take poly plant models and enlargen them, change to weird purple and other colors, and create a custom procedural system, which we build from scratch, will be much easier than a dungeon generation system, since we don't especially have to connect passageways, this is much easier
+ D) 
+2. Traveling between planets, and solar systems
+3. Landing
+
 
 # Make the Game To Feel Exciting from the Beginning, taking Advantage of VR
 
