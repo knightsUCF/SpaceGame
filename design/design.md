@@ -1,3 +1,28 @@
+# On Beginning to Design the Gameplay
+
+Okay, great, we got all of the prelimenaires out of the way. 
+
+We would like to begin designing the gameplay.
+
+Here is a rough order of elements:
+
+1) Procedural world
+  A) Generate 4 star systems to test, each star system is one yellow ball object, with a randomized number of planets, and colors
+  B) Generate procedural terrain on the planet. This will be an iterative process, but start with: (see diagram 1)
+  
+  
+  
+Diagram 1 - Generating fauna
+
+This will have to go through phases
+
+1) First generate one model type on the surface
+ - create surfaces for each of the surfaces, triangle primitives, on which we can instantiate stuff by things we can preassign in advance, for the area location to make life easy
+2) Then generate different colors
+3) Then generate different arrangements
+4) From then on just iterate
+
+
 # Color Theming!
 
 Since this is a specific type of low poly game, we should heavily use color theming to our advantage. If we do, the audience will get the impression the game was stylized by a professional designer, which is what we want. Especially in VR, a styling game would look amazing.
@@ -93,6 +118,7 @@ We are pivoting the design to something which solves all of our problems:
 31. Lots more of screenshots we can take to make the trailer interesting, fill out the trailer
 32. The music can be more minimal, even beautiful, much more suited to our style, and also less work of writing a busy action score
 33. Space stuff is much easier to design than fantasy stuff, doesn't have to be positioned in the world as precisely, instead can just float on space or grow on a rock, plus with the planets just simply being there, spheres, geometrical objects, basic stuff
+34. Facililates better build process, easier to have a rolling MVP with this kind of original indie game
 
 For example check out this low poly recreation of No Man's Sky:
 
