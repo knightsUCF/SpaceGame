@@ -7,7 +7,7 @@ Would be nice to fade in and out music based on what the player is doing, so if 
 
 https://www.youtube.com/watch?v=qCB9qAkza4o
 
-Use: https://ytcropper.com
+Use: https://www.mp3hub.com
 
 Get the first few minutes, sounds nice atmospheric and generic enough to work.
 
