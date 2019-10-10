@@ -9,7 +9,20 @@ Here is a rough order of elements:
 1) Procedural world
   A) Generate 4 star systems to test, each star system is one yellow ball object, with a randomized number of planets, and colors
   B) Generate procedural terrain on the planet. This will be an iterative process, but start with: (see diagram 1)
-  
+2)Sound
+  A) Immediately grounds the player in the world, use those creepy atomospheric Cthulhu vibes of deep space
+  B) Use lots of sound effects immediately, because that is huge for putting meat on the bones of the game design
+3) Color theming!
+  A) Goes a long way, and should be set in immediately, because there is not that much effort for the huge difference
+4) Allow some sort of basic ship movement, and camera rotation movement, so we can visit our procedural creation
+5) Make the planets rigid bodies, and give movement to the player, we can use the Unity Third Person Controller, and refer back to our notes of setting up the thing, with the planet being a nav mesh, with baking in the objects on the terrain
+
+
+So at this point we would like to have a procedurally generated world, on which we can walk around and explore.
+
+That should be the whole goal, and nothing else, of this phase of the rolling MVP, since all that we build will work to being the final gameplay.
+
+There is a quesiton then how much we want to polish. We should polish a lot here, so we get the basic astronaut and ship flying movement right, since this will be so huge to the gameplay. Of course this element is so huge, we will polish a lot later, but definitely polish beforehand also.
   
   
 Diagram 1 - Generating fauna
