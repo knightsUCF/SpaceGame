@@ -18,8 +18,10 @@ public class InputManager : MonoBehaviour
     public GameObject shipCamera;
     public GameObject playerCamera;
 
+	public GameObject footstepsAudioSource;
 
-    GameObject playerGO;
+
+	GameObject playerGO;
     
 
     bool cameraToggle = true;
@@ -30,11 +32,15 @@ public class InputManager : MonoBehaviour
 
 
 	Spaceflight spaceflight;
+	ShipControls shipControls;
 
 
-    private void Start()
+
+
+	private void Start()
     {
         spaceflight = FindObjectOfType<Spaceflight>();
+		shipControls = FindObjectOfType<ShipControls>();
     }
 
 
@@ -44,7 +50,7 @@ public class InputManager : MonoBehaviour
 
 
 
-
+    /*
 	public void ToggleBetweenPlayerAndShip()
 	{
 		if (Input.GetKeyDown(KeyCode.F))
@@ -73,6 +79,7 @@ public class InputManager : MonoBehaviour
 			
 		}
 	}
+    */
 
 
 
@@ -135,7 +142,7 @@ public class InputManager : MonoBehaviour
     }
 
 	
-
+    /*
     public void HaltShip()
     {
         spaceflight = FindObjectOfType<Spaceflight>(); // a little slow, store a reference later by passing in the game object
@@ -148,6 +155,7 @@ public class InputManager : MonoBehaviour
 			halted = !halted;
 		}
     }
+    */
 
 
     public void Close()
@@ -159,14 +167,21 @@ public class InputManager : MonoBehaviour
     }
 
 
+	public void FootstepsAudio()
+	{
+		if ((Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.D))
+			&& shipControls.empty == true) // check for empty ship, since astronaut will only walk when not in the (empty) ship
+		{
+			footstepsAudioSource.GetComponent().Play();
+		}
+	}
+
+
 
     void Update()
     {
-        ToggleBetweenPlayerAndShip();
-
-        HaltShip();
-
-        Close();
+			FootstepsAudio();
+			Close();
     }
 
 
