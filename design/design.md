@@ -14,7 +14,11 @@ So with the procedural generation we can generate an infinite number of designs 
 
 2. use color schemes to generate a pleasing assortment of different colors each time, on each of the planets, a color scheme coded in a look table for what type of planet that is based on the randomized distribution of assets and minerals
 
+3. use different sizes and rotations for variety, along with arrangements
 
+4. when the terrain begins to slope, we will need to create some "islands" of where we put things so we make the math is easy
+
+5. We can vary the crystal deposits that go in the different rocks, so that is another level of variation, and store these as prefabs we can use to generate things.
 
 # Crystal Resources
 
