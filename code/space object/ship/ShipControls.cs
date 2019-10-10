@@ -21,8 +21,8 @@ public class ShipControls : MonoBehaviour
     GameObject astronaut;
     public GameObject ship;
 
-    public GameObject astronautCamera;
-    public GameObject shipCamera;
+    // public GameObject astronautCamera;
+    // public GameObject shipCamera;
 
     GameObject playerGO;
 
@@ -30,6 +30,10 @@ public class ShipControls : MonoBehaviour
 
     bool empty = false;
     bool noMovement; // set to false by default
+
+
+    public GameObject leavingShipAudioSource;
+    public GameObject enteringShipAudioSource;
 
 
 
@@ -80,11 +84,21 @@ public class ShipControls : MonoBehaviour
 
             if (empty)
             {
+                enteringShipAudioSource.GetComponent<AudioSource>().Play();
+
+
                 Debug.Log("Astronaut is not in ship");
 
                 // enable ship flight controls
 
                 spaceflight.allowControls = true;
+
+
+                // this might be a slow way of doing things -- one fix is to have these game objects all loaded in some far off distance of the universe, and then set their transform to the central play position
+                GameObject astronautCamera = GameObject.FindWithTag("AstronautCamera");
+                GameObject shipCamera = GameObject.FindWithTag("ShipCamera");
+                shipCamera.SetActive(true);
+                astronautCamera.SetActive(false);
 
 
 
@@ -108,6 +122,8 @@ public class ShipControls : MonoBehaviour
 
             if (!empty)
             {
+                leavingShipAudioSource.GetComponent<AudioSource>().Play(); // we want to get a reference to this in the future for efficiency
+
                 Debug.Log("Astronaut is in ship");
 
                 // enable ship flight controls
@@ -128,6 +144,12 @@ public class ShipControls : MonoBehaviour
 
                 // astronautCamera.SetActive(true);
                 // shipCamera.SetActive(false);
+
+                // this might be a slow way of doing things -- one fix is to have these game objects all loaded in some far off distance of the universe, and then set their transform to the central play position
+                GameObject astronautCamera = GameObject.FindWithTag("AstronautCamera");
+                GameObject shipCamera = GameObject.FindWithTag("ShipCamera");
+                shipCamera.SetActive(false);
+                astronautCamera.SetActive(true);
             }
 
 
