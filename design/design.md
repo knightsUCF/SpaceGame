@@ -8,6 +8,12 @@ The other thing we can do is generate a wide variety of colors, all sorts of col
 
 We can vary up the color themes, yet keep the astronaut in basic colors, which will match any color scheme, white and black, maybe with some flashing lights on the back and shades of black for variety.
 
+So with the procedural generation we can generate an infinite number of designs with some solid procedures in place:
+
+1. create "prepackaged" clumps which work, have enough of variety of these clumps that per planet the player will not notice
+
+2. use color schemes to generate a pleasing assortment of different colors each time, on each of the planets, a color scheme coded in a look table for what type of planet that is based on the randomized distribution of assets and minerals
+
 
 
 # Crystal Resources
