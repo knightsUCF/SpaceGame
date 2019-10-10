@@ -1,3 +1,13 @@
+# Sound Design
+
+
+https://www.youtube.com/watch?v=qCB9qAkza4o
+
+Use: https://ytcutter.com/
+
+Get the first few minutes, sounds nice atmospheric and generic enough to work.
+
+
 # On Beginning to Design the Gameplay
 
 Okay, great, we got all of the prelimenaires out of the way. 
