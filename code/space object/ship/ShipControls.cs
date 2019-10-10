@@ -18,7 +18,7 @@ https://assetstore.unity.com/packages/tools/input-management/keyboard-spacefligh
 
 public class ShipControls : MonoBehaviour
 {
-    public GameObject astronaut;
+    GameObject astronaut;
     public GameObject ship;
 
     public GameObject astronautCamera;
@@ -28,7 +28,7 @@ public class ShipControls : MonoBehaviour
 
     Spaceflight spaceflight;
 
-    bool occupied = true;
+    bool occupied = false;
     bool noMovement; // set to false by default
 
 
@@ -36,6 +36,12 @@ public class ShipControls : MonoBehaviour
 
     private void Start()
     {
+
+        // load the astronaut from resources
+
+        // astronaut = Instantiate(Resources.Load("Astronaut") as GameObject);
+
+
         spaceflight = FindObjectOfType<Spaceflight>();
 
         // we should start with putting the ship into stationary mode as the gameplay starts
@@ -70,34 +76,58 @@ public class ShipControls : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F))
         {
 
-            // exit the ship
+            // astronaut enters the ship
 
             if (occupied)
             {
-                Debug.Log("Astronaut is in ship");
-                playerGO = Instantiate(astronaut, ship.transform.position, Quaternion.identity, this.transform);
-
-                // turn off the ship camera, turn on the astronaut camera
-
-                shipCamera.SetActive(false);
-                astronautCamera.SetActive(true);
-            }
-
-
-            // enter the ship (destroy astronaut prefab)
-
-            if (!occupied)
-            {
                 Debug.Log("Astronaut is not in ship");
 
-                // turn off astronaut camera, turn on ship camera
+                // enable ship flight controls
 
-                astronautCamera.SetActive(false);
-                shipCamera.SetActive(true);
+                spaceflight.allowControls = true;
+
+
+
+                // playerGO = Instantiate(Resources.Load("Astronaut") as GameObject, ship.transform.position, Quaternion.identity, this.transform);; ;
+
+                // turn on the ship camera, turn off the astronaut camera
+
+                // shipCamera.SetActive(true);
+                // astronautCamera.SetActive(false);
+
 
                 // destroy the astronaut object, remember to save any settings into state machine data
 
-                Destroy(playerGO);
+                // check for null if somehow we try to destroy an astraunaut game object that isn't there the first time
+
+                if (astronaut != null) Destroy(astronaut);
+            }
+
+
+            // astronaut leaves the ship
+
+            if (!occupied)
+            {
+                Debug.Log("Astronaut is in ship");
+
+                // enable ship flight controls
+
+                spaceflight.allowControls = false;
+
+                // if we disable the flight controls, we want to make sure the ship does not keep on moving while the astronaut is exploring
+
+                spaceflight.MaxSpeed = 0.0f;
+
+
+                // playerGO = Instantiate(astronaut, ship.transform.position, Quaternion.identity, this.transform);
+                astronaut = Instantiate(Resources.Load("Astronaut") as GameObject);
+                astronaut.transform.position = ship.transform.position;
+
+
+                // turn on astronaut camera, turn off ship camera
+
+                // astronautCamera.SetActive(true);
+                // shipCamera.SetActive(false);
             }
 
 
