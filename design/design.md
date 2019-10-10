@@ -1,3 +1,20 @@
+# Low Poly Ships
+
+Collection of low poly ships off Google Poly (need to give credit):
+
+https://poly.google.com/view/1GMsmYGqJad
+
+https://poly.google.com/view/6eRDOiTxvOo
+
+https://poly.google.com/view/647DTebhyBD (like this one the best)
+
+https://poly.google.com/view/dKFQSZCHQWf
+
+https://poly.google.com/view/5nWeu4IQXVX
+
+
+
+
 # On Using the Low Poly Style to the Advantage of Game Mechanics
 
 * we could use the low poly asset to our advantage in for example converting something through an engine to some types of crystals we need for space travel
