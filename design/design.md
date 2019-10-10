@@ -1,3 +1,25 @@
+# Rokenbok
+
+We can now go back to our true passion of designing Rokenbok inspired toys.
+
+So the crystals that we mine, those are like in rokenbok our resources. Since this is a game, we can have lots of different resource "balls / crystals", that have their separate properties, and simply the player can distinguish them based on color.
+
+And also we want to appeal to people's natural sense of hoarding, which is huge in selling games.
+
+So like Rokenbok, they can aggregate, segregate, and assimilate the materials.
+
+
+AGGREGATE
+
+SEGREGATE
+
+ASSIMILATE 
+
+This also creates a lot of depth to the game loop. A reason players could get bored is because of shallow shooting nature of the depth of a Space Invaders game.
+
+Here we can perhaps use the trigger, to have the astronaut shoot stuff from his space gun, which perhaps radiates the crystals, the beam of light works really great, and would work in previews.
+
+
 # Low Poly Astronaut with Animations!
 
 https://assetstore.unity.com/packages/3d/characters/humanoids/stylized-astronaut-114298
