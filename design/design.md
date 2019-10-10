@@ -1,3 +1,14 @@
+# Crystal Resources
+
+Crystals look nice as resources. Definitely use them.
+
+This asset pack is free and what we're beginning with: https://assetstore.unity.com/packages/3d/props/stylized-crystal-77275
+
+This is a very nice one at $7.50: https://assetstore.unity.com/packages/3d/environments/fantasy/low-poly-crystal-cave-82797
+
+Search for "low poly crystals"
+
+
 # Menu Soundclick
 
 This was a little tricky. We have to place the audio source outside of the menu, because we are going to inactivate that, getting rid of our audio. 
