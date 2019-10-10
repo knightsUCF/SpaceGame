@@ -1,3 +1,36 @@
+# Menu Soundclick
+
+This was a little tricky. We have to place the audio source outside of the menu, because we are going to inactivate that, getting rid of our audio. 
+
+So create a Sound game object component right under "AV" (Audiovisual)
+
+Attach an audiosource here.
+
+Then in menu use this code:
+
+
+
+    public class Menu : MonoBehaviour
+    {
+
+        public GameObject menu;
+        public GameObject audioSource;
+
+
+
+
+        // when a player clicks the menu, turn off the text, and start up the game
+
+        public void OnMenuClick()
+        {
+            Debug.Log("Clicked on the menu");
+            audioSource.GetComponent<AudioSource>().Play();
+            // menu.SetActive(false);
+        }
+
+    }
+
+
 # Free Skyboxes
 
 https://assetstore.unity.com/packages/2d/textures-materials/sky/galaxybox-1-0-18289
