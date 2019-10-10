@@ -22,7 +22,7 @@ public class ShipControls : MonoBehaviour
     public GameObject ship;
 
     // public GameObject astronautCamera;
-    // public GameObject shipCamera;
+    public GameObject shipCamera;
 
     GameObject playerGO;
 
@@ -96,8 +96,10 @@ public class ShipControls : MonoBehaviour
 
                 // this might be a slow way of doing things -- one fix is to have these game objects all loaded in some far off distance of the universe, and then set their transform to the central play position
                 GameObject astronautCamera = GameObject.FindWithTag("AstronautCamera");
-                GameObject shipCamera = GameObject.FindWithTag("ShipCamera");
-                shipCamera.SetActive(true);
+                // GameObject shipCamera = GameObject.FindWithTag("ShipCamera"); // dragged in from hierarchy
+
+                shipCamera.SetActive(true); // this one is giving us a null reference so let's just drag this one in
+
                 astronautCamera.SetActive(false);
 
 
