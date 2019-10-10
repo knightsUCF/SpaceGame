@@ -15,32 +15,48 @@ public class Game : MonoBehaviour
 
 
     Wave wave;
+    Procedural procedural;
+
+	Player2 player;
+	public GameObject playerGO;
 
 
-    // call game start
+	// call game start
 
-    void Start()
+	void Start()
     {
+		player = FindObjectOfType<Player2>();
         wave = FindObjectOfType<Wave>();
+        procedural = FindObjectOfType<Procedural>();
 
-        GameStart();
+        // GameStart();
     }
 
 
 
     // METHODS ///////////////////////////////////////////////////////
 
-    
+    public void GameLoad()
+	{
+        // load up all universe stuff
+	}
+
+
+
     // game start
 
 
-    void GameStart()
+    public void GameStart()
     {
-        Debug.Log("Starting game...");
+        // use a seed to generate a galaxy
 
-        // spawn enemy AI waves
+       procedural.GenerateGalaxy();
 
-        StartCoroutine(wave.SpawnWaves());
+		// between this and all the player stuff, throw up a loading text: "LOADING..." at the bottom center, that way we can load everything and have the player wait patiently
+
+		// load player
+
+		playerGO.SetActive(true);
     }
 
 
