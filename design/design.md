@@ -19,6 +19,9 @@ Nice super light green hue, for a Dean Foster sci fi look and feel: #E8FEFF
 Pink: #FFE5DB
 
 
+These three colors actually look really great together: #958D84 #E8FEFF #FFE5DB
+
+
 
 
 
