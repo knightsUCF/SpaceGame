@@ -8,6 +8,8 @@ So the analogous color scheme is richer than the monochromatic one, so let's go 
 
 These color schemes we will want to have saved with sets of RGB values for the procedural generation, so even though the procedural generation is random we have preset color schemes.
 
+And of course pre pick out what's good.
+
 And also we can combine the analogous with the monochromatic scheme for more variety in one package.
 
 Our central color is moonrock: 
