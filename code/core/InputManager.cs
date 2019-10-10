@@ -167,12 +167,58 @@ public class InputManager : MonoBehaviour
     }
 
 
+
+
+	float timer = 0.0f;
+	float timeDelay = 0.5f;
+
+	bool timePassed = false;
+
+	// https://forum.unity.com/threads/how-do-i-calculate-accurately-time-passed-in-seconds-for-c.191434/
+
+    /*
+	private void Update()
+	{
+		_timer += Time.deltaTime;
+		if (_timer >= _duration)
+		{
+			_timer = 0f;
+			// Do Stuff here
+		}
+    }
+    */
+
+
+
+
 	public void FootstepsAudio()
 	{
-		if ((Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.D))
-			&& shipControls.empty == true) // check for empty ship, since astronaut will only walk when not in the (empty) ship
+        // the player loads later, so ship controls are not available at initialization, this is an inconvenience having something load later, perhaps we should load right away these type of things, and the only things we don't load are the planets and universe generation type stuff
+
+		if (shipControls == null) shipControls = FindObjectOfType<ShipControls>(); 
+
+
+
+        // check that if enough time passed, play the sound of footsteps
+
+
+        timer += Time.deltaTime;
+
+		if (timer >= timeDelay)
 		{
-			footstepsAudioSource.GetComponent().Play();
+			timer = 0f;
+			timePassed = true;
+		}
+
+		else timePassed = false;
+
+
+		if ((Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.D))
+			&& shipControls.empty == true // check for empty ship, since astronaut will only walk when not in the (empty) ship
+			&& timePassed) // we only want to play one sound per whatever
+		{
+			footstepsAudioSource.GetComponent<AudioSource>().Play();
+			// Debug.Log("test");
 		}
 	}
 
