@@ -28,7 +28,7 @@ public class ShipControls : MonoBehaviour
 
     Spaceflight spaceflight;
 
-    bool occupied = false;
+    bool empty = false;
     bool noMovement; // set to false by default
 
 
@@ -78,7 +78,7 @@ public class ShipControls : MonoBehaviour
 
             // astronaut enters the ship
 
-            if (occupied)
+            if (empty)
             {
                 Debug.Log("Astronaut is not in ship");
 
@@ -106,7 +106,7 @@ public class ShipControls : MonoBehaviour
 
             // astronaut leaves the ship
 
-            if (!occupied)
+            if (!empty)
             {
                 Debug.Log("Astronaut is in ship");
 
@@ -131,7 +131,7 @@ public class ShipControls : MonoBehaviour
             }
 
 
-            occupied = !occupied;
+            empty = !empty;
 
         }
     }
