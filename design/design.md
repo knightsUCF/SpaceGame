@@ -3,6 +3,9 @@
 Would be nice to fade in and out music based on what the player is doing, so if they're building, more exciting, if they are in deep space then the music is more ambient, etc.
 
 
+Free space sounds: https://assetstore.unity.com/packages/audio/sound-fx/space-sfx-102218-131463
+
+
 # Main Track
 
 https://www.youtube.com/watch?v=qCB9qAkza4o
