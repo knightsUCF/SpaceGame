@@ -1,3 +1,12 @@
+# Color Theming!
+
+Since this is a specific type of low poly game, we should heavily use color theming to our advantage. If we do, the audience will get the impression the game was stylized by a professional designer, which is what we want. Especially in VR, a styling game would look amazing.
+
+The Color theming we would want to start to try with dark blues, and blacks?
+
+Will need to experiment. Spend serious time experimenting with color theming since this will be one of the easiest and most paramount ways to affect the look of the game.
+
+
 # Rokenbok
 
 We can now go back to our true passion of designing Rokenbok inspired toys.
