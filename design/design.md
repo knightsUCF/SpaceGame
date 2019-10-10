@@ -6,6 +6,12 @@ This asset pack is free and what we're beginning with: https://assetstore.unity.
 
 This is a very nice one at $7.50: https://assetstore.unity.com/packages/3d/environments/fantasy/low-poly-crystal-cave-82797
 
+More variety here, $15: https://assetstore.unity.com/packages/3d/environments/low-poly-series-caverns-74148
+
+Nice one for gold rocks, free: https://assetstore.unity.com/packages/3d/props/exterior/low-poly-resource-rocks-76150
+
+Nice one for moon rocks, free: https://assetstore.unity.com/packages/3d/environments/fantasy/stones-and-buried-treasure-95557
+
 Search for "low poly crystals"
 
 
