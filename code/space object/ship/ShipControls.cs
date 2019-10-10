@@ -28,7 +28,7 @@ public class ShipControls : MonoBehaviour
 
     Spaceflight spaceflight;
 
-    bool empty = false;
+    public bool empty = false;
     bool noMovement; // set to false by default
 
 
