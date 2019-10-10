@@ -1,11 +1,17 @@
 # Sound Design
 
+Would be nice to fade in and out music based on what the player is doing, so if they're building, more exciting, if they are in deep space then the music is more ambient, etc.
+
+
+# Main Track
 
 https://www.youtube.com/watch?v=qCB9qAkza4o
 
 Use: https://ytcutter.com/
 
 Get the first few minutes, sounds nice atmospheric and generic enough to work.
+
+
 
 
 # On Beginning to Design the Gameplay
