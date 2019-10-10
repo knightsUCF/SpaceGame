@@ -1,3 +1,15 @@
+# Procedural Rock Formation
+
+Pretty cool to have the large rocks... Now we want to artistically arrangement, so using that golden ratio of 75%, let's use that to randomize things in a golden ratio fashion, maybe use some golden ratio mathematics also, we can talk about that in the article, and that will get a lot of hype, even though the 75% is more practical and we will use that more.
+
+So we can generate a diverse everytime, yet get that special seed number for the player.
+
+The other thing we can do is generate a wide variety of colors, all sorts of color themes in gray.
+
+We can vary up the color themes, yet keep the astronaut in basic colors, which will match any color scheme, white and black, maybe with some flashing lights on the back and shades of black for variety.
+
+
+
 # Crystal Resources
 
 Crystals look nice as resources. Definitely use them.
