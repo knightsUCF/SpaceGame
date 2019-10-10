@@ -61,7 +61,7 @@ We are pivoting the design to something which solves all of our problems:
 30. We have a chance of organically designing the game with our own art style
 31. Lots more of screenshots we can take to make the trailer interesting, fill out the trailer
 32. The music can be more minimal, even beautiful, much more suited to our style, and also less work of writing a busy action score
-
+33. Space stuff is much easier to design than fantasy stuff, doesn't have to be positioned in the world as precisely, instead can just float on space or grow on a rock, plus with the planets just simply being there, spheres, geometrical objects, basic stuff
 
 For example check out this low poly recreation of No Man's Sky:
 
