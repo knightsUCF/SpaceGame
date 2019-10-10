@@ -12,7 +12,15 @@ And of course pre pick out what's good.
 
 And also we can combine the analogous with the monochromatic scheme for more variety in one package.
 
-Our central color is moonrock: 
+Our central color is moonrock:
+
+Nice super light green hue, for a Dean Foster sci fi look and feel: #E8FEFF
+
+Pink: #FFE5DB
+
+
+
+
 
 
 
