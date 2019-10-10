@@ -1,3 +1,7 @@
+# Free Skyboxes
+
+https://assetstore.unity.com/packages/2d/textures-materials/sky/galaxybox-1-0-18289
+
 # Sound Design
 
 Would be nice to fade in and out music based on what the player is doing, so if they're building, more exciting, if they are in deep space then the music is more ambient, etc.
