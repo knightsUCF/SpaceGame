@@ -1,3 +1,21 @@
+# Moonrock Color Theme
+
+Using the Adobe color wheel we have the choice of analogous vs monogchromatic: 
+
+"The analogous color scheme uses colors that are adjacent to each other on the color wheel. ... The analogous scheme is similar to the monochromatic one, but offers more nuances. Pros: The analogous color scheme is as easy to create as the monochromatic, but looks richer."
+
+So the analogous color scheme is richer than the monochromatic one, so let's go with the analogous color scheme.
+
+These color schemes we will want to have saved with sets of RGB values for the procedural generation, so even though the procedural generation is random we have preset color schemes.
+
+Our central color is moonrock: 
+
+
+
+
+color of the moon rock: 
+
+
 # Procedural Rock Formation
 
 Pretty cool to have the large rocks... Now we want to artistically arrangement, so using that golden ratio of 75%, let's use that to randomize things in a golden ratio fashion, maybe use some golden ratio mathematics also, we can talk about that in the article, and that will get a lot of hype, even though the 75% is more practical and we will use that more.
