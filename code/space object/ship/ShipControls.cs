@@ -35,6 +35,9 @@ public class ShipControls : MonoBehaviour
     public GameObject leavingShipAudioSource;
     public GameObject enteringShipAudioSource;
 
+    public GameObject engineAudioSource;
+
+
 
 
 
@@ -51,7 +54,13 @@ public class ShipControls : MonoBehaviour
         // we should start with putting the ship into stationary mode as the gameplay starts
 
         spaceflight.MaxSpeed = 0.0f;
-    }
+
+
+
+		// StartCoroutine(FadeSound.FadeOut(engineAudioSource, 1f)); TODO fade out sounds
+
+
+	}
 
 
 
@@ -68,6 +77,12 @@ public class ShipControls : MonoBehaviour
             if (!noMovement) spaceflight.MaxSpeed = 0.0f; // a hacky way of stopping the ship
             if (noMovement) spaceflight.MaxSpeed = 200.0f; // a hacky way of stopping the ship
             noMovement = !noMovement;
+
+
+            // toggle the engine sound
+
+            if (noMovement && !empty) engineAudioSource.GetComponent<AudioSource>().Stop();
+            if (!noMovement && !empty) engineAudioSource.GetComponent<AudioSource>().Play();
         }
     }
 
@@ -124,6 +139,11 @@ public class ShipControls : MonoBehaviour
 
             if (!empty)
             {
+                // make sure the ship is frozen so not weird movement
+
+                // shipRigidBody.constraints = RigidbodyConstraints.FreezeAll; // do this with game component on the ship object
+
+
                 leavingShipAudioSource.GetComponent<AudioSource>().Play(); // we want to get a reference to this in the future for efficiency
 
                 Debug.Log("Astronaut is in ship");
