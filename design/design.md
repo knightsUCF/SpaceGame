@@ -1,3 +1,12 @@
+# Animations
+
+We should do a custom animation for space walking, to feature those realistic bounces of astronauts. Don't try to invent this, check reference material. This will make a huge difference.
+
+# Controls
+
+Try to get the controls really right like they did in Celeste, and even published their code in C#! Reference this:
+
+https://github.com/NoelFB/Celeste/blob/master/Source/Player/Player.cs
 
 # Put a Warning in the game for strain in VR
 
