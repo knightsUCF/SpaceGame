@@ -2,7 +2,7 @@
 
 * how does Celeste accomplish this?
 
-* how do the characters break? should we use a jet pack to break in a much more precise way, yet let's lerp into this with the right amount of testable force
+* how do the characters break? should we use a jet pack to break in a much more precise way, and let's lerp into this with the right amount of testable force
 
 # Celeste Review
 
