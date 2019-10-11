@@ -29,6 +29,10 @@ public class Player : MonoBehaviour {
 			}
 
 			float turn = Input.GetAxis("Horizontal");
+
+
+            // the astronaut core movement type
+
 			transform.Rotate(0, turn * turnSpeed * Time.deltaTime, 0);
 			controller.Move(moveDirection * Time.deltaTime);
 			moveDirection.y -= gravity * Time.deltaTime;
