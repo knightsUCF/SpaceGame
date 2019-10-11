@@ -134,8 +134,9 @@ So once we finish these 3:
 
 We can focus on mining, building, and doing those activites in the world which can be helpful to expanding gameplay.
 
+One of these big things would be erecting the tall solar panels, along with the joy of activating them in space, with deep hum power on sound effects.
 
-
+These can then power our operation, perhaps we could even do a ring of scope, an area transparent bubble of where the power can reach instead of having to do lines. Or even a simple message that we have to be near the power source, or color code the building requirements meshes from purple to pink.
 
 
 Check out that one space game where the guy is working independently, that might be in some "upcoming best sci fi / space games", an older video from 1 or 2 years ago
