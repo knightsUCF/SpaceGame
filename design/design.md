@@ -1,3 +1,8 @@
+# Autopilot
+
+So to speed up the auto pilot you have to was some of your mineral resource, so that opens up the possibility space for a challenge
+
+
 # Jet Pack Super Juicy Controls
 
 We want super juicy controls like for Celesta, so there is no confusion, just easy of use, doing cool stuff, no obstructions, just flow
