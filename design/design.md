@@ -1,3 +1,13 @@
+# Make Super Fast Games
+
+So even though this is in space, let's have lots of speed available for the players, whether this is in the rover, flying, or processing resources
+
+
+# Raise the Bar
+
+* for gamers to think the company and game is amazing
+
+
 # The Occurrence of the Word "Time" in Celeste
 
 There are 400 occurrences of the word "time" in the Player code of Celeste.
