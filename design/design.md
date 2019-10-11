@@ -1,3 +1,24 @@
+# Further Notes
+
+* definitely provide autopilot, so we can just sit back and relax, for those that are technologically challenged, we will provide a smooth ride, and for more advanced users we will give them plenty of chances, to unlock stuff, and interract with the game, to reward for their curiosity, never let them down
+
+
+* what would be really nice would be to pull up a 3D star map of the galaxy, fade in and out to this, so that we have some sense of orientation where we are in the nearby galaxy, this will also be determined by procedural generation
+
+
+* procedural generation planning should take place on paper with reading astronomy, to get a sense for things like how many planets are there in star system on average, and what is the range, also what colors to pick for the minerals, but any color can be picked really by color scheme, and then we can arrange the minerals later to the best of the arrangmenet
+
+* one of the things we can keep giving on freely in this type of game is a sense of scale, just a number to increase
+
+* we want to eventually get to a very large cargo bay, so that we can see that in 3D
+
+* the ship should wobble every now and then to give life to the thing, and also have some underside flashing nice patterns we can observe from below
+
+* also have the sun come up, and spread rays all over the valley and the horizon, this will be huge
+
+
+
+
 # Goals are very important for games, that's where the fun comes from 
 
 # Custom Cosmetic Stuff
