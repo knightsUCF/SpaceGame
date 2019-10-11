@@ -138,6 +138,36 @@ One of these big things would be erecting the tall solar panels, along with the 
 
 These can then power our operation, perhaps we could even do a ring of scope, an area transparent bubble of where the power can reach instead of having to do lines. Or even a simple message that we have to be near the power source, or color code the building requirements meshes from purple to pink.
 
+One thing is certain though, we have to work efficiently from here on out, so we are maximizing our time to only work on the rolling prototype, so when January comes along, we will at least have enough gameplay to put on Itch, and start earning some money while we could keep further polishing to get on Steam, although Janauary is a prime time to release on steam.
+
+Bug again, if we have these incredibly lush landscapes like in No Man's Sky, and Astroneer, we can really compete.
+
+So we need to study a lot of art, a lot of fantasy and science fiction art, especially of alien worlds, and do our best to figure out how the large basic flowing shapes of the the artists uses to create these spaces.
+
+What was that one article, that had all those art rules of proportion?
+
+Google search: proportion / variety in art
+
+In that book, Design for Hackers, there is a section on all the different elements in art design, such as variety, flow, rhythm, reiterate these things again here. Especially with the 75% prototype rule.
+
+So in the procedural generation algorithm we will want to do stuff like:
+
+1. Generate different looking worlds, not just more of the same, so the player can truly explore what is out there, give them a lot of variety
+2. Use the 75% to generate things in all sorts of ways, so the aesthetic is pleasing
+3. Make a ton of different color schemes, since they are free, easy, and quick, and then have a look up table which uses these to begin generating stuff
+4. Use cliffs, and rolling hills if possible, look up tutorials
+5. Speed up the sun a little in game, so the player will see the sun come up from behind the horizon, and change the volumetric lighting, and make the whole scene very nice to apprehend
+
+But a big main thing right now is how to generate planets and get them looking at scale while we are flying
+
+One way perhaps would be to only allow a safe distance for the ship to come close to the the planet, while the planet is not that large, and then give them a button of option of land on the planet, or do a smooth transition of landing, and also watch how No Man's Sky, and Astroneer does these things.
+
+Perhaps we can use fog as a transition into the planet surface.
+
+Either eway the whole planet will be covered with stuff, but we will not make that visible, until the LOD reveals, so we will be holding all of that data in a map, and then as a player moves from quadrant to quadrant we will be procedurally generating stuff.
+
+
+
 
 Check out that one space game where the guy is working independently, that might be in some "upcoming best sci fi / space games", an older video from 1 or 2 years ago
 
