@@ -1,5 +1,9 @@
 # Make Super Fast Games
 
+Make the game complex, a construction set
+
+# Make Super Fast Games
+
 So even though this is in space, let's have lots of speed available for the players, whether this is in the rover, flying, or processing resources
 
 
