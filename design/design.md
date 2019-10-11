@@ -1,4 +1,8 @@
-# Play from here on out 10 / 11 / 2019
+# Study the Gameplay of Each and Take the Best
+
+https://www.youtube.com/watch?v=H_qjvR8bdwM&t=383s
+
+# Plan from here on out 10 / 11 / 2019
 
 So we have a pretty good core that we managed to scramble up in the last few days. 
 
