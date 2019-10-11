@@ -1,3 +1,10 @@
+# Goals are very important for games, that's where the fun comes from 
+
+# Custom Cosmetic Stuff
+
+Later post MVP, we can upgrade the equipment and suit on the asternaut for the things we get to build and process, this will give the game progression, and goals
+
+
 # On Symbolizing to the Player that our VR locked, no movement position is the best thing
 
 by taking them on a few slow take off flights, where we have constant velocity, until perhaps we get far enough to the stars, where we can use sand dust to indicate speed, so they will get a feel for speed and immediately understand that sharp turns are not a good idea, perhaps we put them on one sharp turn only time for them just to get a sense, so they will appreciate the smooth motion
