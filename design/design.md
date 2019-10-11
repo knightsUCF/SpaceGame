@@ -1,4 +1,9 @@
 
+# Put a Warning in the game for strain in VR
+
+Please use the VR camera mode more than the action mode to ease with strain in VR.
+
+Or is there someway we can let the player naturally make that conclusion?
 
 # Minimalistic Nintendo like Trans Culture Design
 
