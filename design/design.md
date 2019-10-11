@@ -1,3 +1,5 @@
+
+
 # Minimalistic Nintendo like Trans Culture Design
 
 Critics will give us more favorable reviews if instead of an UI, everything is intuitive like a toy, and we don't have to go through the phase of picking out UIs. For Early Access, why not.
