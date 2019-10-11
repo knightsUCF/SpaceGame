@@ -1,3 +1,7 @@
+# Everyone wants to talk about the cool games they made
+
+So don't be afraid to advertise
+
 # Gamers Love Game Programmers who are One Step Ahead
 
 One step ahead with VR, and pioneering and innovative technologies
