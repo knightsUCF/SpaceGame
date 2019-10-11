@@ -1,3 +1,8 @@
+# Jet Pack Super Juicy Controls
+
+We want super juicy controls like for Celesta, so there is no confusion, just easy of use, doing cool stuff, no obstructions, just flow
+
+
 # Further Notes
 
 * definitely provide autopilot, so we can just sit back and relax, for those that are technologically challenged, we will provide a smooth ride, and for more advanced users we will give them plenty of chances, to unlock stuff, and interract with the game, to reward for their curiosity, never let them down
