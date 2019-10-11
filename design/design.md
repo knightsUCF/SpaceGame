@@ -11,7 +11,33 @@ Find a bunch of low poly rock formation we can throw together for planet types.
 
 If we go through all this trouble, definitely advertise that this is game features a procedurally generated universe.
 
+We need a better skybox, but with similar colors. We should color theme the skybox too, try to find blues, in all the different color arrangments from adobe, including blue.
 
+We probably need to procedurally generate our own skyboxes, and we couls still throw up some stuff, like a milky way, but we really want to have those colors custom, to generate lots of color themed worlds. This will give a lot of organic unity to the game.
+
+
+So where are we now? 
+
+Well we did:
+
+1) Created mountains and color themed them to make up for the environment, along with black fog
+2) Created crystals and highlighting
+
+
+So from here these two things split up into two large branches:
+
+
+1) World procedural generation
+2) Resource gathering
+
+
+
+We will want to stagger work on each, but we should probably start with the resource collection first, and then start on world gathering, and then move back to resource gathering when we get tired.
+
+In the end with these two things we want:
+
+1) a color themed universe with a variety of aesthetically chosen rock formations
+2) a resource mining chain, which we can then take that universe, explore, and mine and refine, and process resources, perhaps into a Rokenbok type mechanism, or maybe something simpler for now, like in Subnautica
 
 
 # Goals Already!
