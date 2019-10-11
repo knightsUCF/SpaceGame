@@ -1,3 +1,148 @@
+# Play from here on out 10 / 11 / 2019
+
+So we have a pretty good core that we managed to scramble up in the last few days. 
+
+Now here are the things we can do.
+
+1) Give goals to make a "gamy" situations. Such as: 
+    a) fly between planets and mine different resources to collect a combination of resources
+2) Polish astronaut movement controls
+3) Polish ship flight controls
+4) procedurally generate the world
+
+
+
+For the ship flight, we can start with the other asset as our base ground. That would probably be best.
+
+
+So start a new scene and try out how the ship flight works there.
+
+The Scynty art will go a long way of helping us if we can't model our own stuff, but if we did model our own stuff we would need:
+
+1. Player ship
+2. Astronaut
+3. Cargo bay
+4. Skyboxes, planet rock formations
+
+
+So those are the basics up until know.
+
+We should focus on:
+
+1. Getting ship movement right
+2. Getting player movement right
+3. Getting the procedural generation right
+
+
+If those three things are solid, we are in a good spot.
+
+And also we would like to have autopilot for the ships flying capabilities.
+
+Whatever flying capability we chose, whether that's the flight asset we will try here soon, we can always switch that out later for another asset or try coding our own, that should not affect the other two elemenents, of 2. getting the player movement right, and getting the procedural generation right.
+
+
+As far as the procedural generation goes, we can start up with a base, and slowly iterate on that, minimizing putting ourself into a corner, by laying the foundation in a simple and modular way.
+
+So if we can just focus on polishing these 3 things, then that can be a huge part of the coregameplay that will be worthy to release on Itch, and start generating some money. Itch will be a type of first early access.
+
+We got a lot done just in the last 2 days. Imagine how much we could get done with 3 months...
+
+
+The trick is to focus the work on the rolling MVP. So avoiding going down any time sinks, and just working on the essentials.
+
+Because, assume that these three things are polished:
+
+1) astronaut movement
+2) player movement
+3) procedural generation (will include 3D star map)
+
+That means our universe engine is open to all sorts of play and experimentation.
+
+So we can satisfyingly move through the whole universe.
+
+
+
+
+Also, research any tips on procedurally generating planets to get some advice relating:
+
+1) Scale of planets
+2) How LOD works with zooming in on a planet, landing on a planet
+3) How to disperse them through 3D space
+4) How data probably comes first, and how to use data to gradually reveal the terrain as the player transverses a quadrant
+
+We can use our old quadrant math from the Discord, where we have 9 boxes, and we redwraw the terrain or repopulate the terrain anytime we move in the list. So there is that procedural generation not just for planets.
+
+
+So we will have two "infinite" terrain procedural generation.
+
+1) Star Systems, which we will use the 9 quadrant method on
+2) The actual surface of the planet, which we will also use the 9 quadrant method on
+
+
+So then after we procedurally generate the universe and planets, the trick is on how to arrange the landscape so the player doesn't get bored.
+
+For now just stick with alien like landscapes. We might not even do regular lush earth like planets in the pre Itch prototype. Much easier for us. Ensures we finish the game. And this goes along with the whole "Alien type planet" vibe of the world, which will cause the user to be much less likely to raise an eyebrow.
+
+
+So assuming we can do some fine procedural generation, some fine character movement optimization, and some fine ship movement optimization, then that is a huge chunk of the game. 
+
+So when the character exits the ship in space to float around, they can then proceed to build some sort of structure.
+
+Perhaps we can simply this for them by just creating a block, and then letting them tack on to that block, and perhaps in the meantime combining the mesh for performance.
+
+But of course we don't want just simply voxel like building, so we will give them plenty of other low poly objects which they can use. 
+
+Perhaps they can even gather enough resources to build their own ship.
+
+There will be two type of building simulations:
+
+1. In space
+2) On the surface of a planet
+
+
+Now, going back to the significance how good the terrain has to look, if you look at games like No Man's Sky, and also Astroneer, they both had fabulous graphics on the terrain. We are probably leaning more toward the Astroneer type graphics, since they are more alien like.
+
+Find more low poly plants, and also jot down the pricey asset packs, also search Googly Poly, and take some basic blades of grass and enlargen them, and make them purple, and strange colors to give us this alien vibe. But make terrain that really looks nice. Since this is key and what the players want to explore.
+
+So perhaps we will need some hill generating functions to generate some terrain on the world. Perhaps there is a good tutorial we can use for this.
+
+Even if we use a tutorial, make sure that the code written is our own, so that way we don't have to deal with someone else's messy code base.
+
+So we really do want first class level terrain generation, since this will be huge. Perhaps we could have some even slime species type of elements which should some kind of unsuspecting toxic green slime, but perhaps not now for the Itch prototopye.
+
+But something I noticed with the VR experience, people just want to be able to experience 3D surroundings that look cool around them. So going along with this we want to position the VR camera close to the astronaut on the ground, so we can look up and around on this alien world all around.
+
+And then when the whole procedural generation is up to nar, we want to give the astronaut some basic mining tasks like in astroneer.
+
+We want these tasks to be varied enough to fill out the other part of the game play.
+
+We want to use these things that maximize the ratio of time to gameplay with easy wins.
+
+One of these easy wins, is getting seeds from different plants in the universe, perhaps taking these with us on our interstellar voyage, and then growing them elsewhere on a different planet.
+
+By the way, some planets will be blue themed, and very cold, but perhaps they will contain cool orange glowing crystals, or whatever the opposite color is on the color scheme.
+
+Take the one deep ice blue color, that will be the set piece for the world, perhaps take this from the lego ice world color, and then generate all the color schemes, including analogous, and monochromatic, and then also the complimentary, and the others, since this is where we will find an opposite orange color on the spectrum, which could be used nicely to show the crytals.
+
+So for now simply every world will have crystals, though different formations as these mining deposits.
+
+So once we finish these 3:
+
+1. Procedural world generation
+2. Astronaut controls
+3. Ship controls
+
+We can focus on mining, building, and doing those activites in the world which can be helpful to expanding gameplay.
+
+
+
+
+
+Check out that one space game where the guy is working independently, that might be in some "upcoming best sci fi / space games", an older video from 1 or 2 years ago
+
+
+
+
 # VR Camera Solution
 
 we divide up the whole area into quadrants when a player steps into a new crowdant, we fade in and out to give the viewer the best position, and then we also offer a few other modes they can choose from the camera settings buttons, each one locked, the first unlocked one will be take off from the planet which feels like real take off
