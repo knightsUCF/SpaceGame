@@ -1,3 +1,41 @@
+# Recap
+
+
+So we have come just out of creating the environment, color theming the rocks, and using variety on the rocks.
+
+Those rocks are all we need to generate a few different worlds.
+
+One world will have taller and sharper rocks, etc. 
+
+Find a bunch of low poly rock formation we can throw together for planet types.
+
+If we go through all this trouble, definitely advertise that this is game features a procedurally generated universe.
+
+
+
+
+# Goals Already!
+
+Having the goal of going toward the lighted up cystal was great.
+
+We can do something similar in the game where if you are within the vicinity of a crystal, and you will eventually be, because we will scatter them around evenly, with not a straight probability but a good randomized probability, then when you are vicinity, we want to begin to only show you the outline when the object is a little larger that way we don't have a sloppy looking dot on the horizon.
+
+And that helps the player because they pick up the item.
+
+Feels good walking aorund the map with something to do, to pick up these crystals.
+
+Now have satisfying sounds and lights when we mine, and then collect the crystal.
+
+
+
+
+
+
+# Black Fog
+
+Black fog looks great! The only thing is we will need to turn down the fog, when we fly in the ship, because everything is too blackened out. So we will need a dynamic process for this.
+
+
 # Moonrock Color Theme
 
 Using the Adobe color wheel we have the choice of analogous vs monogchromatic: 
