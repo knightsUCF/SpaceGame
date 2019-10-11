@@ -1,3 +1,7 @@
+# Gamers Love Game Programmers who are One Step Ahead
+
+One step ahead with VR, and pioneering and innovative technologies
+
 # Make Super Fast Games
 
 Make the game complex, a construction set
