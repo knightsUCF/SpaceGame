@@ -1,3 +1,7 @@
+# VR Camera Solution
+
+we divide up the whole area into quadrants when a player steps into a new crowdant, we fade in and out to give the viewer the best position, and then we also offer a few other modes they can choose from the camera settings buttons, each one locked, the first unlocked one will be take off from the planet which feels like real take off
+
 # Autopilot
 
 So to speed up the auto pilot you have to was some of your mineral resource, so that opens up the possibility space for a challenge
