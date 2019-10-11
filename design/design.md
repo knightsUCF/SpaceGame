@@ -1,6 +1,6 @@
 # Celeste Secret
 
-Celeste relies on having a lot of different moves, all in one a smooth and polished motion.
+Celeste relies on having a lot of different moves, all in one a smooth and polished motion. This really entertains the player.
 
 Count up the number of functions in the Celeste Player code, and then count up the number of special moves.
 
