@@ -30,6 +30,13 @@ Later post MVP, we can upgrade the equipment and suit on the asternaut for the t
 
 by taking them on a few slow take off flights, where we have constant velocity, until perhaps we get far enough to the stars, where we can use sand dust to indicate speed, so they will get a feel for speed and immediately understand that sharp turns are not a good idea, perhaps we put them on one sharp turn only time for them just to get a sense, so they will appreciate the smooth motion
 
+# solar panels
+
+solar panels will help to add a lot to the terrain, especially if they are tall and large, and awe inspiring
+
+# bigger ships, will also look amazing up front if we are floating the astronaut by there
+
+# we can also make a space station floating in orbing, where we could open doors and come inside with the asternaut, although we probably wouldn't take off hsi  helm
 
 
 # Further Notes
