@@ -1,3 +1,12 @@
+# Celeste Secret
+
+Celeste relies on having a lot of different moves, all in one a smooth and polished motion.
+
+Count up the number of functions in the Celeste Player code, and then count up the number of special moves.
+
+Try to go for this density. And polish each move. Does the action need more Lerp? Etc. Check the code of Player in Celeste.
+
+
 # Animations
 
 We should do a custom animation for space walking, to feature those realistic bounces of astronauts. Don't try to invent this, check reference material. This will make a huge difference.
