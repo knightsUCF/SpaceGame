@@ -18,6 +18,8 @@
 
 * on the game controller we could have a toggle that goes through all the selectable objects in the area, selecting each one of with an outline, this would work great to just press one button and go through all the possible selections, very fast and convenient, even on the desktop gameplay, and of course players can select with the mouse on desktop, and some other way perhaps of selecting, maybe where they are looking? well we don't want to do that, so not syet
 
+* when we drop off the astronaut we want him to float in space with his jet pack for a smooth transition, and then the plkayer can use the jet pack functionality to send the player down to the surface
+
 
 # Goals are very important for games, that's where the fun comes from 
 
