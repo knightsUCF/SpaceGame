@@ -1,3 +1,7 @@
+# The Occurrence of the Word "Time" in Celeste
+
+There are 400 occurrences of the word "time" in the Player code of Celeste.
+
 # Study Celeste Playthroughs for this "Super Juicy Movement"
 
 * how does Celeste accomplish this?
