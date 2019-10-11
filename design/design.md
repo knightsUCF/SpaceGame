@@ -1,3 +1,86 @@
+# Crystal Mining
+
+Okay, so what we want next is crystal mining, along with effects and sounds.
+
+Go through that sci fi sound pack for some nice laser and mining sounds. We can go through all sorts of sound effect packages for sci fi sounds. We should probably in off time go through literally hundreds of packs on sound cloud, before purchasing the one, that is really good sounding. Sound design is huge.
+
+
+so we will want to have an animation for the astronaut to his lazer. 
+
+We should be able to easily tie an animation to a key, and then blend that animation with the astronaut idling.
+
+If we have problems with this, then simply outline the process here in the journal step by step and we will get going.
+
+So mining, with pleasing audio visual will be a huge step.
+
+so when we transform the rock crystal formations, how do we collect the resources?
+
+well perhaps there is a 3d printer, which makes anything, we just need the right types of resource combinations, recipes
+
+we can have a cool screen which shows the alchemy of 3d printing, so wich resources in combinations, show by pluses, will we need for our 3d modeling, and some of course will need a lot
+
+so we will have things like carbon, silicon, basically all the real elements that a thing in real life is made out of
+
+So we will definitely want to have a rover. take the car design from the city.
+
+If we are going to design our own rover, the thing will look very cool, sleek and modern, and hip, and truly futuristic
+
+Also we will want to have solar powered apparatus, with deep humming 3D stereoscopic sound, and spread, when we power up the generators
+
+So we will want a 3D printer, which can print us a rover, and some base materials
+
+
+That we can then use to build a small base, and even grow vegetables, and make a space greenhouse, which will be shaped in cool spheres like the Silent Running greenhouse
+
+For now we just want a solo experience to simplify things and release the game
+
+
+So, after this phase we will have procedural world generation, and the ability to go around and mine minerals
+
+And then after we gather our minerals we can build stuff with the 3D printer
+
+We can label the machine as a 3D printer, and that's what we have in the back of our ship, so we will need to land the ship,
+and then bring out the 3D printer, which will have a cool blue screen enclosure, in which we can build our stuff
+
+Also color theme the 3D printer, the hues, the blues, light blues, etc, always use color theming, even in isolation
+
+
+On the ship we will have a cargo bay, in which we can place and store stuff.
+
+As a sidenote for procedural world generation we will also have plants, and more greener habitats that will look like alien worlds, we will err on the side of alien worlds, so we don't have to do too fancy world and level creation
+
+
+So in summary so far, we want to get to the point where we will have world generation, which is a module, so we won't affect the state of any other code, or break anything else, although we don't want to end up in a time sink, that is the only risk
+
+This game is summing up to be as a very relaxing idle game, that's something we want
+
+People can just zone out and relax
+
+
+But we still want to bring a sense of wonder, especially with tall oversized solar panels
+
+
+So even though this game will not be free to play, we will have some work required in gathering the resources to build the structures, so if you want to build a series of power panels, you need the silicon (electronics), steel (iron?), look up what base materials are made out of to keep the thing realistic, so we might in fact need like 10 elements to build a solar panel, so that will provide a goal in the early game for the player to collect these materials so they can build things
+
+When we build things we can just plop them there for now with a noise, or perhaps the 3D printer will print the part, with the part beginning life as a holographic image in the 3D printing chamber, and then slowly transforming, perhaps by turning up the color to the real thing
+
+
+
+Gold will be an actual real resource, so people will love to go around and hoard these things
+
+And some exotic minerals, that we want to create, perhaps undiscovered yet, going along with the alien theme of the worlds in the game
+
+
+Also once in a while, but only once in a while so doesn't get tedious, we would like to have a shooting star
+
+
+
+
+
+# Clean Up Scene by Adding a Scene
+
+* perhaps we should add a scene to clean up the scene, where we load late because of the intro screen 
+
 # Black Fog Settings
 
 Simply do exponential squared with density of 0.02, and full black for the color
