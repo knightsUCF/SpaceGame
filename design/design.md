@@ -1,3 +1,9 @@
+# Study Celeste Playthroughs for this "Super Juicy Movement"
+
+* how does Celeste accomplish this?
+
+* how do the characters break? should we use a jet pack to break in a much more precise way, yet let's lerp into this with the right amount of testable force
+
 # Celeste Review
 
 "Did not spend one hour and yet felt the super juicy movement." - Reviewer
