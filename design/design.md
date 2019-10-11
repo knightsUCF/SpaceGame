@@ -1,3 +1,7 @@
+# Black Fog Settings
+
+Simply do exponential squared with density of 0.02, and full black for the color
+
 # Laser Asset
 
 We can use this free volumetric lines asset for a laser: https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160
