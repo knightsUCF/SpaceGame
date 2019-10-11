@@ -1,3 +1,47 @@
+# Further Notes
+
+make the loot crystals a lot more appealing, procewdurally generated in some areas in large clumps, that you feel you were lucky
+
+
+need to get movement right, sudden stops should be easier none of this sliding, unless with a jet pack in space
+
+
+write the procedural generation simple but modular, so we can just add freely, like the rule of 75% aesthetics
+
+
+having really small clumps of crystals helps ground the player in one place for much longer, which is harder for the player to know how much time to spend where, so here we can get them in a specific area with the crystals point of interest, and not just dispersed freely throughout
+
+
+
+for the controls we need really smooth baby motion, and lock the rotation at all times the player in VR should be parallel with the floor of the game, though there might be options for them to get a director's chair, etc
+
+
+this game is a therapeutic game, just like they were saying that traumatised victims were being treated with calm VR experiences, here we can have the same sort, a sauna of relaxtion, no shooting, just free space roaming, exploring, and hoarding crystals to build stuff
+
+
+
+the height we are at is nice, for controlling the astronaut on activities below, but we don't to move the camera at this directorial chair point, just have the astronaut move, since VR is more comfortable when the camera is not moving
+and if we are parallel with the ground
+
+
+continue to focus on the rolling MVP, where we can provide an experience where no player is confused, and take them on a smooth ride of the capabilities of the game, that is the goal, then to make the controller feel smoother with more modes like in Celeste
+
+
+
+then a begin thing will be learning how to do low poly art in blender, so we can design our own astronaut model
+
+
+don't despair, this will only be one model, which we will use throughout the game
+
+let's have an option to send the ship off as a drone to transport something, while we stay behind as the astronaut
+
+would be cool because we could watch the ship take off in the horizon, and this also adds more interactivity to the gameplay
+
+
+
+
+
+
 # Easy Way to get Advertising is Post Threads with short GIFs
 
 # Everyone wants to talk about the cool games they made
