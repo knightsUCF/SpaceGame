@@ -1,3 +1,28 @@
+# On Competition
+
+Seems like all of the deep space mining competition is more or less the same game, (except the voxel builders), we can compete by not trying to have realistic models, which take forever to optimize and instead create more of a Mario-y, Nintendo-y, game play. Where we have BS, nothing preventing a player just jumping in and having fun with the universe.
+
+What is paramount are skyboxes. If skyboxes look great, that's half of the battle, so that is not easy to do.
+
+I believe there is room for any of these SF games, and they all garnered enough reviews to make each of the creator's wealthy.
+
+So we don't want to compete with that, here is how our game is fundamentally different from the majority of the marketplace:
+
+1. VR
+2. Doesn't aim to be realistic, uses low poly "fun" graphics
+3. There is lots of game juice like in a Vlambeer game, or a Nintendo game, everything is layered, and the game just feels good like Celeste, this is the Celeste of space games, Celeste is just a 2D pixel game yet managed to get quite some notoriety
+4. We are creating more of a "therapeutic" game, where people can zone out after a long day's work and just marvel at the universe kind of like in Space Engine
+5. There will be shooting or combat in this game, making for just a pleasant pacifist experience where there is no violence, which is a welcome break for the player, and eliminates 99% of all these games
+6. Our game will be heavily color coated like Celeste, which gives the game that look and feel of "professionalism"
+7. We want a lot of sound effects which will give us that look of professionalism in the game
+8. We want a loot crafting game more along the lines of Terraria, and Crea, where we are just happily gathering, unlocking weapons, and new abilities, spacecraft, bases, etc
+
+These above things are enough to set the game apart in the marketplace.
+
+All in all our game will feel more like a 90s game, where fun was number one, not just throwing together a bunch of realistic assets and having a walking simulator.
+
+
+
 # Study the Gameplay of Each and Take the Best
 
 https://www.youtube.com/watch?v=H_qjvR8bdwM&t=383s
