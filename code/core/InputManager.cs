@@ -190,6 +190,7 @@ public class InputManager : MonoBehaviour
 
 
 
+    // perhaps this should be in AstronautControls.cs, or Astronaut.cs, instead, probably just Austronaut.cs, nice and general.
 
 	public void FootstepsAudio()
 	{
@@ -213,7 +214,7 @@ public class InputManager : MonoBehaviour
 		else timePassed = false;
 
 
-		if ((Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.D))
+		if ((Input.GetKey(KeyCode.W))
 			&& shipControls.empty == true // check for empty ship, since astronaut will only walk when not in the (empty) ship
 			&& timePassed) // we only want to play one sound per whatever
 		{
