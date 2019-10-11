@@ -1,3 +1,17 @@
+# Reviewing the Game
+
+* colors theming does wonders, easy but huge pay off and makes the game look professional, especially in screenshots, and trailers, which will help to sell the game
+
+* taking these rock formations, we could create a pink and purple topsy turvy world, which offers unique minerals to gather there, so we can get a lot gained just from these simple color schemes
+
+* and of course we can use lighter worlds and midtones
+
+* sounds are very important, so keep improving on those also
+
+* 
+
+
+
 # Recap
 
 
