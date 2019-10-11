@@ -1,3 +1,9 @@
+# Laser Sound FX
+
+https://assetstore.unity.com/packages/audio/sound-fx/weapons/sci-fi-weapon-sfx-by-great-heights-audio-147911
+
+we want to have a really solid experience with a destructable world, so when we mine, the world then throws chunks at us, so we can have a destructible environment
+
 # Reviewing the Game
 
 * colors theming does wonders, easy but huge pay off and makes the game look professional, especially in screenshots, and trailers, which will help to sell the game
