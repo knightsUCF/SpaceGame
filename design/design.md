@@ -1,3 +1,7 @@
+# Laser Asset
+
+We can use this free volumetric lines asset for a laser: https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160
+
 # Laser Sound FX
 
 https://assetstore.unity.com/packages/audio/sound-fx/weapons/sci-fi-weapon-sfx-by-great-heights-audio-147911
