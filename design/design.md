@@ -8,7 +8,7 @@
 
 * sounds are very important, so keep improving on those also
 
-* 
+* what is really cool are destructible terrains, let's try to find a laser on the asset store, and use that to extract rocks
 
 
 
