@@ -1,3 +1,7 @@
+# Need the Small Preview Icon like Celeste
+
+Very artful, like Forager an illustration of the game. DO NOT LAUNCH WITHOUT THIS!
+
 # Celeste Secret
 
 Celeste relies on having a lot of different moves, all in one a smooth and polished motion. This really entertains the player.
