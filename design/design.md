@@ -1,3 +1,7 @@
+# Trees
+
+By the way we will need some trees, even if alien looking, like in that one screenshot from No Man's Sky, (in design folder)
+
 # Randomizing planet positions
 
 Randomizing planet positions can be very simple.
@@ -19,6 +23,43 @@ all way the up to our max number, which we will need to define as a constant.
 
 
 MAX_NUMBER_OF_PLANETS_IN_A_STAR_SYSTEM = 100
+
+
+so then we multiply the MAX_NUMBER_OF_PLANETS_IN_A_STAR_SYSTEM by 10, so each one will be randomized within 1 of 10, of these coordinates.
+
+
+So, in code:
+
+
+    class ProceduralGeneration()
+    {
+
+        // we are just procedurally generating planets in 1 star system for now
+        
+        
+        int MAX_NUMBER_OF_PLANETS_IN_A_STAR_SYSTEM = 100;
+        
+        
+        // make new star system
+
+        void GenerateNewStarSystem(Vector3 origin)
+
+        // load star system, after we saved them with GenerateNewStarSystem()
+
+        void LoadStarSystem(Vector3 origin)
+        
+        
+        
+        
+        
+        
+
+
+
+
+
+
+    }
 
 
 # Some sense of a plan now - Generating Star Systems, and Loading Star Systems
