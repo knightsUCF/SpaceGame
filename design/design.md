@@ -1,3 +1,9 @@
+# Comparing No Man's Sky with Procedural Art Scene for Scene
+
+Comparing the two scenes in the design folder, LowMansSky.png, and LowPolyMountainTutorial.cs (same search keywords in Google), our mountains looks even better in terms of definition. What they have is the desnity of color, and different colors. So somehow the mountain has three 3 different colors. If we can do this in low poly with some sort of color theming we would be in really good shape.
+
+
+
 # On Beginning Procedural Generation
 
 We should first and foremost anything we generate can be within a cube of x, y, and z proportions. So whatever we generate we should
