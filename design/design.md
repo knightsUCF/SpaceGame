@@ -1,4 +1,27 @@
-# Some sense of plan now
+# Randomizing planet positions
+
+Randomizing planet positions can be very simple.
+
+All we need is the origin (Vector3)
+
+Then we need some sort of buffer randomized threshold hold, that is the distance vector
+
+We could check with the distance vector between points, and then throw away those randomly generated results which are outside of the bounds, and generate more
+
+Another easy way would be to brute force hard code this:
+
+
+1 - 10: Generate a number in the middle
+10 - 20: Generate a number in the middle
+20 - 40: Generate a number in the middle and so on,
+
+all way the up to our max number, which we will need to define as a constant.
+
+
+MAX_NUMBER_OF_PLANTES_IN_A_STAR_SYSTEM = 100
+
+
+# Some sense of a plan now - Generating Star Systems, and Loading Star Systems
 
 // make new star system
 
