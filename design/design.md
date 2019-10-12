@@ -1,3 +1,24 @@
+# On Beginning Procedural Generation
+
+We should first and foremost anything we generate can be within a cube of x, y, and z proportions. So whatever we generate we should
+
+
+# On Competing with No Man's Sky
+
+Check out the diagram NoMansSky. We don't need to have ultrarealistic models, if we can artistically make them from low poly.
+
+We could do a similar rolling hills landscape, with the mountains strategically placed in shapes of waves on the plateau. Try to squint your eyes (The major less of art school), and think primarly in terms of those shapes, and then place the trees along as an afterthought.
+
+Plus there is only so much you can do with the realistic style. There is definitely room for low poly styles.
+
+Here is are a really good low poly mountain editing tutorial in Blender: https://www.youtube.com/watch?v=HNsgd8GwEBE
+
+Plus we can have even more wackier outlandish futurustic will wonka topsy turvy colors. That is actual something we can do, which none of these other sci games do. And that would feel like a relaxing trip in VR. Kind of like an art painting.
+
+So to summarize use your weaknesses to your advantage like in Kung Fu.
+
+
+
 # On Competition
 
 Seems like all of the deep space mining competition is more or less the same game, (except the voxel builders), we can compete by not trying to have realistic models, which take forever to optimize and instead create more of a Mario-y, Nintendo-y, game play. Where we have BS, nothing preventing a player just jumping in and having fun with the universe.
