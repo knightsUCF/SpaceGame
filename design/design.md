@@ -6,7 +6,24 @@ Comparing the two scenes in the design folder, LowMansSky.png, and LowPolyMounta
 
 # On Beginning Procedural Generation
 
-We should first and foremost anything we generate can be within a cube of x, y, and z proportions. So whatever we generate we should
+We should first and foremost anything we generate can be within a cube of x, y, and z proportions. So whatever we generate we should be able to have the exact coordinates with this rectangle of our game universe.
+
+But what if the universe is truly infinite we just keep going?
+
+So we could this relatively, and wherever the player goes further procedurally generate this space.
+
+We really want our own system to do this, instead of anyone else's online.
+
+
+So pretend we generate a quandrat, which is a cube. In this cube let's say there are 10 solar systems. So that's all fine and well. Now if the player goes off to the next quadrant, we THEN generate that universe and save the data.
+
+So if they want to just infinitely keep going, yet have a record of previous generation then we will need to at least save that numeric data, and then generate the 10 quadrants around them as they move around.
+
+By the time they get to 1 quadrant, we will always have pregenerated that quadrant out of their visibility.
+
+Like from the discord:
+
+
 
 
 # On Competing with No Man's Sky
