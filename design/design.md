@@ -27,7 +27,7 @@ As for the planets, in each star system the planet will be at 0, 0, 0, or per 9 
 
 What would be the upmost simplest way of doing this?
 
-Quill has a good vide: https://www.youtube.com/watch?v=0vPVu8wLJ3o
+Quill has a good video: https://www.youtube.com/watch?v=0vPVu8wLJ3o
 
 So Star System 1:
 
@@ -40,6 +40,12 @@ Then we will want to procedurally generate the planets around this.
 
 So they will get a +, or - to the posStar.x, posStar.y, and posStar.z coordinates, since those will be in one of the quadrants.
 
+Spend some time on this because want something really good.
+
+
+well what if actually we generated the planets pretty close together.
+
+And then when the player is in the darkspace boundary, right between the clipping points of two adjacent star systems, then we simply do that traveling faster than light speed star dust zooming by you, to give them illusion that distance they are transvering is much greater.
 
 # Choose Color Themes by Looking at Pinterest and other PREMADE Sources
 
