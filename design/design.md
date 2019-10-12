@@ -1,6 +1,6 @@
 # What about after generating a star system?
 
-If we can assume that everything GenerateNewStarSystem() does suits our need for creating a singular star system, (with basically the data for the planets to speed up *development), then we can move on to the system that actually choose the randomized origin positions which are is going to be what is fed to GenerateNewStarSystem(<ORIGIN>)
+If we can assume that everything GenerateNewStarSystem() does suits our need for creating a singular star system, (with basically the data for the planets to speed up *development), then we can move on to the system that actually choose the randomized origin positions which are is going to be what is fed to GenerateNewStarSystem(Vector3 origin)
 
 (*We should be concerned with the data for now. Because everything will be doable. So these methods in the first iteration should be pure data methods, where all we want is the positions in Vector3 locations, and also the data behind what sort of vegetation and fauna we will be distributing.
 
