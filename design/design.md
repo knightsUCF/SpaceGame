@@ -15,6 +15,9 @@
         
         
         
+      
+        
+        
         // make new star system
 
         void GenerateNewStarSystem(Vector3 origin)
@@ -48,6 +51,45 @@
             int randomNumber;
             return randomNumber;
         }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        // The start method will be for one experiment at a time, since the main method of this will probably be called by a button or some level start up routine
+        
+        
+        // this time we are experimenting with getting one star system to generate
+        
+        
+        void Start()
+        {
+            Vector3 origin = Vector3.zero; // later we will pass all sorts of origin points for a big galaxy
+            GenerateStarSystem();        
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
