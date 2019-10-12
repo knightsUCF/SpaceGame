@@ -2,6 +2,31 @@
 
 By the way we will need some trees, even if alien looking, like in that one screenshot from No Man's Sky, (in design folder)
 
+# How to go about this?
+
+    void RandomizePlanetPositions()
+    {
+    }
+
+So we want to randomize a number for each planets between i and i2 = i + 9 (10), where i is the starting number of planets, and i2 is the end of the range
+
+If we want to have more distance between planets we would increase the value of i2 by a multiplier
+
+
+At the end of the generation perhaps simply we could have some after the fact multiplier that would just increase the scale of all the distances, so the mdoel of the planet would determine how far away we are really... 
+
+Well, let's keep things absolutely simple for now just so we can get this thing going.
+
+So we are going to a random number multiplier helper function, which takes in a min, and max, and finds a random number
+
+void FindRandomNumberBetweenMinAndMax(int min, int max()
+{
+    int randomNumber;
+    
+    return randomNumber;
+}
+        
+        
 # Randomizing planet positions
 
 Randomizing planet positions can be very simple.
