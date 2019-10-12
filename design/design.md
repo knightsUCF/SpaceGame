@@ -1,3 +1,9 @@
+# What's next?
+
+After doing the 2 current procedural generation goals, what is next?
+
+
+
 # Current Procedural Generation Goals
 
 1) Generate a star system with cubes or spheres representing planets
