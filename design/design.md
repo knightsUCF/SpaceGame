@@ -11,7 +11,7 @@
         // we are just procedurally generating planets in 1 star system for now
         
         
-        int const MAX_NUMBER_OF_PLANETS_IN_A_STAR_SYSTEM = 100;
+        const int MAX_NUMBER_OF_PLANETS_IN_A_STAR_SYSTEM = 100;
         
         
         
