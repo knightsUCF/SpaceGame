@@ -1,3 +1,64 @@
+# Code so far for procedural generation
+
+
+
+
+
+
+    class ProceduralGeneration()
+    {
+
+        // we are just procedurally generating planets in 1 star system for now
+        
+        
+        int MAX_NUMBER_OF_PLANETS_IN_A_STAR_SYSTEM = 100;
+        
+        
+        
+        // make new star system
+
+        void GenerateNewStarSystem(Vector3 origin)
+        {
+        }
+
+        
+        
+        // load star system, after we saved them with GenerateNewStarSystem()
+
+        void LoadStarSystem(Vector3 origin)
+        {
+        }
+        
+        
+        
+        void RandomizePlanetPositions()
+        {
+        }
+        
+        
+        
+        
+        
+        // helper methods:
+        
+        
+        
+        void FindRandomNumberBetweenMinAndMax(int min, int max)
+        {
+            int randomNumber;
+            return randomNumber;
+        }
+        
+        
+        
+        
+        
+    
+ 
+ 
+
+
+
 # Trees
 
 By the way we will need some trees, even if alien looking, like in that one screenshot from No Man's Sky, (in design folder)
