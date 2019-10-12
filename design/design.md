@@ -1,6 +1,6 @@
 # Procedurally Generating Star Systems
 
-Procedurally generating star systems might be the easiest thing to start with, because we will always need a reference point that becomes the star, the relative origin point:
+Procedurally generating star systems might be the easiest thing to start with, because we will always need a reference point that becomes the star, the relative origin point, and then we simply generate planets around this star origin point with +, 0 on the 3D x,y,z coordinate system, just making sure we are within some sort of safe buffer threshold distance, so the planets don't overlap each other. Later we can add moons also.
 
 
 void GenerateStarSystem(Vector3 originPoint)
