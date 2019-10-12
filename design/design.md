@@ -18,7 +18,7 @@ Another easy way would be to brute force hard code this:
 all way the up to our max number, which we will need to define as a constant.
 
 
-MAX_NUMBER_OF_PLANTES_IN_A_STAR_SYSTEM = 100
+MAX_NUMBER_OF_PLANETS_IN_A_STAR_SYSTEM = 100
 
 
 # Some sense of a plan now - Generating Star Systems, and Loading Star Systems
