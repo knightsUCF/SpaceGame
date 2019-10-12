@@ -19,7 +19,7 @@ Well, let's keep things absolutely simple for now just so we can get this thing 
 
 So we are going to a random number multiplier helper function, which takes in a min, and max, and finds a random number
 
-    void FindRandomNumberBetweenMinAndMax(int min, int max()
+    void FindRandomNumberBetweenMinAndMax(int min, int max)
     {
         int randomNumber;
 
