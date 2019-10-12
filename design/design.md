@@ -43,10 +43,19 @@ So, in code:
         // make new star system
 
         void GenerateNewStarSystem(Vector3 origin)
+        {
+        }
 
         // load star system, after we saved them with GenerateNewStarSystem()
 
         void LoadStarSystem(Vector3 origin)
+        {
+        }
+        
+        
+        void RandomizePlanetPositions()
+        {
+        }
         
         
         
