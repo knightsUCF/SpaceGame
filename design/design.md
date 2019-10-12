@@ -1,3 +1,21 @@
+# Choose Color Themes by Looking at Pinterest and other PREMADE Sources
+
+Don't just choose color themes on your own. Check out the DiscordColorTheme.png in the design folder.
+
+We can use something like that to start.
+
+Also check out the color themes from Hollow Knight. They have a lot of good themes. And also Ori and the Tree. So just takes a few colors and build color themes out of them with Adobo Color Wheel.
+
+This will be huge, enjoying these worlds.
+
+We also want to add all sorts of variety. So glowing crystals within some sort of weird plant crystal project structures. Etc. Once we get better at doing low poly art we can do this stuff.
+
+Then like "real" artists look at all sorts of sources of inspiration vintage SF book covers, games, anything.
+
+Each world can have their own color theming so we go with plenty of different color themes.
+
+The player is then free of course to build their base on anyworld. We need some easy way to designate this in code, so we just need the planet's ID.
+
 # Comparing No Man's Sky with Procedural Art Scene for Scene
 
 Comparing the two scenes in the design folder, LowMansSky.png, and LowPolyMountainTutorial.cs (same search keywords in Google), our mountains looks even better in terms of definition. What they have is the desnity of color, and different colors. So somehow the mountain has three 3 different colors. If we can do this in low poly with some sort of color theming we would be in really good shape.
