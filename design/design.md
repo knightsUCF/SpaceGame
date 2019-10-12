@@ -6,7 +6,6 @@ Procedurally generating star systems might be the easiest thing to start with, b
 void GenerateStarSystem(Vector3 originPoint)
 {
     // each random generate function will + or - from this origin point for each of the planets
-    
     // so we will need a randomize position, that also check if we have not already put a planet within some distance to that.
 
 }
