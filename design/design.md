@@ -1,3 +1,9 @@
+# Let's also have a method for loading let's say 10 planets, or a number of planets, we choose with custom location for aesthetic and testing, though this in not necessary for MVP
+
+Well, actually we could just do this with LoadStarSystem(dictionary of positions)
+
+And just load up our custom dictionary of positions
+
 # What about after generating a star system?
 
 If we can assume that everything GenerateNewStarSystem() does suits our need for creating a singular star system, (with basically the data for the planets to speed up *development), then we can move on to the system that actually chooses the randomized origin positions which are is going to be which is fed to GenerateNewStarSystem(Vector3 origin)
