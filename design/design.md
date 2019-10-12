@@ -27,7 +27,11 @@ As for the planets, in each star system the planet will be at 0, 0, 0, or per 9 
 
 What would be the upmost simplest way of doing this?
 
-Quill has a good video: https://www.youtube.com/watch?v=0vPVu8wLJ3o
+Quill has a good video: 
+
+part 1: https://www.youtube.com/watch?v=0vPVu8wLJ3o
+part 2: https://www.youtube.com/watch?v=0vPVu8wLJ3o
+
 
 So Star System 1:
 
