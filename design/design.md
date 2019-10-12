@@ -21,9 +21,13 @@ We should probably do the redrawing the quadrants thing off some sort data struc
 
 ... still needs work
 
+We can just say procedurally generated universe, we don't have to say infinite although this might be the case.
 
 As for the planets, in each star system the planet will be at 0, 0, 0, or per 9 quadrants, the first start will be in 0, 0, 0 and the the rest will be set apart by some distance, which make sense. Let's just 100 for now, because we can simply just multiply or divide that to get the scale right.
 
+What would be the upmost simplest way of doing this?
+
+Quill has a good vide: https://www.youtube.com/watch?v=0vPVu8wLJ3o
 
 So Star System 1:
 
