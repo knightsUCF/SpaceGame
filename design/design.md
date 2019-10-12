@@ -1,3 +1,42 @@
+# Designing the Procedural System
+
+So how can we begin to design the procedural system starting with the most simple way and elements?
+
+Well, first we are going to need unique IDs for the planets, and also unique IDs for the starsystem, and then maybe unique IDs for the quadrants.
+
+So quadrants are like voxel cubes in a voxel game, they stretch out to potentially infinity, so that will have some sort of number, which can cover x, y, and z. So maybe a dictionary which has one integer type to a Vector3.
+
+
+Quadrants<int, Vector3> // Dictionary for quadrants. The int 0, will start in an arbitrary place of our choosing. probably at 0, 0, 0 of our entire universal cube, well this cube will go on forever, so we might need an abitrary naming conventions.
+
+What if choose 0, 0, 0 to be at the center of our universe, and also at center of the engine 0, 0, 0
+
+From this point we want to draw our data, and not just place everything in this universe, and teleport the player, although we could do that.
+
+Well pretend we take the easiest route possible and just the origina 0, 0, 0 so as both the center of our universe and also the engine. Then the player will always start at 0, 0, 0, which to them will be an arbitrary starting point anyway, since the planet and star system will always look different.
+
+So then... even if the universe is infinite, then the player will still need finite time to transverse this universe, and here is perhaps where we can... well, nevermind, scratch this idea.
+
+We should probably do the redrawing the quadrants thing off some sort data structure, where the infinity takes place, and not the x, y, z coordinate system in the engine.
+
+... still needs work
+
+
+As for the planets, in each star system the planet will be at 0, 0, 0, or per 9 quadrants, the first start will be in 0, 0, 0 and the the rest will be set apart by some distance, which make sense. Let's just 100 for now, because we can simply just multiply or divide that to get the scale right.
+
+
+So Star System 1:
+
+int ID = 1
+Vector3 posStar = new Vector3(0.0, 0.0, 0.0);
+
+// the above is a given in procedural generation.
+
+Then we will want to procedurally generate the planets around this.
+
+So they will get a +, or - to the posStar.x, posStar.y, and posStar.z coordinates, since those will be in one of the quadrants.
+
+
 # Choose Color Themes by Looking at Pinterest and other PREMADE Sources
 
 Don't just choose color themes on your own. Check out the DiscordColorTheme.png in the design folder.
