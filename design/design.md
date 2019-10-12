@@ -33,6 +33,16 @@ part 1: https://www.youtube.com/watch?v=0vPVu8wLJ3o
 part 2: https://www.youtube.com/watch?v=0vPVu8wLJ3o
 
 
+Let's say for now we just generate 100 star systems.
+
+int numberOfStarSystemsToGenerate = 100; // this is essentialy a non number, because procedurally we will just be generating around the player.
+
+So what if we start there... ? Generate a quadrant of these 10 boxes.
+
+Have a method which determine which quadrant the player is at any time. Perhaps we could even teleport the player back to 0, when they in the deep space, and then fade with some sort of faster than light travel thing.
+
+For now let's just keep things very simple.
+
 So Star System 1:
 
 int ID = 1
