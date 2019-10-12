@@ -1,10 +1,13 @@
 # What about after generating a star system?
 
-If we can assume that everything GenerateNewStarSystem() does suits our need creating a singular star system, with basically the data for the planets.
+If we can assume that everything GenerateNewStarSystem() does suits our need for creating a singular star system, (with basically the data for the planets to speed up development*)
 
-We should be concerned with the data for now. Because everything will be doable. So these methods in the first iteration should be pure data methods, where all we want is the positions in Vector3 locations, and also the data behind what sort of vegetation and fauna we will be distributing.
+(*We should be concerned with the data for now. Because everything will be doable. So these methods in the first iteration should be pure data methods, where all we want is the positions in Vector3 locations, and also the data behind what sort of vegetation and fauna we will be distributing.
 
-And plus doing everything with just data for now will allow us to finish the design faster, and end up with a more elegant and robust design later.
+*And plus doing everything with just data for now will allow us to finish the design faster, and end up with a more elegant and robust design later.)
+
+
+
 
 # So we are starting on the code here
 
