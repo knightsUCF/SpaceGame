@@ -1,10 +1,6 @@
 # So we are starting on the code here
 
 
-
-
-# Code so far for procedural generation
-        
         // make new star system
 
         void GenerateNewStarSystem(Vector3 origin)
@@ -21,6 +17,8 @@ And using the helper method:
 
 
 
+# Code so far for procedural generation
+        
 
 
     class ProceduralGeneration()
