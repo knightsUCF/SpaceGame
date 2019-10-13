@@ -1,3 +1,8 @@
+# Rolling MVP = Early Release on Itch and Possible Sales
+
+https://itch.io/docs/creators/faq#what-does-itchio-give-me
+
+
 # Whatever we are doing we can accent this with an Alexandre Desplat score
 
 We can have a very pleasing score while we are fussing about in space.
