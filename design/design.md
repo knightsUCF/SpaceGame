@@ -2,6 +2,8 @@
 
 https://itch.io/docs/creators/faq#what-does-itchio-give-me
 
+"How much does itch.io cost? itch.io costs nothing to use. You are free to create pages and upload your content without ever having to pay anything. Advertisements will never be placed on any of your pages."
+
 "Because itch.io lets users download the files exactly as you uploaded them you can upload any kind of project for any kind of platform. There are no restrictions."
 
 
