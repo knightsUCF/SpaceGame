@@ -3,6 +3,10 @@
 
 Even though there may be lots of competition, this game will be unique. Built with relaxation in mind, no combat, just a relaxing experience in VR or on desktop.
 
+There will be cool tools, the player can use to scan the surface of a planet or an asteroid to make the use of that cool in VR.
+
+Lots of things considered from the perspective of VR, since this is such a brand new genre, and open for pioneering.
+
 
 # What's next?
 
