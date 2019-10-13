@@ -1,9 +1,22 @@
+# A Simple Way of Proceduraly Generating the World
+
+1) Use 10 quadrants for writing to map data, and then recreating from map data as we transverse that world
+2) Fade in from the bigger star system map, with fog, and dimming, and what not, but don't just zoom in on the planet
+
+This is the easiest method to implement.
+
+The starship flies in both of these modes, between star systems, and also on the floor of the planet, but then we speed up the starship, and in such a way as to not make the player dizzy in VR, maybe at least we will have a take off, following by dimming then when we are near the outer surfacer of the planet, in the right past the atmosphere, since we don't want to do acceleration in VR, and then perhaps in the desktop game we could use acceleration or keep the same cut scene for now.
+
+
 # Do Everything Possible to Finish the Game in Three Months
 
 * use simple square grid procedural generation for planets, we zoom in through clouds when we land, we don't actually zoom in on the whole spherical planet, instead we pull from data
 
 * at all times we are within a grid of 10 quadrants on an a x and z axis, (and then later y for height, although y will be the same for 1 surface planet plane quadrant, just different for star systems)
 
+* do simple quadrants which can be connected at flat planes, so these large quadrants, so we will add more variety over time but at least try to have something that semi works for now at least, instead of nothing
+
+* we can add variety within these big tiles, as long as there are spaces between, so we can use this in a variety of ways, first just build a super system to do this
 
 # A Pleasant Change from Regular Games
 
