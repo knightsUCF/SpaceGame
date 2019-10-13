@@ -1,3 +1,9 @@
+
+# On The Style
+
+Even though there may be lots of competition, this game will be unique. Built with relaxation in mind, no combat, just a relaxing experience in VR or on desktop.
+
+
 # What's next?
 
 After doing the 2 current procedural generation goals, what is next?
