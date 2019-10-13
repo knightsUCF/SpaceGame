@@ -5,3 +5,11 @@ I really like the big blocky form, with the middle beams built sparsely, from sp
 
 
 I also like the strangely shaped hull, with the platform things, outward indentiations to bring out the flow of the design
+
+Go through Pinterest and other reference materials, and draw a combination of what looks good:
+
+https://www.pinterest.com/pin/322429654572155036/
+
+
+I really like ss3, how clean that looks for a toy, something that has no frills, but realistic enough for an experience
+
