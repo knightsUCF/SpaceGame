@@ -6,6 +6,12 @@ https://itch.io/docs/creators/faq#what-does-itchio-give-me
 
 "Because itch.io lets users download the files exactly as you uploaded them you can upload any kind of project for any kind of platform. There are no restrictions."
 
+"Can I give some people access to my game without having them pay?
+
+Sure. You can generate what itch.io calls, “download keys”. A download key is a special URL that gives someone full access to download your game without having to buy it. This is perfect for giving out copies of your game to press or backers of a crowdfunding campaign.
+
+You can track how many times the key has been used, give the key a name to identify it, and revoke it if you think it is being abused."
+
 
 # Whatever we are doing we can accent this with an Alexandre Desplat score
 
