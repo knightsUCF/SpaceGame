@@ -1,3 +1,8 @@
+# Play Forager and Copy the Mechanics
+
+Copy the foraging gathering mechanics.
+
+
 # What We Really Need is a Custom Art Style for the Astronaut and the Machines
 
 We need a singular art style that will really set apart the game, because that is key. Go for something like out of 70s 80s science fiction. Study a ton of science fiction covers and try to pick up on some shapes to draw. Draw a lot of different stuff to pick what is best for now. 
