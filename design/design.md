@@ -1,3 +1,8 @@
+# A Cargo Bay -- A Solid Main Game Loop
+
+Better to have a really roomy cargo bay so we can almost comically transport stuff in the cargo bay with real physics. Take advantage of the physics engine here. So have things move around, and be able to have the player pack up their resources mined, and take them across the universe in hopes of completing their inventory and getting to unlock and build new structures. This is a really solid game loop.
+
+
 # A Simple Way of Proceduraly Generating the World
 
 1) Use 10 quadrants for writing to map data, and then recreating from map data as we transverse that world
