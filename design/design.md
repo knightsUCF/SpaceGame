@@ -1,3 +1,8 @@
+# Forager Similarities
+
+Forager is very similar in that the levels are minimalistic and made from more of the same, just for you to forage and improve your tools. The survival genre is huge, here we are calling out a basic human instinct. We can do this in our game in space, with low poly just like Forager minimalistic built levels.
+
+
 # Play Forager and Copy the Mechanics
 
 Copy the foraging gathering mechanics.
