@@ -2,6 +2,8 @@
 
 https://itch.io/docs/creators/faq#what-does-itchio-give-me
 
+"Because itch.io lets users download the files exactly as you uploaded them you can upload any kind of project for any kind of platform. There are no restrictions."
+
 
 # Whatever we are doing we can accent this with an Alexandre Desplat score
 
