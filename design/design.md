@@ -1,3 +1,10 @@
+# Do Everything Possible to Finish the Game in Three Months
+
+* use simple square grid procedural generation for planets, we zoom in through clouds when we land, we don't actually zoom in on the whole spherical planet, instead we pull from data
+
+* at all times we are within a grid of 10 quadrants on an a x and z axis, (and then later y for height, although y will be the same for 1 surface planet plane quadrant, just different for star systems)
+
+
 # A Pleasant Change from Regular Games
 
 There are not many games that are without combat or conflict, well there will be conflict in gathering resources, survival mode, etc, but there will be no other creatures.
