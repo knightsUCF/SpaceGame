@@ -1,3 +1,8 @@
+# Whatever we are doing we can accent this with an Alexandre Desplat score
+
+We can have a very pleasing score while we are fussing about in space.
+
+
 # Don't Forget Board Games
 
 Board games have fun mechanics, because the players on the board are moving around, taking actions, collecting resources, interacting with the game's economy, and etc. The cargo bay will be something that will mirror this board game like experience, with going across the galaxy to collect mineral elements to build structures, and just play around in space.
