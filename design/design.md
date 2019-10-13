@@ -1,3 +1,8 @@
+# Rolling MVP On Itch
+
+We could have a rolling MVP on Itch where the game is in Beta or Alpha. 1.2
+
+
 # Demo on Itch
 
 If Itch is open to stuff, we definitely should have a free demo for all the VR people to try. So anytime we would post on a VR subreddit, we could invite everyone to try the game. 
