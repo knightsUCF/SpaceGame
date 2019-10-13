@@ -2,6 +2,8 @@
 
 We could have a rolling MVP on Itch where the game is in Beta or Alpha. 1.2
 
+And in the description page we could say, this game is in the early stage, please join discord to be updated of progress, and where to sign up on email also.
+
 
 # Demo on Itch
 
