@@ -11,6 +11,16 @@ If Itch is open to stuff, we definitely should have a free demo for all the VR p
 
 The Forager developer said his demo was downloaded 300,000 times.
 
+The Forager demo is free but the developer asks to pay
+
+So we need some pleasant demo restriction, like perhaps only showing one level type or 1 star system.
+
+1 star system would be fine. We wouldn't be able to unlock minerals from other star systems to unlock building everything in the inventory, so that would be the limitation in the demo version, so you can't just own everything for free.
+
+And even for the demo we should ask to pay something.
+
+We could release that rather soon if the game was just the price of a demo...
+
 
 # Rolling MVP = Early Release on Itch and Possible Sales
 
