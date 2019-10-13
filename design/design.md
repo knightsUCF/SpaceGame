@@ -1,3 +1,8 @@
+# Main Effort
+
+So the main effort will come from modeling these unlockable structures in Blender. Everything else is rather straighforward in terms of game design.
+
+
 # A Cargo Bay -- A Solid Main Game Loop
 
 Better to have a really roomy cargo bay so we can almost comically transport stuff in the cargo bay with real physics. Take advantage of the physics engine here. So have things move around, and be able to have the player pack up their resources mined, and take them across the universe in hopes of completing their inventory and getting to unlock and build new structures. This is a really solid game loop.
