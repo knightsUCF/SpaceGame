@@ -1,3 +1,12 @@
+# A Pleasant Change from Regular Games
+
+There are not many games that are without combat or conflict, well there will be conflict in gathering resources, survival mode, etc, but there will be no other creatures.
+
+
+# A Nice Darkly Lit Level
+
+A level with something like the fireflies from Avatar. Some sort of cricket sound, chirped process stuff. Maybe even use Reaktor to combine sounds.
+
 
 # On The Style
 
