@@ -1,3 +1,9 @@
+# What We Really Need is a Custom Art Style for the Astronaut and the Machines
+
+We need a singular art style that will really set apart the game, because that is key. Go for something like out of 70s 80s science fiction. Study a ton of science fiction covers and try to pick up on some shapes to draw. Draw a lot of different stuff to pick what is best for now. 
+
+Especially some cool rovers, even ones inspired by Lego, with large tires. That would look cool in VR. Anything that is large and gives a sense of perspective, or accentuate the 3D aspect. 
+
 # Rolling MVP On Itch
 
 We could have a rolling MVP on Itch where the game is in Beta or Alpha. 1.2
