@@ -1,3 +1,48 @@
+# New Simple Procedural Generation Code
+
+
+
+        bool conditions = true;
+
+        // we need a dictionary, look up old code
+
+        // takes care of our procedural world
+
+
+        class QuadrantGrid()
+        {
+
+
+
+
+            // check player's position in relation to the quadrant grid
+
+            void OnLeftCenter()
+            {
+                if (conditions) GenerateNewQuadrantGrid();
+            }
+
+
+            void GenerateNewQuadrantGrid()
+            {
+
+            }
+
+
+
+            // check if player left the center of the quadrant grid, and make new grid
+
+            void Update()
+            {
+                OnLeftCenter();
+            }
+
+
+        }
+
+
+
+
 # On Learning Blender
 
 Blender will take a long time to learn, so start with simple prototypes, just to get that into the game and not waste any time.
