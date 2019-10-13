@@ -2,7 +2,7 @@
 
 Blender will take a long time to learn, so start with simple prototypes, just to get that into the game and not waste any time.
 
-We can always improve, and our model will likely change over time, and this way of working gives us more time also.
+We can always improve, and our model will likely change over time, and this way of working gives us more time also to learn Blender.
 
 
 # Generating the 9 Grid World
