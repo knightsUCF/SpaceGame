@@ -13,6 +13,6 @@ https://www.pinterest.com/pin/322429654572155036/
 
 I really like ss3, how clean that looks for a toy, something that has no frills, but realistic enough for an experience
 
-Study space ship / space stations scaffolding railing, choose something really coolf or that. 
+Study space ship / space stations scaffolding railing, choose something really cool.
 
 Will look great in VR and deep space.
