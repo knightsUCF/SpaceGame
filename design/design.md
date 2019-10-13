@@ -34,7 +34,35 @@ if (playerLeftCentralQuadrant) GenerateQuadrants();
 
 Also make sure the player doesn't sink through we generate a new quadrant, so either we will not generate the quadrant they are on, since that one will already be pregenerated and just generate the ones around them
 
+The way we can solve this problem is we can look everything up by coordinates, granted we are just concerned with one world at a time, so this would be a different dictionary key, even a different key we could procedurally generate on the fly.
 
+So the simplest solution is just to create coordinates, and then look those coordinates up as a key in the dictionary to get the world data, and then we would have a mechanism which uses brute force to shift all the positioins in the tiles.
+
+So:
+
+float offset = 10.0f; // the dimensions of the side of a box quadrant
+
+Movement
+
+[1][2][3]
+
+[4][5][6]
+
+[7][8][9]
+
+Condition 1
+
+Moving up from 5 to 2
+
+Subtract 10.0f to the z components of 4, 5, 6, and 1, 2, 3, (2 being the new center) and then procedurally generate the new top row, checking if these elements already exist (we could have just one corner exist), if so then load them. So before generating new map data, always first check if that map data already exists.
+
+So we will want to run a demo with a text mesh nicely visible for each block component.
+
+So a quadrant (a block component) will be a prefab with a text mesh of the coordinates, and possibly the number in the grid
+
+We will want different colors so we can tell how we are moving.
+
+Just build out the prototype slowly, focusing on basic functionality working.
 
 # Steam Page in "About" Section lots of GIF Game Juice
 
