@@ -4,6 +4,8 @@ Blender will take a long time to learn, so start with simple prototypes, just to
 
 We can always improve, and our model will likely change over time, and this way of working gives us more time also to learn Blender.
 
+Start with some simple low poly tutorials. Go from zero, that way is the easiest.
+
 
 # Generating the 9 Grid World
 
