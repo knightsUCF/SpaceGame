@@ -18,7 +18,7 @@ Start with some simple low poly tutorials. Go from zero, that way is the easiest
 
 Have separate methods for each one, which will contain the relative coordinates if we get confused:
 
-if (playerLeftCentralQuadrant) GenerateQuadrants();
+if (playerLeftCentralQuadrant) GenerateQuadrantSet();
 
         void GenerateQuadrants()
         {
