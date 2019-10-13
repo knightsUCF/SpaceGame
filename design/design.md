@@ -1,3 +1,39 @@
+# Generating the 9 Grid World
+
+
+[1][2][3]
+[4][5][6]
+[7][8][9]
+
+Have separate methods for each one, which will contain the relative coordinates if we get confused:
+
+if (playerLeftCentralQuadrant) GenerateQuadrants();
+
+        void GenerateQuadrants()
+        {
+                // also add to map
+                
+                GenerateQuadrant1();
+                GenerateQuadrant2();
+                GenerateQuadrant3();
+                GenerateQuadrant4();
+                GenerateQuadrant5();
+                GenerateQuadrant6();
+                GenerateQuadrant7();
+                GenerateQuadrant8();
+                GenerateQuadrant9();
+        }
+        
+ void GenerateQuadrant1()
+ {
+        // first search by position if this quadrant exists in the data map, if so load / restore the data instead of generating new data
+ 
+ }
+
+Also make sure the player doesn't sink through we generate a new quadrant, so either we will not generate the quadrant they are on, since that one will already be pregenerated and just generate the ones around them
+
+
+
 # Steam Page in "About" Section lots of GIF Game Juice
 
 https://store.steampowered.com/app/751780/Forager/
