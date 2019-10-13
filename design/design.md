@@ -12,6 +12,10 @@ Sure. You can generate what itch.io calls, “download keys”. A download key i
 
 You can track how many times the key has been used, give the key a name to identify it, and revoke it if you think it is being abused."
 
+"Is adult content allowed?
+
+There are no restrictions for the kind of content you can host on itch.io (assuming it’s legal)."
+
 
 # Whatever we are doing we can accent this with an Alexandre Desplat score
 
