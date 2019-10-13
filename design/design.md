@@ -24,6 +24,18 @@ if (playerLeftCentralQuadrant) GenerateQuadrantSet();
         {
                 // also add to map
                 
+                // later this will be a general GenerateQuadrant() method, well we could design the params now, and do:
+                
+                // first quadrant
+                
+                GenerateQuadrant(<pos data>);
+                
+                // second quadrant
+                
+                GenerateQuadrant(<pos data>); 
+                
+                // and so on
+                
                 GenerateQuadrant1();
                 GenerateQuadrant2();
                 GenerateQuadrant3();
@@ -33,6 +45,8 @@ if (playerLeftCentralQuadrant) GenerateQuadrantSet();
                 GenerateQuadrant7();
                 GenerateQuadrant8();
                 GenerateQuadrant9();
+                
+                
         }
         
  void GenerateQuadrant1()
