@@ -12,19 +12,16 @@ public class GenerateStarSystem : MonoBehaviour
 
 	public GameObject starGO;
 
-	public GameObject planet1GO;
-	public GameObject planet2GO;
-  
+    public GameObject[] planets;
 
-	public Vector3 center = Vector3.zero;
+
+    public Vector3 center = Vector3.zero;
 
    
 
 
     void Start()
 	{
-		// generate a star system
-
 		GenerateAStarSystem();
 	}
 
@@ -35,13 +32,6 @@ public class GenerateStarSystem : MonoBehaviour
 		GenerateStar();
 		GeneratePlanets();
 	}
-
-
-
-	// now pick a randomized position out of a range
-    // get random from range:
-	// Random.Range(-10.0f, 10.0f)
-
 
 
 
@@ -62,9 +52,16 @@ public class GenerateStarSystem : MonoBehaviour
                         float maxZRange)
 	{
 		Vector3 position = new Vector3(Random.Range(minXRange, maxXRange), Random.Range(minYRange, maxYRange), Random.Range(minZRange, maxZRange));
-		GameObject planet = Instantiate(planet1GO, position, Quaternion.identity, this.transform);
+		GameObject planet = Instantiate(planets[Random.Range(0, planets.Length)], position, Quaternion.identity, this.transform);
 	}
 
+
+
+    /*
+     *
+     * index = Random.Range (0, spawnPoints.Length);
+         currentPoint = spawnPoints[index];
+         */
 
 
     void GeneratePlanets()
@@ -87,5 +84,10 @@ public class GenerateStarSystem : MonoBehaviour
 					   -200.0f, 200.0f,
 					   -200.0f, 200.0f);
 
-	}
+        // and another!
+
+        GeneratePlanet(-200.0f, 200.0f,
+                       -200.0f, 200.0f,
+                       -200.0f, 200.0f);
+    }
 }
