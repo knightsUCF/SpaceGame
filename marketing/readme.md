@@ -1,3 +1,17 @@
+# Going Viral on itch.io according to cretor
+
+
+leafoAdmin1 year ago(+1)
+
+Going viral is generally about getting picked up by someone who has the audience to spread your game to a large number of people. The first thing you must do is build something with gameplay that has the potential to be viral. This can be explicitly done, but it can also be pure luck. Eg. a streamer or influencer just does something with your game that people find funny or interesting. Before you launch your game, make sure you've build the game you want to launch! If you plan for streamers to play your game then you might want to spend some more time adding features that you think they will enjoy sharing, like anything that uses audience feedback. Maybe you can name the items in your game and a streamer can ask the audience for names. 
+
+Assuming you've built the right kind of game, the next step is getting people to find it. A lot of people come to itch.io to find games to stream, and making your game stand out here can definitely help, so I'll give you some tips for maximizing distribution here:
+
+The first week matters a lot. Your global ranking is a lot more sensitive the first week after you launch your game. Drive traffic to your project page as soon as you publish it to help it climb in ranking. If you can break the top games list then you're more likely to get even more traffic to keep your game up there. Share your game on twitter/facebook/reddit etc.
+Tag your game correctly. The more accurately you tag your game the more places your game can show up on itch.io. A lot of people come to itch.io through tag pages via search or just by browsing around. If they click into your game then they can help raise your game's total popularity, thus boosting your chance of making it to some of the higher traffic pages where a potential streamer might find your game. (Streamers also dig through these more niche categories as well)
+Make your game page engaging. A cool part (or maybe an annoying part) about itch.io is that the project pages start as basic templates that you are free to customize. If you build an interesting page then you're more likely to get someone to invest the time to download and play your game. Although we've seen hits with the default page, I can't say that helped! If you have the time then it's wroth boosting your chances by making your page look good.
+
+
 # LOCALIZING INTO CHINESE
 
 * localizing into simplified Chinese is very helpful, since the Chinese Steam page only shows translated games
