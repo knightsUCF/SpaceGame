@@ -17,6 +17,10 @@ public class GenerateStarSystem : MonoBehaviour
 
     public Vector3 center = Vector3.zero;
 
+    public float universeRadius = 100.0f;
+
+    public int numberOfPlanets = 10;
+
    
 
 
@@ -57,37 +61,17 @@ public class GenerateStarSystem : MonoBehaviour
 
 
 
-    /*
-     *
-     * index = Random.Range (0, spawnPoints.Length);
-         currentPoint = spawnPoints[index];
-         */
-
 
     void GeneratePlanets()
 	{
-		// generate a planet within a cubic area of 400 width
+        for (int i = 0; i < numberOfPlanets; i++)
+        {
 
-		GeneratePlanet(-200.0f, 200.0f,
-					   -200.0f, 200.0f,
-					   -200.0f, 200.0f);
+            // geneate a planet within a cubic radius
 
-		// generate one more planet
-
-		GeneratePlanet(-200.0f, 200.0f,
-					   -200.0f, 200.0f,
-					   -200.0f, 200.0f);
-
-		// and another!
-
-		GeneratePlanet(-200.0f, 200.0f,
-					   -200.0f, 200.0f,
-					   -200.0f, 200.0f);
-
-        // and another!
-
-        GeneratePlanet(-200.0f, 200.0f,
-                       -200.0f, 200.0f,
-                       -200.0f, 200.0f);
+            GeneratePlanet(-universeRadius, universeRadius,
+                       -universeRadius, universeRadius,
+                       -universeRadius, universeRadius);
+        }
     }
 }
