@@ -1,4 +1,4 @@
-# Going Viral on itch.io according to cretor
+# Going Viral on itch.io according to creator
 
 
 leafoAdmin1 year ago(+1)
