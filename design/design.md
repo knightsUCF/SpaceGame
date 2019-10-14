@@ -1,3 +1,8 @@
+# Simple Thing, which would Make the Game Fun
+
+* Rogue procedural generation of resources, every time the terrain changes, and the resource placement changes
+
+
 # New Simple Procedural Generation Code
 
 
