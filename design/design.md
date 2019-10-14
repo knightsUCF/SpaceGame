@@ -1,3 +1,8 @@
+# We Can Go for a Low Poly Look On the Universe in the Beginning
+
+https://sketchfab.com/3d-models/space-exploration-wlp-series-8-91964c1ce1a34c3985b6257441efa500
+
+
 # Simple Thing, which would Make the Game Fun
 
 * Rogue procedural generation of resources, every time the terrain changes, and the resource placement changes
